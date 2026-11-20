@@ -1,0 +1,37 @@
+name: Watch for new posts
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes (GitHub sometimes runs these a few minutes late)
+  workflow_dispatch:         # lets you start a check by hand from the Actions tab
+
+permissions:
+  contents: write            # needed to save seen.json back to the repo
+
+concurrency:
+  group: post-watcher
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check sources
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python watcher.py
+
+      - name: Save what was seen
+        run: |
+          git config user.name "post-watcher"
+          git config user.email "post-watcher@users.noreply.github.com"
+          git add seen.json
+          git diff --cached --quiet || (git commit -m "Update seen posts" && git push)
