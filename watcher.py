@@ -5,6 +5,7 @@ Runs from GitHub Actions (started every ~5 minutes). Uses only the Python standa
 Settings come from repository secrets (see README):
   NTFY_TOPIC       your private ntfy topic name (required)
   SEC_USER_AGENT   "Your Name your@email.com"; the SEC asks automated tools to identify themselves
+  YOUTUBE_API_KEY  optional free YouTube Data API key; turns on the YouTube keyword search below
   CONGRESS_API_KEY optional free key from api.congress.gov; makes Congressional Record alerts
                    as fast as congress.gov (without it, GovInfo is used, which runs ~2 days behind)
 
@@ -19,14 +20,30 @@ import re
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.parse import urljoin, urlsplit
+from urllib.parse import urlencode, urljoin, urlsplit
 
 SEEN_FILE = Path(__file__).with_name("seen.json")
 META_KEY = "__meta__"
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
 CONGRESS_API_KEY = os.environ.get("CONGRESS_API_KEY", "").strip()
+YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
+
+# ---- YouTube keyword search ------------------------------------------------------------
+# New YouTube videos whose title, description or tags match any of these words or phrases.
+# Edit this list freely (up to ~30). All words are searched together in ONE search, so more
+# words don't cost more. The free key allows about 100 searches a day, so the search runs
+# at most every 15 minutes (96 a day), even though the watcher itself runs every 5.
+YT_KEYWORDS = [
+    "memecoin",
+    "coin",
+    "shitcoin",
+    "mascot",
+    "intelligence",
+]
+YT_EVERY_MINUTES = 15
+YT_KEEP_DAYS = 3  # how long video ids are remembered (keeps seen.json small)
 SEC_UA = os.environ.get("SEC_USER_AGENT", "").strip() or "post-watcher contact@example.com"
 BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/124.0 Safari/537.36 post-watcher/1.1")
@@ -228,6 +245,74 @@ def parse_crec_govinfo(body):
     return [crec_item(d, url=f"https://www.govinfo.gov/app/details/CREC-{d}") for d in sorted(ids)]
 
 
+def youtube_check(seen, meta, now_dt):
+    """Search YouTube for new videos matching YT_KEYWORDS. Returns an error message or None."""
+    if not YOUTUBE_API_KEY or not YT_KEYWORDS:
+        return None
+    last = meta.get("yt_last")
+    last_dt = datetime.fromisoformat(last) if last else None
+    if last_dt and now_dt - last_dt < timedelta(minutes=YT_EVERY_MINUTES - 0.5):
+        return None  # not due yet; protects the daily allowance
+
+    terms = [f'"{k}"' if " " in k else k for k in YT_KEYWORDS]
+    since = (last_dt - timedelta(minutes=5)) if last_dt else now_dt - timedelta(minutes=YT_EVERY_MINUTES + 5)
+    params = urlencode({
+        "part": "snippet", "type": "video", "order": "date", "maxResults": 50,
+        "q": "|".join(terms),  # "|" means OR in YouTube search
+        "publishedAfter": since.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "key": YOUTUBE_API_KEY,
+    })
+    try:
+        data = json.loads(fetch(f"https://www.googleapis.com/youtube/v3/search?{params}"))
+    except Exception as exc:
+        return str(exc).replace(YOUTUBE_API_KEY, "***")
+    meta["yt_last"] = now_dt.isoformat(timespec="seconds")
+
+    videos = []
+    for item in data.get("items", []):
+        vid = (item.get("id") or {}).get("videoId")
+        sn = item.get("snippet") or {}
+        if not vid:
+            continue
+        title = clean(sn.get("title", ""))
+        text = f"{title} {clean(sn.get('description', ''))}".lower()
+        hits = [k for k in YT_KEYWORDS if k.lower() in text]
+        videos.append({"id": f"yt:{vid}", "title": title, "channel": clean(sn.get("channelTitle", "")),
+                       "url": f"https://www.youtube.com/watch?v={vid}", "hits": hits})
+
+    now = now_dt.isoformat(timespec="seconds")
+    new = [v for v in videos if v["id"] not in seen]
+    for v in new:
+        seen[v["id"]] = {"title": v["title"], "source": "youtube", "first_seen": now}
+
+    if not meta.get("yt_started"):
+        meta["yt_started"] = True
+        notify("Now watching: YouTube keywords",
+               f"Searching every {YT_EVERY_MINUTES} min for: {', '.join(YT_KEYWORDS)}. "
+               "You'll get one summary ping per check that finds new videos.", tags="white_check_mark")
+    elif len(new) == 1:
+        v = new[0]
+        tag = f" [{', '.join(v['hits'])}]" if v["hits"] else ""
+        notify("NEW YouTube video", f"{v['title']} ({v['channel']}){tag}", click=v["url"])
+    elif new:
+        lines = []
+        for v in new[:15]:
+            tag = f" [{', '.join(v['hits'])}]" if v["hits"] else ""
+            lines.append(f"• {v['title']} ({v['channel']}){tag}\n{v['url']}")
+        if len(new) > 15:
+            lines.append(f"…and {len(new) - 15} more")
+        more = " (50+ matched; some may be missed)" if len(videos) >= 50 else ""
+        notify(f"{len(new)} new YouTube videos{more}", "\n".join(lines))
+    print(f"youtube: {len(videos)} results, {len(new)} new")
+
+    # forget old video ids so seen.json doesn't keep growing
+    cutoff = now_dt - timedelta(days=YT_KEEP_DAYS)
+    for k in [k for k, v in seen.items() if k.startswith("yt:")
+              and datetime.fromisoformat(v.get("first_seen", now)) < cutoff]:
+        del seen[k]
+    return None
+
+
 def notify(title, message, click=None, tags="green_circle"):
     payload = {"topic": NTFY_TOPIC, "title": title, "message": message, "tags": [tags]}
     if click:
@@ -247,6 +332,7 @@ def main():
     for k in [k for k in seen if "govinfo.gov/app/details/CREC-" in k]:
         seen[k.rsplit("/", 1)[-1]] = seen.pop(k)
     seeded = set(meta.get("seeded", [])) | {v.get("source") for v in seen.values() if isinstance(v, dict)}
+    seeded.discard("youtube")  # YouTube is handled separately below
     warned = set(meta.get("warned", []))
 
     found, ok_keys, failing, labels = collect()
@@ -275,7 +361,16 @@ def main():
         seen[k] = {"title": it["title"], "source": it["source"], "first_seen": now}
         print("NEW", k)
 
-    # 3. one-time heads-up when a source can't be read (cleared once it works again)
+    # 3. YouTube keyword search (only when a key is set and a check is due)
+    labels["youtube"] = "YouTube keyword search"
+    yt_error = youtube_check(seen, meta, datetime.now(timezone.utc))
+    if yt_error:
+        print("WARN youtube:", yt_error)
+        failing["youtube"] = [yt_error]
+    elif YOUTUBE_API_KEY and meta.get("yt_last"):
+        ok_keys.add("youtube")
+
+    # 4. one-time heads-up when a source can't be read (cleared once it works again)
     for key in failing:
         if key not in warned:
             notify(f"Can't read: {labels[key]}",
@@ -284,7 +379,7 @@ def main():
             warned.add(key)
     warned -= ok_keys
 
-    seen[META_KEY] = {"seeded": sorted(seeded), "warned": sorted(warned)}
+    seen[META_KEY] = {**meta, "seeded": sorted(seeded), "warned": sorted(warned)}
     SEEN_FILE.write_text(json.dumps(seen, indent=1, sort_keys=True) + "\n")
     print(f"checked {len(found)} items, {len(new)} new, {len(new_sources)} sources added, "
           f"{len(failing)} sources failing")
