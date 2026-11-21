@@ -37,7 +37,6 @@ YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
 # at most every 15 minutes (96 a day), even though the watcher itself runs every 5.
 YT_KEYWORDS = [
     "memecoin",
-    "coin",
     "shitcoin",
     "mascot",
     "intelligence",
@@ -292,17 +291,18 @@ def youtube_check(seen, meta, now_dt):
                "You'll get one summary ping per check that finds new videos.", tags="white_check_mark")
     elif len(new) == 1:
         v = new[0]
-        tag = f" [{', '.join(v['hits'])}]" if v["hits"] else ""
-        notify("NEW YouTube video", f"{v['title']} ({v['channel']}){tag}", click=v["url"])
+        tag = f" — matched: **{', '.join(v['hits'])}**" if v["hits"] else ""
+        notify("NEW YouTube video", f"{highlight(v['title'], v['hits'])} ({v['channel']}){tag}",
+               click=v["url"], markdown=True)
     elif new:
         lines = []
         for v in new[:15]:
-            tag = f" [{', '.join(v['hits'])}]" if v["hits"] else ""
-            lines.append(f"• {v['title']} ({v['channel']}){tag}\n{v['url']}")
+            tag = f" — matched: **{', '.join(v['hits'])}**" if v["hits"] else ""
+            lines.append(f"• {highlight(v['title'], v['hits'])} ({v['channel']}){tag}\n{v['url']}")
         if len(new) > 15:
             lines.append(f"…and {len(new) - 15} more")
         more = " (50+ matched; some may be missed)" if len(videos) >= 50 else ""
-        notify(f"{len(new)} new YouTube videos{more}", "\n".join(lines))
+        notify(f"{len(new)} new YouTube videos{more}", "\n\n".join(lines), markdown=True)
     print(f"youtube: {len(videos)} results, {len(new)} new")
 
     # forget old video ids so seen.json doesn't keep growing
@@ -313,8 +313,17 @@ def youtube_check(seen, meta, now_dt):
     return None
 
 
-def notify(title, message, click=None, tags="green_circle"):
+def highlight(text, words):
+    """Bold the matched keywords in text (shown in bold by ntfy's markdown)."""
+    for w in sorted(words, key=len, reverse=True):
+        text = re.sub(f"(?i)(?<!\\*)({re.escape(w)})", r"**\1**", text)
+    return text
+
+
+def notify(title, message, click=None, tags="green_circle", markdown=False):
     payload = {"topic": NTFY_TOPIC, "title": title, "message": message, "tags": [tags]}
+    if markdown:
+        payload["markdown"] = True
     if click:
         payload["click"] = click
     req = urllib.request.Request("https://ntfy.sh/", data=json.dumps(payload).encode("utf-8"),
