@@ -120,7 +120,8 @@ def post_url(url, host, path):
         return None
     slug = parts.path[len(path):].strip("/")
     # one-segment slugs only: skips the index page, pagination, categories, team pages
-    if not slug or "/" in slug or slug.isdigit() or slug in {"page", "category", "tag", "feed", "team"}:
+    if (not slug or "/" in slug or slug.isdigit() or slug.endswith("archive") or slug.endswith("archives")
+            or slug in {"page", "category", "tag", "feed", "team"}):
         return None
     return f"{parts.scheme}://{parts.netloc}{parts.path}"
 
