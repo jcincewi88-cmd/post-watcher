@@ -1019,6 +1019,8 @@
    "anthropic",
    "anthropic-news",
    "crec",
+   "karpathy-blog",
+   "karpathy-github",
    "neuralink",
    "nvidia",
    "openai",
@@ -1027,8 +1029,59 @@
    "xai"
   ],
   "warned": [
+   "karpathy-gist",
    "usmint"
   ]
+ },
+ "http://karpathy.github.io/2015/11/14/ai/": {
+  "first_seen": "2026-11-21T02:20:18+00:00",
+  "source": "karpathy-blog",
+  "title": "Short Story on AI: A Cognitive Discontinuity."
+ },
+ "http://karpathy.github.io/2016/05/31/rl/": {
+  "first_seen": "2026-11-21T02:20:18+00:00",
+  "source": "karpathy-blog",
+  "title": "Deep Reinforcement Learning: Pong from Pixels"
+ },
+ "http://karpathy.github.io/2016/09/07/phd/": {
+  "first_seen": "2026-11-21T02:20:18+00:00",
+  "source": "karpathy-blog",
+  "title": "A Survival Guide to a PhD"
+ },
+ "http://karpathy.github.io/2018/01/20/medium/": {
+  "first_seen": "2026-11-21T02:20:18+00:00",
+  "source": "karpathy-blog",
+  "title": "(started posting on Medium instead)"
+ },
+ "http://karpathy.github.io/2019/04/25/recipe/": {
+  "first_seen": "2026-11-21T02:20:18+00:00",
+  "source": "karpathy-blog",
+  "title": "A Recipe for Training Neural Networks"
+ },
+ "http://karpathy.github.io/2020/06/11/biohacking-lite/": {
+  "first_seen": "2026-11-21T02:20:18+00:00",
+  "source": "karpathy-blog",
+  "title": "Biohacking Lite"
+ },
+ "http://karpathy.github.io/2021/03/27/forward-pass/": {
+  "first_seen": "2026-11-21T02:20:18+00:00",
+  "source": "karpathy-blog",
+  "title": "Short Story on AI: Forward Pass"
+ },
+ "http://karpathy.github.io/2021/06/21/blockchain/": {
+  "first_seen": "2026-11-21T02:20:18+00:00",
+  "source": "karpathy-blog",
+  "title": "A from-scratch tour of Bitcoin in Python"
+ },
+ "http://karpathy.github.io/2022/03/14/lecun1989/": {
+  "first_seen": "2026-11-21T02:20:18+00:00",
+  "source": "karpathy-blog",
+  "title": "Deep Neural Nets: 33 years ago and 33 years from now"
+ },
+ "http://karpathy.github.io/2026/02/12/microgpt/": {
+  "first_seen": "2026-11-21T02:20:18+00:00",
+  "source": "karpathy-blog",
+  "title": "microgpt"
  },
  "https://blogs.nvidia.com/blog/20-years-cuda/": {
   "first_seen": "2026-11-21T00:05:17+00:00",
