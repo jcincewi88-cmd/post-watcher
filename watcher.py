@@ -35,12 +35,8 @@ YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
 # Edit this list freely (up to ~30). All words are searched together in ONE search, so more
 # words don't cost more. The free key allows about 100 searches a day, so the search runs
 # at most every 15 minutes (96 a day), even though the watcher itself runs every 5.
-YT_KEYWORDS = [
-    "memecoin",
-    "shitcoin",
-    "mascot",
-    "intelligence",
-]
+# Turned off at your request: an empty list means no YouTube searches are made.
+YT_KEYWORDS = []
 YT_EVERY_MINUTES = 15
 YT_KEEP_DAYS = 3  # how long video ids are remembered (keeps seen.json small)
 SEC_UA = os.environ.get("SEC_USER_AGENT", "").strip() or "post-watcher contact@example.com"
