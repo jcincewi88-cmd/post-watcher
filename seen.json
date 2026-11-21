@@ -1020,6 +1020,7 @@
    "anthropic-news",
    "crec",
    "karpathy-blog",
+   "karpathy-gist",
    "karpathy-github",
    "neuralink",
    "nvidia",
@@ -1029,7 +1030,6 @@
    "xai"
   ],
   "warned": [
-   "karpathy-gist",
    "usmint"
   ]
  },
@@ -1172,6 +1172,71 @@
   "first_seen": "2026-11-21T00:05:17+00:00",
   "source": "nvidia",
   "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing"
+ },
+ "https://gist.github.com/karpathy/00103b0037c5aaea32fe1da1af553355": {
+  "first_seen": "2026-11-21T02:35:16+00:00",
+  "source": "karpathy-gist",
+  "title": "hacky stablediffusion code for generating videos"
+ },
+ "https://gist.github.com/karpathy/1dd0294ef9567971c1e4348a90d69285": {
+  "first_seen": "2026-11-21T02:35:16+00:00",
+  "source": "karpathy-gist",
+  "title": "Git Commit Message AI"
+ },
+ "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f": {
+  "first_seen": "2026-11-21T02:35:16+00:00",
+  "source": "karpathy-gist",
+  "title": "llm-wiki"
+ },
+ "https://gist.github.com/karpathy/587454dc0146a6ae21fc": {
+  "first_seen": "2026-11-21T02:35:16+00:00",
+  "source": "karpathy-gist",
+  "title": "An efficient, batched LSTM."
+ },
+ "https://gist.github.com/karpathy/77fbb6a8dac5395f1b73e7a89300318d": {
+  "first_seen": "2026-11-21T02:35:16+00:00",
+  "source": "karpathy-gist",
+  "title": "Natural Evolution Strategies (NES) toy example that optimizes a quadratic function"
+ },
+ "https://gist.github.com/karpathy/7bae8033dcf5ca2630ba": {
+  "first_seen": "2026-11-21T02:35:16+00:00",
+  "source": "karpathy-gist",
+  "title": "Efficient LSTM cell in Torch"
+ },
+ "https://gist.github.com/karpathy/8627fe009c40f57531cb18360106ce95": {
+  "first_seen": "2026-11-21T02:35:16+00:00",
+  "source": "karpathy-gist",
+  "title": "microgpt"
+ },
+ "https://gist.github.com/karpathy/88701557e59199f16045": {
+  "first_seen": "2026-11-21T02:35:16+00:00",
+  "source": "karpathy-gist",
+  "title": "Google slides in present form shows the next slide, but it is tiny and very difficult to see. This CSS hacks it so that the next slide is large."
+ },
+ "https://gist.github.com/karpathy/a4166c7fe253700972fcbc77e4ea32c5": {
+  "first_seen": "2026-11-21T02:35:16+00:00",
+  "source": "karpathy-gist",
+  "title": "Training a Neural Network ATARI Pong agent with Policy Gradients from raw pixels"
+ },
+ "https://gist.github.com/karpathy/d4dee566867f8291f086": {
+  "first_seen": "2026-11-21T02:35:16+00:00",
+  "source": "karpathy-gist",
+  "title": "Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python/numpy"
+ },
+ "https://gist.github.com/karpathy/e5d58e83d9fb6ce0827f0f66b253e6fe": {
+  "first_seen": "2026-11-21T02:35:16+00:00",
+  "source": "karpathy-gist",
+  "title": "pytorch strangeness"
+ },
+ "https://gist.github.com/karpathy/f3ee599538ff78e1bbe9": {
+  "first_seen": "2026-11-21T02:35:16+00:00",
+  "source": "karpathy-gist",
+  "title": "Batched L2 Normalization Layer for Torch nn package"
+ },
+ "https://gist.github.com/karpathy/fb64880bf1f99d58d6c759c966616922": {
+  "first_seen": "2026-11-21T02:35:16+00:00",
+  "source": "karpathy-gist",
+  "title": "HELLO.md , written by Claude Opus 4.6 when asked to be free in a directory on my computer"
  },
  "https://neuralink.com/updates/72-hour-voice-hackathon/": {
   "first_seen": "2026-11-21T00:05:17+00:00",
