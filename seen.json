@@ -1,4 +1,1285 @@
 {
+ "CREC-1996-07-10": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 10, 1996"
+ },
+ "CREC-2017-12-01": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Dec 1, 2017"
+ },
+ "CREC-2019-05-23": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 23, 2019"
+ },
+ "CREC-2021-03-05": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 5, 2021"
+ },
+ "CREC-2025-04-02": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 2, 2025"
+ },
+ "CREC-2025-04-03": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 3, 2025"
+ },
+ "CREC-2025-04-07": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 7, 2025"
+ },
+ "CREC-2025-04-08": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 8, 2025"
+ },
+ "CREC-2025-04-09": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 9, 2025"
+ },
+ "CREC-2025-04-28": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 28, 2025"
+ },
+ "CREC-2025-04-29": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 29, 2025"
+ },
+ "CREC-2025-04-30": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 30, 2025"
+ },
+ "CREC-2025-05-01": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 1, 2025"
+ },
+ "CREC-2025-05-05": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 5, 2025"
+ },
+ "CREC-2025-05-08": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 8, 2025"
+ },
+ "CREC-2025-05-15": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 15, 2025"
+ },
+ "CREC-2025-05-20": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 20, 2025"
+ },
+ "CREC-2025-05-21": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 21, 2025"
+ },
+ "CREC-2025-05-22": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 22, 2025"
+ },
+ "CREC-2025-06-02": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 2, 2025"
+ },
+ "CREC-2025-06-03": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 3, 2025"
+ },
+ "CREC-2025-06-11": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 11, 2025"
+ },
+ "CREC-2025-06-17": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 17, 2025"
+ },
+ "CREC-2025-06-23": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 23, 2025"
+ },
+ "CREC-2025-06-25": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 25, 2025"
+ },
+ "CREC-2025-06-26": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 26, 2025"
+ },
+ "CREC-2025-06-28": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 28, 2025"
+ },
+ "CREC-2025-06-30": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 30, 2025"
+ },
+ "CREC-2025-11-20": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Nov 20, 2025"
+ },
+ "CREC-2025-12-30": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Dec 30, 2025"
+ },
+ "CREC-2026-01-02": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 2, 2026"
+ },
+ "CREC-2026-01-05": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 5, 2026"
+ },
+ "CREC-2026-01-06": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 6, 2026"
+ },
+ "CREC-2026-01-07": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 7, 2026"
+ },
+ "CREC-2026-01-08": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 8, 2026"
+ },
+ "CREC-2026-01-09": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 9, 2026"
+ },
+ "CREC-2026-01-12": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 12, 2026"
+ },
+ "CREC-2026-01-13": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 13, 2026"
+ },
+ "CREC-2026-01-14": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 14, 2026"
+ },
+ "CREC-2026-01-15": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 15, 2026"
+ },
+ "CREC-2026-01-16": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 16, 2026"
+ },
+ "CREC-2026-01-20": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 20, 2026"
+ },
+ "CREC-2026-01-21": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 21, 2026"
+ },
+ "CREC-2026-01-22": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 22, 2026"
+ },
+ "CREC-2026-01-23": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 23, 2026"
+ },
+ "CREC-2026-01-26": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 26, 2026"
+ },
+ "CREC-2026-01-27": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 27, 2026"
+ },
+ "CREC-2026-01-28": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 28, 2026"
+ },
+ "CREC-2026-01-29": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 29, 2026"
+ },
+ "CREC-2026-01-30": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jan 30, 2026"
+ },
+ "CREC-2026-02-02": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 2, 2026"
+ },
+ "CREC-2026-02-03": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 3, 2026"
+ },
+ "CREC-2026-02-04": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 4, 2026"
+ },
+ "CREC-2026-02-05": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 5, 2026"
+ },
+ "CREC-2026-02-09": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 9, 2026"
+ },
+ "CREC-2026-02-10": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 10, 2026"
+ },
+ "CREC-2026-02-11": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 11, 2026"
+ },
+ "CREC-2026-02-12": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 12, 2026"
+ },
+ "CREC-2026-02-13": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 13, 2026"
+ },
+ "CREC-2026-02-17": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 17, 2026"
+ },
+ "CREC-2026-02-19": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 19, 2026"
+ },
+ "CREC-2026-02-20": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 20, 2026"
+ },
+ "CREC-2026-02-23": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 23, 2026"
+ },
+ "CREC-2026-02-24": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 24, 2026"
+ },
+ "CREC-2026-02-25": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 25, 2026"
+ },
+ "CREC-2026-02-26": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Feb 26, 2026"
+ },
+ "CREC-2026-03-02": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 2, 2026"
+ },
+ "CREC-2026-03-03": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 3, 2026"
+ },
+ "CREC-2026-03-04": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 4, 2026"
+ },
+ "CREC-2026-03-05": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 5, 2026"
+ },
+ "CREC-2026-03-09": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 9, 2026"
+ },
+ "CREC-2026-03-10": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 10, 2026"
+ },
+ "CREC-2026-03-11": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 11, 2026"
+ },
+ "CREC-2026-03-12": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 12, 2026"
+ },
+ "CREC-2026-03-16": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 16, 2026"
+ },
+ "CREC-2026-03-17": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 17, 2026"
+ },
+ "CREC-2026-03-18": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 18, 2026"
+ },
+ "CREC-2026-03-19": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 19, 2026"
+ },
+ "CREC-2026-03-20": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 20, 2026"
+ },
+ "CREC-2026-03-21": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 21, 2026"
+ },
+ "CREC-2026-03-22": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 22, 2026"
+ },
+ "CREC-2026-03-23": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 23, 2026"
+ },
+ "CREC-2026-03-24": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 24, 2026"
+ },
+ "CREC-2026-03-25": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 25, 2026"
+ },
+ "CREC-2026-03-26": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 26, 2026"
+ },
+ "CREC-2026-03-27": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 27, 2026"
+ },
+ "CREC-2026-03-30": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Mar 30, 2026"
+ },
+ "CREC-2026-04-02": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 2, 2026"
+ },
+ "CREC-2026-04-06": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 6, 2026"
+ },
+ "CREC-2026-04-09": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 9, 2026"
+ },
+ "CREC-2026-04-13": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 13, 2026"
+ },
+ "CREC-2026-04-14": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 14, 2026"
+ },
+ "CREC-2026-04-15": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 15, 2026"
+ },
+ "CREC-2026-04-16": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 16, 2026"
+ },
+ "CREC-2026-04-17": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 17, 2026"
+ },
+ "CREC-2026-04-20": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 20, 2026"
+ },
+ "CREC-2026-04-21": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 21, 2026"
+ },
+ "CREC-2026-04-22": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 22, 2026"
+ },
+ "CREC-2026-04-23": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 23, 2026"
+ },
+ "CREC-2026-04-27": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 27, 2026"
+ },
+ "CREC-2026-04-28": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 28, 2026"
+ },
+ "CREC-2026-04-29": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 29, 2026"
+ },
+ "CREC-2026-04-30": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Apr 30, 2026"
+ },
+ "CREC-2026-05-04": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 4, 2026"
+ },
+ "CREC-2026-05-07": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 7, 2026"
+ },
+ "CREC-2026-05-11": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 11, 2026"
+ },
+ "CREC-2026-05-12": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 12, 2026"
+ },
+ "CREC-2026-05-13": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 13, 2026"
+ },
+ "CREC-2026-05-14": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 14, 2026"
+ },
+ "CREC-2026-05-15": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 15, 2026"
+ },
+ "CREC-2026-05-18": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 18, 2026"
+ },
+ "CREC-2026-05-19": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 19, 2026"
+ },
+ "CREC-2026-05-20": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 20, 2026"
+ },
+ "CREC-2026-05-21": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 21, 2026"
+ },
+ "CREC-2026-05-22": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 22, 2026"
+ },
+ "CREC-2026-05-26": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 26, 2026"
+ },
+ "CREC-2026-05-28": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 28, 2026"
+ },
+ "CREC-2026-05-29": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for May 29, 2026"
+ },
+ "CREC-2026-06-01": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 1, 2026"
+ },
+ "CREC-2026-06-02": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 2, 2026"
+ },
+ "CREC-2026-06-03": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 3, 2026"
+ },
+ "CREC-2026-06-04": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 4, 2026"
+ },
+ "CREC-2026-06-08": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 8, 2026"
+ },
+ "CREC-2026-06-09": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 9, 2026"
+ },
+ "CREC-2026-06-10": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 10, 2026"
+ },
+ "CREC-2026-06-11": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 11, 2026"
+ },
+ "CREC-2026-06-15": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 15, 2026"
+ },
+ "CREC-2026-06-16": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 16, 2026"
+ },
+ "CREC-2026-06-17": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 17, 2026"
+ },
+ "CREC-2026-06-18": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 18, 2026"
+ },
+ "CREC-2026-06-22": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 22, 2026"
+ },
+ "CREC-2026-06-23": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 23, 2026"
+ },
+ "CREC-2026-06-24": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 24, 2026"
+ },
+ "CREC-2026-06-25": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 25, 2026"
+ },
+ "CREC-2026-06-29": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 29, 2026"
+ },
+ "CREC-2026-06-30": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jun 30, 2026"
+ },
+ "CREC-2026-07-02": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 2, 2026"
+ },
+ "CREC-2026-07-06": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 6, 2026"
+ },
+ "CREC-2026-07-09": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 9, 2026"
+ },
+ "CREC-2026-07-13": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 13, 2026"
+ },
+ "CREC-2026-07-14": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 14, 2026"
+ },
+ "CREC-2026-07-15": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 15, 2026"
+ },
+ "CREC-2026-07-16": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 16, 2026"
+ },
+ "CREC-2026-07-18": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 18, 2026"
+ },
+ "CREC-2026-07-20": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 20, 2026"
+ },
+ "CREC-2026-07-21": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 21, 2026"
+ },
+ "CREC-2026-07-22": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 22, 2026"
+ },
+ "CREC-2026-07-23": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 23, 2026"
+ },
+ "CREC-2026-07-27": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 27, 2026"
+ },
+ "CREC-2026-07-28": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 28, 2026"
+ },
+ "CREC-2026-07-29": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 29, 2026"
+ },
+ "CREC-2026-07-30": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Jul 30, 2026"
+ },
+ "CREC-2026-08-03": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Aug 3, 2026"
+ },
+ "CREC-2026-08-04": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Aug 4, 2026"
+ },
+ "CREC-2026-08-05": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Aug 5, 2026"
+ },
+ "CREC-2026-08-06": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Aug 6, 2026"
+ },
+ "CREC-2026-08-07": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Aug 7, 2026"
+ },
+ "CREC-2026-08-10": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Aug 10, 2026"
+ },
+ "CREC-2026-08-13": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Aug 13, 2026"
+ },
+ "CREC-2026-08-17": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Aug 17, 2026"
+ },
+ "CREC-2026-08-20": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Aug 20, 2026"
+ },
+ "CREC-2026-08-24": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Aug 24, 2026"
+ },
+ "CREC-2026-08-27": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Aug 27, 2026"
+ },
+ "CREC-2026-08-31": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Aug 31, 2026"
+ },
+ "CREC-2026-09-01": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 1, 2026"
+ },
+ "CREC-2026-09-02": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 2, 2026"
+ },
+ "CREC-2026-09-03": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 3, 2026"
+ },
+ "CREC-2026-09-04": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 4, 2026"
+ },
+ "CREC-2026-09-08": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 8, 2026"
+ },
+ "CREC-2026-09-10": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 10, 2026"
+ },
+ "CREC-2026-09-14": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 14, 2026"
+ },
+ "CREC-2026-09-15": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 15, 2026"
+ },
+ "CREC-2026-09-16": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 16, 2026"
+ },
+ "CREC-2026-09-17": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 17, 2026"
+ },
+ "CREC-2026-09-18": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 18, 2026"
+ },
+ "CREC-2026-09-21": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 21, 2026"
+ },
+ "CREC-2026-09-22": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 22, 2026"
+ },
+ "CREC-2026-09-23": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 23, 2026"
+ },
+ "CREC-2026-09-24": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 24, 2026"
+ },
+ "CREC-2026-09-28": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 28, 2026"
+ },
+ "CREC-2026-09-29": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 29, 2026"
+ },
+ "CREC-2026-09-30": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Sep 30, 2026"
+ },
+ "CREC-2026-10-01": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Oct 1, 2026"
+ },
+ "CREC-2026-10-05": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Oct 5, 2026"
+ },
+ "CREC-2026-10-06": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Oct 6, 2026"
+ },
+ "CREC-2026-10-09": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Oct 9, 2026"
+ },
+ "CREC-2026-10-13": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Oct 13, 2026"
+ },
+ "CREC-2026-10-15": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Oct 15, 2026"
+ },
+ "CREC-2026-10-19": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Oct 19, 2026"
+ },
+ "CREC-2026-10-22": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Oct 22, 2026"
+ },
+ "CREC-2026-10-26": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Oct 26, 2026"
+ },
+ "CREC-2026-10-29": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Oct 29, 2026"
+ },
+ "CREC-2026-11-02": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Nov 2, 2026"
+ },
+ "CREC-2026-11-05": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Nov 5, 2026"
+ },
+ "CREC-2026-11-09": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Nov 9, 2026"
+ },
+ "CREC-2026-11-10": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Nov 10, 2026"
+ },
+ "CREC-2026-11-11": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Nov 11, 2026"
+ },
+ "CREC-2026-11-12": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Nov 12, 2026"
+ },
+ "CREC-2026-11-13": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Nov 13, 2026"
+ },
+ "CREC-2026-11-16": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Nov 16, 2026"
+ },
+ "CREC-2026-11-17": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Nov 17, 2026"
+ },
+ "CREC-2026-11-18": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Nov 18, 2026"
+ },
+ "CREC-2026-11-19": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Nov 19, 2026"
+ },
+ "__meta__": {
+  "seeded": [
+   "anthropic",
+   "anthropic-news",
+   "crec",
+   "neuralink",
+   "nvidia",
+   "openai",
+   "sec-press",
+   "sec-speech",
+   "xai"
+  ],
+  "warned": [
+   "usmint"
+  ]
+ },
+ "https://blogs.nvidia.com/blog/20-years-cuda/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "CUDA at 20: How the Platform Transformed Scientific Computing"
+ },
+ "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "AI Day Seoul Brings Together Korea\u2019s Industry Leaders, Startups and Developer Communities"
+ },
+ "https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "How the World\u2019s Most Advanced AI Infrastructure Supply Chain Invents the Future"
+ },
+ "https://blogs.nvidia.com/blog/ai-recycling-startups/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "AI Helps Recyclers Turn Mixed Waste Into Reusable Material"
+ },
+ "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery"
+ },
+ "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents"
+ },
+ "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab"
+ },
+ "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "Season\u2019s Streamings and Savings: Black Friday Deals Come to GeForce NOW"
+ },
+ "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "A New Dawn in the Cloud: \u2018Warhammer 40,000: Dawn of War IV\u2019 Is Coming to GeForce NOW"
+ },
+ "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "AI Is Helping Care Teams Get Patients the Right Care, Sooner"
+ },
+ "https://blogs.nvidia.com/blog/ian-buck-sc26/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "Ian Buck Kicks Off NVIDIA\u2019s Week at SC26 as Science Enters the Age of Agents"
+ },
+ "https://blogs.nvidia.com/blog/lambda-photonics/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics"
+ },
+ "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs"
+ },
+ "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance"
+ },
+ "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure"
+ },
+ "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "NVIDIA RTX Spark Compact Desktops Out Now"
+ },
+ "https://blogs.nvidia.com/blog/rubin-hpc/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "NVIDIA Announces Rubin HPC \u2014 A New GPU to Accelerate Agents for Science, Engineering and Analytics"
+ },
+ "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "nvidia",
+  "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing"
+ },
+ "https://neuralink.com/updates/72-hour-voice-hackathon/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Oct 29, 2026 Engineering A 72-Hour Engineering Sprint for Translating Thought to Speech Our engineers recently visited one of our VOICE study participants for a 72-hour hackathon. This blog post highlights some of the things we built."
+ },
+ "https://neuralink.com/updates/a-year-of-telepathy/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Feb 5, 2025 Company A Year of Telepathy Over the past year, three people with paralysis have received Neuralink implants. This blog post explores how each person is using Telepathy in everyday life."
+ },
+ "https://neuralink.com/updates/announcing-neuralink-s-patient-registry/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Dec 17, 2022 Company Announcing Neuralink's Patient Registry We\u2019ve launched a Patient Registry to learn more about individuals who may be interested in enrolling in future Neuralink clinical trials."
+ },
+ "https://neuralink.com/updates/building-safe-implantable-devices/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "May 2, 2025 Engineering Building Safe Implantable Devices In this blog post, we highlight several techniques we use to confirm the safety of our implants prior to launching clinical trials."
+ },
+ "https://neuralink.com/updates/can-prime-study-launch/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Nov 20, 2024 Company CAN-PRIME Study Launch We are excited to announce that we have received approval from Health Canada to launch the CAN-PRIME Study, our first international trial!"
+ },
+ "https://neuralink.com/updates/championing-the-3-rs/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Nov 20, 2022 Company Championing the 3 Rs We hope you will take this opportunity to learn alongside us as we dive into the complex world of ensuring animal well-being in a research setting."
+ },
+ "https://neuralink.com/updates/company/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Company"
+ },
+ "https://neuralink.com/updates/convoy-study-launch/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Nov 24, 2024 Company CONVOY Study Launch We\u2019re excited to announce the launch of a new feasibility trial to extend BCI control using the N1 Implant to an investigational assistive robotic arm."
+ },
+ "https://neuralink.com/updates/datarepo/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Jun 22, 2025 Engineering datarepo - Neuralink's platform for complex data Neuralink launches datarepo - an open-source data platform for multimodal data management. This is the first component of the platform - the data catalog."
+ },
+ "https://neuralink.com/updates/engineering/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Engineering"
+ },
+ "https://neuralink.com/updates/environmental-enrichment/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Apr 7, 2023 Company Environmental Enrichment In our second blog on refinement, we highlight our methodology to ensure that we provide an enriching environment and experience to animals within our care."
+ },
+ "https://neuralink.com/updates/first-clinical-trial-open-for-recruitment/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Sep 19, 2023 Company Neuralink\u2019s First-in-Human Clinical Trial is Open for Recruitment We are happy to announce that we've received approval to begin recruitment for our first-in-human trial at our first hospital site."
+ },
+ "https://neuralink.com/updates/gb-prime-study-launch/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Jul 31, 2025 Company GB-PRIME Study Launch We are excited to announce that we are launching the GB-PRIME study across two sites in Great Britain!"
+ },
+ "https://neuralink.com/updates/husbandry-refinement/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Nov 30, 2022 Company Husbandry Refinement The first episode of our Refinement Series will look at how we evaluate the well-being of an animal as it pertains to housing, food, and water."
+ },
+ "https://neuralink.com/updates/media/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Media"
+ },
+ "https://neuralink.com/updates/neuralink-raises-280m-series-d/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Aug 7, 2023 Company Neuralink Raises $280M Series D We\u2019re happy to announce our $280M Series D round led by Founders Fund. We\u2019re extremely excited about this next chapter at Neuralink."
+ },
+ "https://neuralink.com/updates/neuralink-raises-650m-series-e/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Jun 2, 2025 Company Neuralink raises $650M Series E Our $650M Series E will expand patient access to our technology and push the boundaries of what\u2019s possible with brain interfaces."
+ },
+ "https://neuralink.com/updates/neuralink-receives-breakthrough-device-designation-for-blindsight/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Sep 17, 2024 Company Neuralink Receives Breakthrough Device Designation for Blindsight We are excited to announce that we have received Breakthrough Device Designation from the FDA for Blindsight! For individuals with vision impairment."
+ },
+ "https://neuralink.com/updates/neuralink-receives-breakthrough-device-designation-for-speech/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "May 1, 2025 Company Neuralink Receives Breakthrough Device Designation for Speech We've received Breakthrough Device Designation from the FDA to help restore communication for individuals with severe speech impairment."
+ },
+ "https://neuralink.com/updates/neuralink-s-commitment-to-animal-welfare/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Feb 14, 2022 Company Neuralink's Commitment to Animal Welfare Animals at Neuralink are respected and honored by our team. In this blog post, we provide an accurate statement of Neuralink\u2019s commitment to animal welfare."
+ },
+ "https://neuralink.com/updates/neuralinks-patient-registry-opens-to-canada/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Mar 24, 2024 Company Neuralink\u2019s Patient Registry Opens to Canada In Neuralink's first international expansion, our Patient Registry is now accepting applications from Canadian residents."
+ },
+ "https://neuralink.com/updates/pager-plays-mindpong/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Apr 18, 2021 Engineering Pager Plays MindPong Neuralink is developing a brain-computer interface to enable people with paralysis to use their neural activity to operate computers and mobile devices."
+ },
+ "https://neuralink.com/updates/pretraining-on-50000-hours/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Oct 1, 2026 Engineering Pretraining on 50,000 Hours of Unlabeled Brain Data How self-supervised encoders kept neural decoders working for weeks without recalibration and set an 11.32 BPS record."
+ },
+ "https://neuralink.com/updates/prime-study-progress-update-second-participant/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Aug 21, 2024 Company PRIME Study Progress Update \u2014 Second Participant Our technology is enabling our second PRIME Study participant to play video games and use CAD software. This post shares updates on his experience."
+ },
+ "https://neuralink.com/updates/prime-study-progress-update-user-experience/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "May 8, 2024 Company PRIME Study Progress Update \u2014 User Experience We\u2019ve just passed 100 days since the first participant in our clinical trial received his Neuralink implant. Read our latest progress update."
+ },
+ "https://neuralink.com/updates/prime-study-progress-update/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Apr 12, 2024 Company PRIME Study Progress Update In January, we conducted the first human implantation of our brain-computer interface. This blog post shares a high-level snapshot of where we are as a company."
+ },
+ "https://neuralink.com/updates/research/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Research"
+ },
+ "https://neuralink.com/updates/series-c-funding-round-announcement/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Jul 29, 2021 Company Series C Funding Round Announcement Neuralink is pleased to announce our Series C funding round of $205 million. Neuralink is developing brain-computer interfaces to treat brain related ailments."
+ },
+ "https://neuralink.com/updates/the-role-of-the-institutional-animal-care-and-use-committee/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "May 8, 2023 Company The Role of the Institutional Animal Care and Use Committee We explore the functions of Neuralink\u2019s Institutional Animal Care and Use Committee (IACUC) and its role in promoting refinement, reduction, and replacement."
+ },
+ "https://neuralink.com/updates/two-years-of-telepathy/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Jan 28, 2026 Company Two Years of Telepathy Announcing 21 Neuralink participants."
+ },
+ "https://neuralink.com/updates/understanding-preclinical-research-at-neuralink/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Mar 15, 2024 Company Understanding Preclinical Research at Neuralink Become acquainted with the Preclinical Team, which is responsible for the design, conduct, documentation, analysis, and reporting of preclinical studies."
+ },
+ "https://neuralink.com/updates/welcome-david-mcmullen/": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "neuralink",
+  "title": "Dec 9, 2025 Company Welcome, David McMullen! We\u2019re thrilled to welcome David McMullen to Neuralink."
+ },
  "https://openai.com/index/advanced-account-security": {
   "first_seen": "2026-11-20T22:03:56+00:00",
   "source": "openai",
@@ -934,6 +2215,2531 @@
   "source": "openai",
   "title": "Work with Codex from anywhere"
  },
+ "https://www.anthropic.com/claude-fable-and-mythos-5-2": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences."
+ },
+ "https://www.anthropic.com/claude-haiku-5-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use."
+ },
+ "https://www.anthropic.com/claude-opus-5-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads."
+ },
+ "https://www.anthropic.com/claude-sonnet-5-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work."
+ },
+ "https://www.anthropic.com/news": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Skip to main content"
+ },
+ "https://www.anthropic.com/news/100k-context-windows": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "100k context windows"
+ },
+ "https://www.anthropic.com/news/2026-us-midterms": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Earlier this year, we shared an update on our election safeguards. Here, we outline how we\u2019ve continued to strengthen these safeguards ahead of this year\u2019s US midterms."
+ },
+ "https://www.anthropic.com/news/2026-usage-policy-update": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "We\u2019re publishing a new version of our Usage Policy. In this post, we summarize the changes we\u2019ve made."
+ },
+ "https://www.anthropic.com/news/2028-ai-leadership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "2028 ai leadership"
+ },
+ "https://www.anthropic.com/news/3-5-models-and-computer-use": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "3 5 models and computer use"
+ },
+ "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Ai enabled cyber threats mitre attack"
+ },
+ "https://www.anthropic.com/news/Introducing-code-with-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Introducing code with claude"
+ },
+ "https://www.anthropic.com/news/a-new-initiative-for-developing-third-party-model-evaluations": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "A new initiative for developing third party model evaluations"
+ },
+ "https://www.anthropic.com/news/accenture-aws-anthropic": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Accenture aws anthropic"
+ },
+ "https://www.anthropic.com/news/accenture-embedded-evaluation": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Accenture embedded evaluation"
+ },
+ "https://www.anthropic.com/news/acquires-vercept": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Acquires vercept"
+ },
+ "https://www.anthropic.com/news/activating-asl3-protections": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Activating asl3 protections"
+ },
+ "https://www.anthropic.com/news/advancing-claude-for-education": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Advancing claude for education"
+ },
+ "https://www.anthropic.com/news/advancing-claude-for-financial-services": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Advancing claude for financial services"
+ },
+ "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "We\u2019re highlighting 20 scientific foundations, institutions, and research groups around the world that we\u2019ve partnered with in an expansion of our AI for Science program."
+ },
+ "https://www.anthropic.com/news/ai-for-science-program": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Ai for science program"
+ },
+ "https://www.anthropic.com/news/alberta-government-claude-cybersecurity": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Alberta government claude cybersecurity"
+ },
+ "https://www.anthropic.com/news/an-ai-policy-tool-for-today-ambitiously-invest-in-nist": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "An ai policy tool for today ambitiously invest in nist"
+ },
+ "https://www.anthropic.com/news/an-update-on-independent-evaluators": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "To evaluate the safety of our systems, Anthropic is giving employee-like access to a team from METR, a nonprofit that evaluates frontier AI models, and we're in early discussions with several other organizations, including Hugging Face."
+ },
+ "https://www.anthropic.com/news/announcements": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Announcements"
+ },
+ "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Announcing our updated responsible scaling policy"
+ },
+ "https://www.anthropic.com/news/anthropic-accenture-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic accenture partnership"
+ },
+ "https://www.anthropic.com/news/anthropic-achieves-iso-42001-certification-for-responsible-ai": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic achieves iso 42001 certification for responsible ai"
+ },
+ "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic acquires bun as claude code reaches usd1b milestone"
+ },
+ "https://www.anthropic.com/news/anthropic-acquires-stainless": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic acquires stainless"
+ },
+ "https://www.anthropic.com/news/anthropic-amazon": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic amazon"
+ },
+ "https://www.anthropic.com/news/anthropic-amazon-compute": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic amazon compute"
+ },
+ "https://www.anthropic.com/news/anthropic-amazon-trainium": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic amazon trainium"
+ },
+ "https://www.anthropic.com/news/anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pilots": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic and iceland announce one of the world s first national ai education pilots"
+ },
+ "https://www.anthropic.com/news/anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-operations": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic and the department of defense to advance responsible ai in defense operations"
+ },
+ "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic appoints irina ghose as managing director of india"
+ },
+ "https://www.anthropic.com/news/anthropic-bcg": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic bcg"
+ },
+ "https://www.anthropic.com/news/anthropic-codepath-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic codepath partnership"
+ },
+ "https://www.anthropic.com/news/anthropic-cyber-mission": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "We\u2019re launching the Anthropic Cyber Mission, a long-term commitment to securing the systems everyone depends on."
+ },
+ "https://www.anthropic.com/news/anthropic-economic-index-connector": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic economic index connector"
+ },
+ "https://www.anthropic.com/news/anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-managing-director-of": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic expands global leadership in enterprise ai naming chris ciauri as managing director of"
+ },
+ "https://www.anthropic.com/news/anthropic-higher-education-initiatives": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic higher education initiatives"
+ },
+ "https://www.anthropic.com/news/anthropic-infosys": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic infosys"
+ },
+ "https://www.anthropic.com/news/anthropic-institute-agenda": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic institute agenda"
+ },
+ "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic invests 50 billion in american ai infrastructure"
+ },
+ "https://www.anthropic.com/news/anthropic-is-endorsing-sb-53": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic is endorsing sb 53"
+ },
+ "https://www.anthropic.com/news/anthropic-kpmg": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic kpmg"
+ },
+ "https://www.anthropic.com/news/anthropic-nec": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic nec"
+ },
+ "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic partners with allen institute and howard hughes medical institute"
+ },
+ "https://www.anthropic.com/news/anthropic-partners-with-google-cloud": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic partners with google cloud"
+ },
+ "https://www.anthropic.com/news/anthropic-partners-with-menlo-ventures-to-launch-anthology-fund": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic partners with menlo ventures to launch anthology fund"
+ },
+ "https://www.anthropic.com/news/anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on-ai-economic": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic partners with the university of chicago s becker friedman institute on ai economic"
+ },
+ "https://www.anthropic.com/news/anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic partners with u s national labs for first 1 000 scientist ai jam"
+ },
+ "https://www.anthropic.com/news/anthropic-prices-initial-public-offering": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Today Anthropic, PBC priced its initial public offering of its Class A common stock."
+ },
+ "https://www.anthropic.com/news/anthropic-raises-124-million-to-build-more-reliable-general-ai-systems": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic raises 124 million to build more reliable general ai systems"
+ },
+ "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic raises 30 billion series g funding 380 billion post money valuation"
+ },
+ "https://www.anthropic.com/news/anthropic-raises-series-b-to-build-safe-reliable-ai": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic raises series b to build safe reliable ai"
+ },
+ "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic raises series e at usd61 5b post money valuation"
+ },
+ "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic raises series f at usd183b post money valuation"
+ },
+ "https://www.anthropic.com/news/anthropic-rwanda-mou": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic rwanda mou"
+ },
+ "https://www.anthropic.com/news/anthropic-s-recommendations-ostp-u-s-ai-action-plan": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic s recommendations ostp u s ai action plan"
+ },
+ "https://www.anthropic.com/news/anthropic-s-response-to-governor-newsom-s-ai-working-group-draft-report": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic s response to governor newsom s ai working group draft report"
+ },
+ "https://www.anthropic.com/news/anthropic-series-c": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic series c"
+ },
+ "https://www.anthropic.com/news/anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoperability": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic signs cms health tech ecosystem pledge to advance healthcare interoperability"
+ },
+ "https://www.anthropic.com/news/anthropic-signs-pledge-to-americas-youth-investing-in-ai-education": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic signs pledge to americas youth investing in ai education"
+ },
+ "https://www.anthropic.com/news/anthropic-teach-for-all": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic teach for all"
+ },
+ "https://www.anthropic.com/news/anthropics-responsible-scaling-policy": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropics responsible scaling policy"
+ },
+ "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Apple xcode claude agent sdk"
+ },
+ "https://www.anthropic.com/news/australia-MOU": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Australia mou"
+ },
+ "https://www.anthropic.com/news/barclays-scales-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Barclays, the British universal bank, is expanding its strategic collaboration with Anthropic to integrate secure, enterprise-grade AI systems across its global operations."
+ },
+ "https://www.anthropic.com/news/ben-bernanke": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Ben bernanke"
+ },
+ "https://www.anthropic.com/news/bengaluru-office-partnerships-across-india": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Bengaluru office partnerships across india"
+ },
+ "https://www.anthropic.com/news/build-ai-in-america": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Build ai in america"
+ },
+ "https://www.anthropic.com/news/building-safeguards-for-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Building safeguards for claude"
+ },
+ "https://www.anthropic.com/news/canadian-ai-research": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Canadian ai research"
+ },
+ "https://www.anthropic.com/news/challenges-in-red-teaming-ai-systems": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Challenges in red teaming ai systems"
+ },
+ "https://www.anthropic.com/news/charting-a-path-to-ai-accountability": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Charting a path to ai accountability"
+ },
+ "https://www.anthropic.com/news/child-safety-principles": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Child safety principles"
+ },
+ "https://www.anthropic.com/news/chris-liddell-appointed-anthropic-board": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Chris liddell appointed anthropic board"
+ },
+ "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Chris olah pope leo encyclical"
+ },
+ "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic\u2019s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and precision measurement."
+ },
+ "https://www.anthropic.com/news/claude-2": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude 2"
+ },
+ "https://www.anthropic.com/news/claude-2-1": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude 2 1"
+ },
+ "https://www.anthropic.com/news/claude-3-5-sonnet": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude 3 5 sonnet"
+ },
+ "https://www.anthropic.com/news/claude-3-7-sonnet": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude 3 7 sonnet"
+ },
+ "https://www.anthropic.com/news/claude-3-family": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude 3 family"
+ },
+ "https://www.anthropic.com/news/claude-3-haiku": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude 3 haiku"
+ },
+ "https://www.anthropic.com/news/claude-4": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude 4"
+ },
+ "https://www.anthropic.com/news/claude-and-alexa-plus": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude and alexa plus"
+ },
+ "https://www.anthropic.com/news/claude-brazil": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude brazil"
+ },
+ "https://www.anthropic.com/news/claude-code-on-team-and-enterprise": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude code on team and enterprise"
+ },
+ "https://www.anthropic.com/news/claude-code-security": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude code security"
+ },
+ "https://www.anthropic.com/news/claude-corps": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude corps"
+ },
+ "https://www.anthropic.com/news/claude-design-anthropic-labs": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude design anthropic labs"
+ },
+ "https://www.anthropic.com/news/claude-europe": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude europe"
+ },
+ "https://www.anthropic.com/news/claude-fable-5-mythos-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude fable 5 mythos 5"
+ },
+ "https://www.anthropic.com/news/claude-for-creative-work": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude for creative work"
+ },
+ "https://www.anthropic.com/news/claude-for-financial-services": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude for financial services"
+ },
+ "https://www.anthropic.com/news/claude-for-life-sciences": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude for life sciences"
+ },
+ "https://www.anthropic.com/news/claude-for-nonprofits": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude for nonprofits"
+ },
+ "https://www.anthropic.com/news/claude-for-small-business": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude for small business"
+ },
+ "https://www.anthropic.com/news/claude-for-teachers": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude for teachers"
+ },
+ "https://www.anthropic.com/news/claude-frontier-academy": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic is investing $100 million in Claude Frontier Academy to train 10,000 Frontier Deployed Engineers by the end of 2027, with cohorts from Accenture, Bain, CBA, Deloitte, McKinsey, Morgan Stanley and Novo Nordisk already underway."
+ },
+ "https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude gov models for u s national security customers"
+ },
+ "https://www.anthropic.com/news/claude-haiku-4-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude haiku 4 5"
+ },
+ "https://www.anthropic.com/news/claude-in-amazon-bedrock-fedramp-high": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude in amazon bedrock fedramp high"
+ },
+ "https://www.anthropic.com/news/claude-in-microsoft-foundry": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude in microsoft foundry"
+ },
+ "https://www.anthropic.com/news/claude-in-xcode": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude in xcode"
+ },
+ "https://www.anthropic.com/news/claude-is-a-space-to-think": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude is a space to think"
+ },
+ "https://www.anthropic.com/news/claude-new-constitution": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude new constitution"
+ },
+ "https://www.anthropic.com/news/claude-opus-4-1": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude opus 4 1"
+ },
+ "https://www.anthropic.com/news/claude-opus-4-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude opus 4 5"
+ },
+ "https://www.anthropic.com/news/claude-opus-4-6": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude opus 4 6"
+ },
+ "https://www.anthropic.com/news/claude-opus-4-7": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude opus 4 7"
+ },
+ "https://www.anthropic.com/news/claude-opus-4-8": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude opus 4 8"
+ },
+ "https://www.anthropic.com/news/claude-opus-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude opus 5"
+ },
+ "https://www.anthropic.com/news/claude-partner-network": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude partner network"
+ },
+ "https://www.anthropic.com/news/claude-pro": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude pro"
+ },
+ "https://www.anthropic.com/news/claude-science-ai-workbench": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude science ai workbench"
+ },
+ "https://www.anthropic.com/news/claude-sonnet-4-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude sonnet 4 5"
+ },
+ "https://www.anthropic.com/news/claude-sonnet-4-6": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude sonnet 4 6"
+ },
+ "https://www.anthropic.com/news/claude-sonnet-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude sonnet 5"
+ },
+ "https://www.anthropic.com/news/claude-text-watermark": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claude text watermark"
+ },
+ "https://www.anthropic.com/news/claudes-constitution": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Claudes constitution"
+ },
+ "https://www.anthropic.com/news/cognizant-anthropic": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Cognizant anthropic"
+ },
+ "https://www.anthropic.com/news/cognizant-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Cognizant partnership"
+ },
+ "https://www.anthropic.com/news/compliance-framework-SB53": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Compliance framework sb53"
+ },
+ "https://www.anthropic.com/news/confidential-draft-s1-sec": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Confidential draft s1 sec"
+ },
+ "https://www.anthropic.com/news/core-views-on-ai-safety": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Core views on ai safety"
+ },
+ "https://www.anthropic.com/news/covering-electricity-price-increases": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Covering electricity price increases"
+ },
+ "https://www.anthropic.com/news/cyber-verification-program": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "We\u2019re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals."
+ },
+ "https://www.anthropic.com/news/deloitte-anthropic-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Deloitte anthropic partnership"
+ },
+ "https://www.anthropic.com/news/deprecation-commitments": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Deprecation commitments"
+ },
+ "https://www.anthropic.com/news/deprecation-updates-opus-3": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Deprecation updates opus 3"
+ },
+ "https://www.anthropic.com/news/detecting-and-countering-malicious-uses-of-claude-march-2025": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Detecting and countering malicious uses of claude march 2025"
+ },
+ "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Detecting and preventing distillation attacks"
+ },
+ "https://www.anthropic.com/news/detecting-countering-misuse-aug-2025": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Detecting countering misuse aug 2025"
+ },
+ "https://www.anthropic.com/news/developing-computer-use": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Developing computer use"
+ },
+ "https://www.anthropic.com/news/developing-nuclear-safeguards-for-ai-through-public-private-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Developing nuclear safeguards for ai through public private partnership"
+ },
+ "https://www.anthropic.com/news/disrupting-AI-espionage": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Disrupting ai espionage"
+ },
+ "https://www.anthropic.com/news/distillation-defenses": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we\u2019ve reduced the rate of distillation by more than 90%."
+ },
+ "https://www.anthropic.com/news/donate-public-first-action": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Donate public first action"
+ },
+ "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "We\u2019re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025."
+ },
+ "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Donating the model context protocol and establishing of the agentic ai foundation"
+ },
+ "https://www.anthropic.com/news/donation-public-first-action": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Donation public first action"
+ },
+ "https://www.anthropic.com/news/dxc-anthropic-alliance": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Dxc anthropic alliance"
+ },
+ "https://www.anthropic.com/news/economic-futures-research-fund-agenda": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Economic futures research fund agenda"
+ },
+ "https://www.anthropic.com/news/economic-futures-uk-europe": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Economic futures uk europe"
+ },
+ "https://www.anthropic.com/news/election-safeguards-update": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Election safeguards update"
+ },
+ "https://www.anthropic.com/news/elections-ai-2024": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Elections ai 2024"
+ },
+ "https://www.anthropic.com/news/enabling-claude-code-to-work-more-autonomously": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Enabling claude code to work more autonomously"
+ },
+ "https://www.anthropic.com/news/enterprise-ai-services-company": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Enterprise ai services company"
+ },
+ "https://www.anthropic.com/news/enterprise-frontier-safeguards": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Enterprise frontier safeguards"
+ },
+ "https://www.anthropic.com/news/eu-code-practice": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Eu code practice"
+ },
+ "https://www.anthropic.com/news/expanded-legal-protections-api-improvements": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Expanded legal protections api improvements"
+ },
+ "https://www.anthropic.com/news/expanding-access-to-claude-for-government": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Expanding access to claude for government"
+ },
+ "https://www.anthropic.com/news/expanding-global-operations-to-india": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Expanding global operations to india"
+ },
+ "https://www.anthropic.com/news/expanding-our-use-of-google-cloud-tpus-and-services": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Expanding our use of google cloud tpus and services"
+ },
+ "https://www.anthropic.com/news/expanding-partnership-gsa": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API."
+ },
+ "https://www.anthropic.com/news/expanding-project-glasswing": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Expanding project glasswing"
+ },
+ "https://www.anthropic.com/news/expanding-support-for-scientists": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Expanding support for scientists"
+ },
+ "https://www.anthropic.com/news/fable-mythos-access": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Fable mythos access"
+ },
+ "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Fable safeguards jailbreak framework"
+ },
+ "https://www.anthropic.com/news/features": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Features"
+ },
+ "https://www.anthropic.com/news/federal-government-departments-and-agencies-can-now-purchase-claude-through-the-gsa-schedule": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Federal government departments and agencies can now purchase claude through the gsa schedule"
+ },
+ "https://www.anthropic.com/news/finance-agents": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Finance agents"
+ },
+ "https://www.anthropic.com/news/frontier-model-security": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Frontier model security"
+ },
+ "https://www.anthropic.com/news/frontier-threats-red-teaming-for-ai-safety": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Frontier threats red teaming for ai safety"
+ },
+ "https://www.anthropic.com/news/gates-foundation-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Gates foundation partnership"
+ },
+ "https://www.anthropic.com/news/genesis-mission-commitment": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic is committing $150 million over three years to the Genesis Mission, a federal initiative to accelerate scientific and technological discovery through AI."
+ },
+ "https://www.anthropic.com/news/genesis-mission-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Genesis mission partnership"
+ },
+ "https://www.anthropic.com/news/github-copilot": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Github copilot"
+ },
+ "https://www.anthropic.com/news/glasswing-initial-update": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Glasswing initial update"
+ },
+ "https://www.anthropic.com/news/google-broadcom-partnership-compute": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Google broadcom partnership compute"
+ },
+ "https://www.anthropic.com/news/google-vertex-general-availability": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Google vertex general availability"
+ },
+ "https://www.anthropic.com/news/gov-UK-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Gov uk partnership"
+ },
+ "https://www.anthropic.com/news/hard-questions": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Hard questions"
+ },
+ "https://www.anthropic.com/news/head-of-EMEA-new-roles": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Head of emea new roles"
+ },
+ "https://www.anthropic.com/news/head-of-japan-hiring-plans": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Head of japan hiring plans"
+ },
+ "https://www.anthropic.com/news/healthcare-life-sciences": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Healthcare life sciences"
+ },
+ "https://www.anthropic.com/news/higher-limits-spacex": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Higher limits spacex"
+ },
+ "https://www.anthropic.com/news/improving-alignment-security-efforts": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Improving alignment security efforts"
+ },
+ "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Improving fable 5 s biology safeguards"
+ },
+ "https://www.anthropic.com/news/introducing-anthropic-labs": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Introducing anthropic labs"
+ },
+ "https://www.anthropic.com/news/introducing-anthropic-transparency-hub": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Introducing anthropic transparency hub"
+ },
+ "https://www.anthropic.com/news/introducing-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Introducing claude"
+ },
+ "https://www.anthropic.com/news/introducing-claude-for-education": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Introducing claude for education"
+ },
+ "https://www.anthropic.com/news/introducing-claude-tag": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Introducing claude tag"
+ },
+ "https://www.anthropic.com/news/introducing-claude-to-canada": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Introducing claude to canada"
+ },
+ "https://www.anthropic.com/news/introducing-the-anthropic-economic-advisory-council": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Introducing the anthropic economic advisory council"
+ },
+ "https://www.anthropic.com/news/introducing-the-anthropic-economic-futures-program": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Introducing the anthropic economic futures program"
+ },
+ "https://www.anthropic.com/news/introducing-the-anthropic-national-security-and-public-sector-advisory-council": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Introducing the anthropic national security and public sector advisory council"
+ },
+ "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Investigating incidents cybersecurity evals"
+ },
+ "https://www.anthropic.com/news/investing-in-energy-to-secure-america-s-ai-future": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Investing in energy to secure america s ai future"
+ },
+ "https://www.anthropic.com/news/ipo-close": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Today Anthropic, PBC announced the closing of its initial public offering of an aggregate of 1,127,000,000 shares of its Class A common stock at a public offering price of $83.00 per share, including the full exercise by the underwriters of their option to purchase an additional 147,000,000 shares of Class A common stock from Anthropic at the initial public offering price."
+ },
+ "https://www.anthropic.com/news/jay-kreps-appointed-to-board-of-directors": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Jay kreps appointed to board of directors"
+ },
+ "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Kiyoung choi representative director anthropic korea"
+ },
+ "https://www.anthropic.com/news/krishna-rao-joins-anthropic": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Krishna rao joins anthropic"
+ },
+ "https://www.anthropic.com/news/lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-scientists-and": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Lawrence livermore national laboratory expands claude for enterprise to empower scientists and"
+ },
+ "https://www.anthropic.com/news/life-sciences-verification-program": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Life sciences verification program"
+ },
+ "https://www.anthropic.com/news/lyft-announcement": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Lyft announcement"
+ },
+ "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Mariano florentino long term benefit trust"
+ },
+ "https://www.anthropic.com/news/maryland-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Maryland partnership"
+ },
+ "https://www.anthropic.com/news/microsoft-nvidia-anthropic-announce-strategic-partnerships": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Microsoft nvidia anthropic announce strategic partnerships"
+ },
+ "https://www.anthropic.com/news/mike-krieger-joins-anthropic": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Mike krieger joins anthropic"
+ },
+ "https://www.anthropic.com/news/milan-office-opening": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Milan office opening"
+ },
+ "https://www.anthropic.com/news/model-context-protocol": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Model context protocol"
+ },
+ "https://www.anthropic.com/news/model-hardware-standard-research-preview": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Model hardware standard research preview"
+ },
+ "https://www.anthropic.com/news/model-safety-bug-bounty": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Model safety bug bounty"
+ },
+ "https://www.anthropic.com/news/models": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Models"
+ },
+ "https://www.anthropic.com/news/mou-uk-government": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Mou uk government"
+ },
+ "https://www.anthropic.com/news/mozilla-firefox-security": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Mozilla firefox security"
+ },
+ "https://www.anthropic.com/news/narasimhan-board": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Narasimhan board"
+ },
+ "https://www.anthropic.com/news/national-security-expert-richard-fontaine-appointed-to-anthropic-s-long-term-benefit-trust": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "National security expert richard fontaine appointed to anthropic s long term benefit trust"
+ },
+ "https://www.anthropic.com/news/new-offices-in-paris-and-munich-expand-european-presence": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "New offices in paris and munich expand european presence"
+ },
+ "https://www.anthropic.com/news/offering-expanded-claude-access-across-all-three-branches-of-government": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Offering expanded claude access across all three branches of government"
+ },
+ "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Today, we\u2019re inviting members of the life sciences community to apply to work with us on special projects."
+ },
+ "https://www.anthropic.com/news/opening-our-tokyo-office": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Opening our tokyo office"
+ },
+ "https://www.anthropic.com/news/our-approach-to-understanding-and-addressing-ai-harms": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Our approach to understanding and addressing ai harms"
+ },
+ "https://www.anthropic.com/news/our-framework-for-developing-safe-and-trustworthy-agents": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Our framework for developing safe and trustworthy agents"
+ },
+ "https://www.anthropic.com/news/paris-ai-summit": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Paris ai summit"
+ },
+ "https://www.anthropic.com/news/partnering-with-scale": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Partnering with scale"
+ },
+ "https://www.anthropic.com/news/partnerships": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Partnerships"
+ },
+ "https://www.anthropic.com/news/paul-smith-to-join-anthropic": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Paul smith to join anthropic"
+ },
+ "https://www.anthropic.com/news/policy": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Policy"
+ },
+ "https://www.anthropic.com/news/policy-recap-q4-2023": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Policy recap q4 2023"
+ },
+ "https://www.anthropic.com/news/position-open-weights-models": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Position open weights models"
+ },
+ "https://www.anthropic.com/news/preparing-for-global-elections-in-2024": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Preparing for global elections in 2024"
+ },
+ "https://www.anthropic.com/news/product": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Product"
+ },
+ "https://www.anthropic.com/news/projects": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Projects"
+ },
+ "https://www.anthropic.com/news/prompt-engineering-for-business-performance": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Prompt engineering for business performance"
+ },
+ "https://www.anthropic.com/news/prompting-long-context": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Prompting long context"
+ },
+ "https://www.anthropic.com/news/protecting-well-being-of-users": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Protecting well being of users"
+ },
+ "https://www.anthropic.com/news/public-benefit-fund": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Investing in the public benefit We\u2019re committing a portion of Anthropic\u2019s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows."
+ },
+ "https://www.anthropic.com/news/pwc-expanded-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Pwc expanded partnership"
+ },
+ "https://www.anthropic.com/news/rahul-patil-joins-anthropic": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Rahul patil joins anthropic"
+ },
+ "https://www.anthropic.com/news/rare-disease-research-grants": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Rare disease research grants"
+ },
+ "https://www.anthropic.com/news/redeploying-fable-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Redeploying fable 5"
+ },
+ "https://www.anthropic.com/news/reed-hastings": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Reed hastings"
+ },
+ "https://www.anthropic.com/news/reflect-with-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Reflect with claude"
+ },
+ "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Reflections on our responsible scaling policy"
+ },
+ "https://www.anthropic.com/news/releasing-claude-instant-1-2": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Releasing claude instant 1 2"
+ },
+ "https://www.anthropic.com/news/responsible-scaling-policy-v3": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Responsible scaling policy v3"
+ },
+ "https://www.anthropic.com/news/roadshow-launch": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Today Anthropic, PBC launched the roadshow for its proposed initial public offering of its Class A common stock."
+ },
+ "https://www.anthropic.com/news/rwandan-government-partnership-ai-education": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Rwandan government partnership ai education"
+ },
+ "https://www.anthropic.com/news/s1-sec": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock."
+ },
+ "https://www.anthropic.com/news/safeguards": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Safeguards"
+ },
+ "https://www.anthropic.com/news/salesforce-anthropic-expanded-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Salesforce anthropic expanded partnership"
+ },
+ "https://www.anthropic.com/news/salesforce-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Salesforce partnership"
+ },
+ "https://www.anthropic.com/news/securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Securing america s compute advantage anthropic s position on the diffusion rule"
+ },
+ "https://www.anthropic.com/news/security": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Security"
+ },
+ "https://www.anthropic.com/news/seoul-becomes-third-anthropic-office-in-asia-pacific": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Seoul becomes third anthropic office in asia pacific"
+ },
+ "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Seoul office partnerships korean ai ecosystem"
+ },
+ "https://www.anthropic.com/news/series-h": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Series h"
+ },
+ "https://www.anthropic.com/news/servicenow-anthropic-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Servicenow anthropic claude"
+ },
+ "https://www.anthropic.com/news/services-track-partner-hub": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Services track partner hub"
+ },
+ "https://www.anthropic.com/news/singapore-office-opening": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Anthropic has opened an office in Singapore and signed an MOU with the country\u2019s government to advance safe, responsible AI adoption."
+ },
+ "https://www.anthropic.com/news/skt-partnership-announcement": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Skt partnership announcement"
+ },
+ "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Snowflake anthropic expanded partnership"
+ },
+ "https://www.anthropic.com/news/statement-comments-secretary-war": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Statement comments secretary war"
+ },
+ "https://www.anthropic.com/news/statement-dario-amodei-american-ai-leadership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Statement dario amodei american ai leadership"
+ },
+ "https://www.anthropic.com/news/statement-department-of-war": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Statement department of war"
+ },
+ "https://www.anthropic.com/news/strengthening-our-safeguards-through-collaboration-with-us-caisi-and-uk-aisi": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Strengthening our safeguards through collaboration with us caisi and uk aisi"
+ },
+ "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Sydney fourth office asia pacific"
+ },
+ "https://www.anthropic.com/news/tcs-anthropic-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Tcs anthropic partnership"
+ },
+ "https://www.anthropic.com/news/testing-and-mitigating-elections-related-risks": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Testing and mitigating elections related risks"
+ },
+ "https://www.anthropic.com/news/testing-our-safety-defenses-with-a-new-bug-bounty-program": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Testing our safety defenses with a new bug bounty program"
+ },
+ "https://www.anthropic.com/news/the-anthropic-institute": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "The anthropic institute"
+ },
+ "https://www.anthropic.com/news/the-case-for-targeted-regulation": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "The case for targeted regulation"
+ },
+ "https://www.anthropic.com/news/the-long-term-benefit-trust": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "The long term benefit trust"
+ },
+ "https://www.anthropic.com/news/the-need-for-transparency-in-frontier-ai": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "The need for transparency in frontier ai"
+ },
+ "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Theo hourmouzis general manager australia new zealand"
+ },
+ "https://www.anthropic.com/news/third-party-testing": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Third party testing"
+ },
+ "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Thoughts on america s ai action plan"
+ },
+ "https://www.anthropic.com/news/tino-cuellar": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Tino cuellar"
+ },
+ "https://www.anthropic.com/news/uk-ai-safety-summit": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Uk ai safety summit"
+ },
+ "https://www.anthropic.com/news/updates-to-our-consumer-terms": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Updates to our consumer terms"
+ },
+ "https://www.anthropic.com/news/updating-our-usage-policy": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Updating our usage policy"
+ },
+ "https://www.anthropic.com/news/updating-restrictions-of-sales-to-unsupported-regions": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Updating restrictions of sales to unsupported regions"
+ },
+ "https://www.anthropic.com/news/us-elections-readiness": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Us elections readiness"
+ },
+ "https://www.anthropic.com/news/usage-policy-update": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Usage policy update"
+ },
+ "https://www.anthropic.com/news/ust-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Ust claude"
+ },
+ "https://www.anthropic.com/news/visible-extended-thinking": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Visible extended thinking"
+ },
+ "https://www.anthropic.com/news/wellbeing-research-grants": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Wellbeing research grants"
+ },
+ "https://www.anthropic.com/news/where-stand-department-war": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Where stand department war"
+ },
+ "https://www.anthropic.com/news/widening-conversation-ai": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Widening conversation ai"
+ },
+ "https://www.anthropic.com/news/zoom-partnership-and-investment": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Zoom partnership and investment"
+ },
+ "https://www.anthropic.com/press-kit": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Download press kit"
+ },
+ "https://www.anthropic.com/research/81k-economics": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "81k economics"
+ },
+ "https://www.anthropic.com/research/AI-assistance-coding-skills": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Ai assistance coding skills"
+ },
+ "https://www.anthropic.com/research/AI-resistant-technical-evaluations": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Ai resistant technical evaluations"
+ },
+ "https://www.anthropic.com/research/Claude-accelerates-protein-design": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude accelerates protein design"
+ },
+ "https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Evaluating claude for bioinformatics with biomysterybench"
+ },
+ "https://www.anthropic.com/research/a-general-language-assistant-as-a-laboratory-for-alignment": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "A general language assistant as a laboratory for alignment"
+ },
+ "https://www.anthropic.com/research/a-mathematical-framework-for-transformer-circuits": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "A mathematical framework for transformer circuits"
+ },
+ "https://www.anthropic.com/research/a-postmortem-of-three-recent-issues": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "A postmortem of three recent issues"
+ },
+ "https://www.anthropic.com/research/accelerating-scientific-research": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Accelerating scientific research"
+ },
+ "https://www.anthropic.com/research/advanced-tool-use": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Advanced tool use"
+ },
+ "https://www.anthropic.com/research/agentic-misalignment": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Agentic misalignment"
+ },
+ "https://www.anthropic.com/research/agents-in-biology": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Agents in biology"
+ },
+ "https://www.anthropic.com/research/agents-judgment-calls": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Agents judgment calls"
+ },
+ "https://www.anthropic.com/research/ai-expectations-gap": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Ai expectations gap"
+ },
+ "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Alignment assessment cybersecurity incidents"
+ },
+ "https://www.anthropic.com/research/alignment-assessment-ukaisi": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Alignment assessment ukaisi"
+ },
+ "https://www.anthropic.com/research/alignment-faking": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Alignment faking"
+ },
+ "https://www.anthropic.com/research/anthropic-economic-index-insights-from-claude-sonnet-3-7": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Anthropic economic index insights from claude sonnet 3 7"
+ },
+ "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Anthropic economic index january 2026 report"
+ },
+ "https://www.anthropic.com/research/anthropic-economic-index-september-2025-report": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Anthropic economic index september 2025 report"
+ },
+ "https://www.anthropic.com/research/anthropic-education-report-how-educators-use-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Anthropic education report how educators use claude"
+ },
+ "https://www.anthropic.com/research/anthropic-education-report-how-university-students-use-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Anthropic education report how university students use claude"
+ },
+ "https://www.anthropic.com/research/anthropic-interviewer": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Anthropic interviewer"
+ },
+ "https://www.anthropic.com/research/anthropic-public-record": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Anthropic public record"
+ },
+ "https://www.anthropic.com/research/april-23-postmortem": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "April 23 postmortem"
+ },
+ "https://www.anthropic.com/research/assistant-axis": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Assistant axis"
+ },
+ "https://www.anthropic.com/research/attack-navigator": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Attack navigator"
+ },
+ "https://www.anthropic.com/research/attack-surface-reduction": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Attack surface reduction"
+ },
+ "https://www.anthropic.com/research/auditing-hidden-objectives": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Auditing hidden objectives"
+ },
+ "https://www.anthropic.com/research/automated-alignment-researchers": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Automated alignment researchers"
+ },
+ "https://www.anthropic.com/research/automated-researchers-mitigate-alignment-failures": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Automated researchers mitigate alignment failures"
+ },
+ "https://www.anthropic.com/research/biorisk": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Biorisk"
+ },
+ "https://www.anthropic.com/research/bloom": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Bloom"
+ },
+ "https://www.anthropic.com/research/building-ai-cyber-defenders": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Building ai cyber defenders"
+ },
+ "https://www.anthropic.com/research/building-c-compiler": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Building c compiler"
+ },
+ "https://www.anthropic.com/research/building-effective-agents": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Building effective agents"
+ },
+ "https://www.anthropic.com/research/building-strong-safety-evaluations": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Building strong safety evaluations"
+ },
+ "https://www.anthropic.com/research/circuits-updates-april-2024": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Circuits updates april 2024"
+ },
+ "https://www.anthropic.com/research/circuits-updates-august-2024": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Circuits updates august 2024"
+ },
+ "https://www.anthropic.com/research/circuits-updates-july-2024": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Circuits updates july 2024"
+ },
+ "https://www.anthropic.com/research/circuits-updates-june-2024": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Circuits updates june 2024"
+ },
+ "https://www.anthropic.com/research/circuits-updates-may-2023": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Circuits updates may 2023"
+ },
+ "https://www.anthropic.com/research/circuits-updates-sept-2024": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Circuits updates sept 2024"
+ },
+ "https://www.anthropic.com/research/claude-4-cyber": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude 4 cyber"
+ },
+ "https://www.anthropic.com/research/claude-black-hole-physics": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude black hole physics"
+ },
+ "https://www.anthropic.com/research/claude-character": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude character"
+ },
+ "https://www.anthropic.com/research/claude-code-auto-mode": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude code auto mode"
+ },
+ "https://www.anthropic.com/research/claude-code-best-practices": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude code best practices"
+ },
+ "https://www.anthropic.com/research/claude-code-expertise": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude code expertise"
+ },
+ "https://www.anthropic.com/research/claude-code-sandboxing": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude code sandboxing"
+ },
+ "https://www.anthropic.com/research/claude-discovers-novel-enzyme-system": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude discovers novel enzyme system"
+ },
+ "https://www.anthropic.com/research/claude-electronics-design": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude electronics design"
+ },
+ "https://www.anthropic.com/research/claude-personal-guidance": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude personal guidance"
+ },
+ "https://www.anthropic.com/research/claude-plays-robotics": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude plays robotics"
+ },
+ "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude scorpion toxin binder design"
+ },
+ "https://www.anthropic.com/research/claude-shaped-science": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude shaped science"
+ },
+ "https://www.anthropic.com/research/claude-think-tool": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude think tool"
+ },
+ "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude uplifts biomolecular modeling"
+ },
+ "https://www.anthropic.com/research/claude-values-models-languages": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Claude values models languages"
+ },
+ "https://www.anthropic.com/research/clio": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Clio"
+ },
+ "https://www.anthropic.com/research/code-execution-with-mcp": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Code execution with mcp"
+ },
+ "https://www.anthropic.com/research/coding-agents-social-sciences": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Coding agents social sciences"
+ },
+ "https://www.anthropic.com/research/collective-constitutional-ai-aligning-a-language-model-with-public-input": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Collective constitutional ai aligning a language model with public input"
+ },
+ "https://www.anthropic.com/research/components-of-agent-memory": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Components of agent memory"
+ },
+ "https://www.anthropic.com/research/confidential-inference-trusted-vms": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Confidential inference trusted vms"
+ },
+ "https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Constitutional ai harmlessness from ai feedback"
+ },
+ "https://www.anthropic.com/research/constitutional-classifiers": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Constitutional classifiers"
+ },
+ "https://www.anthropic.com/research/contextual-retrieval": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Contextual retrieval"
+ },
+ "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Coordinated vulnerability disclosure timelines"
+ },
+ "https://www.anthropic.com/research/critical-infrastructure-defense": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Critical infrastructure defense"
+ },
+ "https://www.anthropic.com/research/crosscoder-model-diffing": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Crosscoder model diffing"
+ },
+ "https://www.anthropic.com/research/cyber-competitions": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Cyber competitions"
+ },
+ "https://www.anthropic.com/research/cyber-toolkits": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Cyber toolkits"
+ },
+ "https://www.anthropic.com/research/cyber-toolkits-update": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Cyber toolkits update"
+ },
+ "https://www.anthropic.com/research/decomposing-language-models-into-understandable-components": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Decomposing language models into understandable components"
+ },
+ "https://www.anthropic.com/research/demystifying-evals-for-ai-agents": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Demystifying evals for ai agents"
+ },
+ "https://www.anthropic.com/research/designing-efficient-quantum-circuits": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Designing efficient quantum circuits"
+ },
+ "https://www.anthropic.com/research/desktop-extensions": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Desktop extensions"
+ },
+ "https://www.anthropic.com/research/diff-tool": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Diff tool"
+ },
+ "https://www.anthropic.com/research/discovering-cryptographic-weaknesses": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Discovering cryptographic weaknesses"
+ },
+ "https://www.anthropic.com/research/discovering-language-model-behaviors-with-model-written-evaluations": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Discovering language model behaviors with model written evaluations"
+ },
+ "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Discovering vulnerabilities with claude"
+ },
+ "https://www.anthropic.com/research/disempowerment-patterns": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Disempowerment patterns"
+ },
+ "https://www.anthropic.com/research/distributed-representations-composition-superposition": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Distributed representations composition superposition"
+ },
+ "https://www.anthropic.com/research/donating-open-source-petri": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Donating open source petri"
+ },
+ "https://www.anthropic.com/research/early-progress-drug-development": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Early progress drug development"
+ },
+ "https://www.anthropic.com/research/ecdsa-curve-origins": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Ecdsa curve origins"
+ },
+ "https://www.anthropic.com/research/economic-index-geography": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Economic index geography"
+ },
+ "https://www.anthropic.com/research/economic-index-june-2026-report": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Economic index june 2026 report"
+ },
+ "https://www.anthropic.com/research/economic-index-march-2026-report": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Economic index march 2026 report"
+ },
+ "https://www.anthropic.com/research/economic-index-primitives": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Economic index primitives"
+ },
+ "https://www.anthropic.com/research/economic-index-survey-announcement": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Economic index survey announcement"
+ },
+ "https://www.anthropic.com/research/economic-policy-responses": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Economic policy responses"
+ },
+ "https://www.anthropic.com/research/effective-context-engineering-for-ai-agents": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Effective context engineering for ai agents"
+ },
+ "https://www.anthropic.com/research/effective-harnesses-for-long-running-agents": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Effective harnesses for long running agents"
+ },
+ "https://www.anthropic.com/research/emergent-misalignment-reward-hacking": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Emergent misalignment reward hacking"
+ },
+ "https://www.anthropic.com/research/emotion-concepts-function": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Emotion concepts function"
+ },
+ "https://www.anthropic.com/research/employment-at-anthropic": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Employment at anthropic"
+ },
+ "https://www.anthropic.com/research/enabling-independent-research": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Enabling independent research"
+ },
+ "https://www.anthropic.com/research/end-subset-conversations": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "End subset conversations"
+ },
+ "https://www.anthropic.com/research/engineering-challenges-interpretability": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Engineering challenges interpretability"
+ },
+ "https://www.anthropic.com/research/equipping-agents-for-the-real-world-with-agent-skills": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Equipping agents for the real world with agent skills"
+ },
+ "https://www.anthropic.com/research/estimating-productivity-gains": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Estimating productivity gains"
+ },
+ "https://www.anthropic.com/research/eval-awareness-browsecomp": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Eval awareness browsecomp"
+ },
+ "https://www.anthropic.com/research/evaluating-ai-systems": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Evaluating ai systems"
+ },
+ "https://www.anthropic.com/research/evaluating-and-mitigating-discrimination-in-language-model-decisions": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Evaluating and mitigating discrimination in language model decisions"
+ },
+ "https://www.anthropic.com/research/evaluating-feature-steering": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Evaluating feature steering"
+ },
+ "https://www.anthropic.com/research/expectations-for-the-future": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Expectations for the future"
+ },
+ "https://www.anthropic.com/research/exploit": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Exploit"
+ },
+ "https://www.anthropic.com/research/exploit-evals": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Exploit evals"
+ },
+ "https://www.anthropic.com/research/exploring-model-welfare": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Exploring model welfare"
+ },
+ "https://www.anthropic.com/research/features-as-classifiers": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Features as classifiers"
+ },
+ "https://www.anthropic.com/research/forecasting-rare-behaviors": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Forecasting rare behaviors"
+ },
+ "https://www.anthropic.com/research/formal-verification": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Formal verification"
+ },
+ "https://www.anthropic.com/research/formalizing-fermats-last-theorem": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Formalizing fermats last theorem"
+ },
+ "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Glm 5 3 and the spread of advanced cyber capabilities"
+ },
+ "https://www.anthropic.com/research/global-workspace": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Global workspace"
+ },
+ "https://www.anthropic.com/research/golden-gate-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Golden gate claude"
+ },
+ "https://www.anthropic.com/research/harness-design-long-running-apps": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Harness design long running apps"
+ },
+ "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "How ai is transforming work at anthropic"
+ },
+ "https://www.anthropic.com/research/how-australia-uses-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "How australia uses claude"
+ },
+ "https://www.anthropic.com/research/how-canada-uses-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "How canada uses claude"
+ },
+ "https://www.anthropic.com/research/how-people-use-claude-for-support-advice-and-companionship": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "How people use claude for support advice and companionship"
+ },
+ "https://www.anthropic.com/research/how-researchers-use-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "How researchers use claude"
+ },
+ "https://www.anthropic.com/research/how-we-contain-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "How we contain claude"
+ },
+ "https://www.anthropic.com/research/impact-software-development": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Impact software development"
+ },
+ "https://www.anthropic.com/research/in-context-learning-and-induction-heads": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "In context learning and induction heads"
+ },
+ "https://www.anthropic.com/research/india-brief-economic-index": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "India brief economic index"
+ },
+ "https://www.anthropic.com/research/influence-functions": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Influence functions"
+ },
+ "https://www.anthropic.com/research/infrastructure-noise": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Infrastructure noise"
+ },
+ "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Intelligence targeting conventional weapons capabilities"
+ },
+ "https://www.anthropic.com/research/interpretability-dreams": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Interpretability dreams"
+ },
+ "https://www.anthropic.com/research/introducing-anthropic-science": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Introducing anthropic science"
+ },
+ "https://www.anthropic.com/research/introspection": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Introspection"
+ },
+ "https://www.anthropic.com/research/investigating-unintended-model-actions": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Investigating unintended model actions"
+ },
+ "https://www.anthropic.com/research/investigating-vault-particles-with-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Investigating vault particles with claude"
+ },
+ "https://www.anthropic.com/research/labor-market-impacts": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Labor market impacts"
+ },
+ "https://www.anthropic.com/research/language-models-mostly-know-what-they-know": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Language models mostly know what they know"
+ },
+ "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Launching opt in vuln finding service for open source"
+ },
+ "https://www.anthropic.com/research/long-running-claude": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Long running claude"
+ },
+ "https://www.anthropic.com/research/making-claude-a-chemist": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Making claude a chemist"
+ },
+ "https://www.anthropic.com/research/managed-agents": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Managed agents"
+ },
+ "https://www.anthropic.com/research/many-shot-jailbreaking": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Many shot jailbreaking"
+ },
+ "https://www.anthropic.com/research/mapping-mind-language-model": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Mapping mind language model"
+ },
+ "https://www.anthropic.com/research/measuring-agent-autonomy": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Measuring agent autonomy"
+ },
+ "https://www.anthropic.com/research/measuring-faithfulness-in-chain-of-thought-reasoning": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Measuring faithfulness in chain of thought reasoning"
+ },
+ "https://www.anthropic.com/research/measuring-model-persuasiveness": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Measuring model persuasiveness"
+ },
+ "https://www.anthropic.com/research/measuring-progress-on-scalable-oversight-for-large-language-models": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Measuring progress on scalable oversight for large language models"
+ },
+ "https://www.anthropic.com/research/multi-agent-research-system": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Multi agent research system"
+ },
+ "https://www.anthropic.com/research/multiagent-systems": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Multiagent systems"
+ },
+ "https://www.anthropic.com/research/mythos-preview": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Mythos preview"
+ },
+ "https://www.anthropic.com/research/n-days": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "N days"
+ },
+ "https://www.anthropic.com/research/natural-language-autoencoders": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Natural language autoencoders"
+ },
+ "https://www.anthropic.com/research/next-generation-constitutional-classifiers": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Next generation constitutional classifiers"
+ },
+ "https://www.anthropic.com/research/nuclear-safeguards-for-ai": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Nuclear safeguards for ai"
+ },
+ "https://www.anthropic.com/research/off-switch-dual-use": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Off switch dual use"
+ },
+ "https://www.anthropic.com/research/open-source-circuit-tracing": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Open source circuit tracing"
+ },
+ "https://www.anthropic.com/research/persona-selection-model": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Persona selection model"
+ },
+ "https://www.anthropic.com/research/persona-vectors": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Persona vectors"
+ },
+ "https://www.anthropic.com/research/petri-open-source-auditing": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Petri open source auditing"
+ },
+ "https://www.anthropic.com/research/political-even-handedness": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Political even handedness"
+ },
+ "https://www.anthropic.com/research/predictability-and-surprise-in-large-generative-models": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Predictability and surprise in large generative models"
+ },
+ "https://www.anthropic.com/research/privileged-bases-in-the-transformer-residual-stream": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Privileged bases in the transformer residual stream"
+ },
+ "https://www.anthropic.com/research/probes-catch-sleeper-agents": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Probes catch sleeper agents"
+ },
+ "https://www.anthropic.com/research/project-eve-claude-plays-mmorpgs": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Project eve claude plays mmorpgs"
+ },
+ "https://www.anthropic.com/research/project-fetch-phase-two": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Project fetch phase two"
+ },
+ "https://www.anthropic.com/research/project-fetch-robot-dog": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Project fetch robot dog"
+ },
+ "https://www.anthropic.com/research/project-pilot": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Project pilot"
+ },
+ "https://www.anthropic.com/research/project-swap": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Project swap"
+ },
+ "https://www.anthropic.com/research/project-vend-1": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Project vend 1"
+ },
+ "https://www.anthropic.com/research/project-vend-2": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Project vend 2"
+ },
+ "https://www.anthropic.com/research/prompt-injection-defenses": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Prompt injection defenses"
+ },
+ "https://www.anthropic.com/research/property-based-testing": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Property based testing"
+ },
+ "https://www.anthropic.com/research/provable-inference": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Provable inference"
+ },
+ "https://www.anthropic.com/research/question-decomposition-improves-the-faithfulness-of-model-generated-reasoning": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Question decomposition improves the faithfulness of model generated reasoning"
+ },
+ "https://www.anthropic.com/research/reasoning-models-dont-say-think": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Reasoning models dont say think"
+ },
+ "https://www.anthropic.com/research/red-teaming-language-models-to-reduce-harms-methods-scaling-behaviors-and-lessons-learned": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Red teaming language models to reduce harms methods scaling behaviors and lessons learned"
+ },
+ "https://www.anthropic.com/research/redesigning-source-control": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Redesigning source control"
+ },
+ "https://www.anthropic.com/research/reviewing-the-evidence-on-worker-retraining-programs": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Reviewing the evidence on worker retraining programs"
+ },
+ "https://www.anthropic.com/research/reward-tampering": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Reward tampering"
+ },
+ "https://www.anthropic.com/research/riemann-zeta": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Riemann zeta"
+ },
+ "https://www.anthropic.com/research/sabotage-evaluations": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Sabotage evaluations"
+ },
+ "https://www.anthropic.com/research/scaling-laws-and-interpretability-of-learning-from-repeated-data": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Scaling laws and interpretability of learning from repeated data"
+ },
+ "https://www.anthropic.com/research/self-replicating-ai": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Self replicating ai"
+ },
+ "https://www.anthropic.com/research/shade-arena-sabotage-monitoring": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Shade arena sabotage monitoring"
+ },
+ "https://www.anthropic.com/research/sleeper-agents-training-deceptive-llms-that-persist-through-safety-training": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Sleeper agents training deceptive llms that persist through safety training"
+ },
+ "https://www.anthropic.com/research/small-samples-poison": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Small samples poison"
+ },
+ "https://www.anthropic.com/research/smart-contracts": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Smart contracts"
+ },
+ "https://www.anthropic.com/research/softmax-linear-units": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Softmax linear units"
+ },
+ "https://www.anthropic.com/research/specific-versus-general-principles-for-constitutional-ai": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Specific versus general principles for constitutional ai"
+ },
+ "https://www.anthropic.com/research/statistical-approach-to-model-evals": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Statistical approach to model evals"
+ },
+ "https://www.anthropic.com/research/strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Strategic warning for ai risk progress and insights from our frontier red team"
+ },
+ "https://www.anthropic.com/research/studying-large-language-model-generalization-with-influence-functions": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Studying large language model generalization with influence functions"
+ },
+ "https://www.anthropic.com/research/superposition-memorization-and-double-descent": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Superposition memorization and double descent"
+ },
+ "https://www.anthropic.com/research/swe-bench-sonnet": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Swe bench sonnet"
+ },
+ "https://www.anthropic.com/research/teaching-ai-to-build-scientific-models": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Teaching ai to build scientific models"
+ },
+ "https://www.anthropic.com/research/teaching-claude-why": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Teaching claude why"
+ },
+ "https://www.anthropic.com/research/the-anthropic-economic-index": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "The anthropic economic index"
+ },
+ "https://www.anthropic.com/research/the-capacity-for-moral-self-correction-in-large-language-models": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "The capacity for moral self correction in large language models"
+ },
+ "https://www.anthropic.com/research/the-missing-map-of-the-sky": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "The missing map of the sky"
+ },
+ "https://www.anthropic.com/research/towards-measuring-the-representation-of-subjective-global-opinions-in-language-models": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Towards measuring the representation of subjective global opinions in language models"
+ },
+ "https://www.anthropic.com/research/towards-monosemanticity-decomposing-language-models-with-dictionary-learning": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Towards monosemanticity decomposing language models with dictionary learning"
+ },
+ "https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Towards understanding sycophancy in language models"
+ },
+ "https://www.anthropic.com/research/toy-models-of-superposition": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Toy models of superposition"
+ },
+ "https://www.anthropic.com/research/tracing-thoughts-language-model": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Tracing thoughts language model"
+ },
+ "https://www.anthropic.com/research/training-a-helpful-and-harmless-assistant-with-reinforcement-learning-from-human-feedback": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Training a helpful and harmless assistant with reinforcement learning from human feedback"
+ },
+ "https://www.anthropic.com/research/transformer-circuits": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Transformer circuits"
+ },
+ "https://www.anthropic.com/research/trustworthy-agents": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Trustworthy agents"
+ },
+ "https://www.anthropic.com/research/values-wild": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Values wild"
+ },
+ "https://www.anthropic.com/research/vibe-physics": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Vibe physics"
+ },
+ "https://www.anthropic.com/research/what-work-can-robots-do": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "What work can robots do"
+ },
+ "https://www.anthropic.com/research/writing-tools-for-agents": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Writing tools for agents"
+ },
+ "https://www.anthropic.com/research/yes-claude-can-do-nine-loops": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Yes claude can do nine loops"
+ },
+ "https://www.anthropic.com/research/your-thoughts-on-ai": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Your thoughts on ai"
+ },
+ "https://www.anthropic.com/research/zero-days": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic",
+  "title": "Zero days"
+ },
+ "https://www.anthropic.com/science": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Science"
+ },
+ "https://www.anthropic.com/search": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "anthropic-news",
+  "title": "Search"
+ },
  "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal": {
   "first_seen": "2026-11-20T20:33:39+00:00",
   "source": "sec-press",
@@ -1059,6 +4865,11 @@
   "source": "sec-press",
   "title": "SEC\u2019s Division of Examinations Announces New Exam Handbook"
  },
+ "https://www.sec.gov/newsroom/press-releases/press-releases-archive": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "sec-press",
+  "title": "Press Release Archive"
+ },
  "https://www.sec.gov/newsroom/speeches-statements/atkins-101326-statement-commissions-approval-proposed-rule-change-permit-listing-binary-options-overlying-key": {
   "first_seen": "2026-11-20T20:33:39+00:00",
   "source": "sec-speech",
@@ -1134,6 +4945,11 @@
   "source": "sec-speech",
   "title": "How Soon is Now?"
  },
+ "https://www.sec.gov/newsroom/speeches-statements/speeches-statements-archive": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "sec-speech",
+  "title": "Speeches and Statements Archive"
+ },
  "https://www.sec.gov/newsroom/speeches-statements/uyeda-remarks-american-bar-association-meeting-111926": {
   "first_seen": "2026-11-20T20:33:39+00:00",
   "source": "sec-speech",
@@ -1183,5 +4999,470 @@
   "first_seen": "2026-11-20T20:33:39+00:00",
   "source": "sec-speech",
   "title": "Remarks at the 26th Annual A.A. Sommer Lecture"
+ },
+ "https://x.ai/news/agent-dashboard": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Agent Dashboard in Grok Build Manage many coding sessions at once. See what each is doing, reply to the ones that need you, and dispatch new work. Jun 15, 2026"
+ },
+ "https://x.ai/news/anthropic-compute-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "New Compute Partnership with Anthropic SpaceXSI has signed an agreement with Anthropic to provide access to Colossus 1. May 6, 2026"
+ },
+ "https://x.ai/news/api": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "API Public Beta Starting today, developers can build on our Grok foundation models using our newly released API. We will run a public beta program until the end of 2024 during which everyone will get $25 of free API credits per month. Nov 4, 2024"
+ },
+ "https://x.ai/news/biosafety-at-the-frontier": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Biosecurity at the frontier LatchBio evaluated Grok's performance on biosecurity monitoring and adversarial biological tasks. They found that Grok 4.6 detects and refuses dangerous queries more reliably than any other frontier system. Sep 1, 2026"
+ },
+ "https://x.ai/news/composer-2-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Composer 2.5 Composer 2.5 is now available in Grok Build. Try it from the /models menu. Jun 1, 2026"
+ },
+ "https://x.ai/news/data-bot": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Product \u00b7 Nov 2, 2026 Giving every team a data scientist with Grok Bot"
+ },
+ "https://x.ai/news/designing-grok-bot": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Designing Grok Bot for a world of persistent agents How we designed Grok Bot for agents that persist beyond a single session \u2014 from a chat history to a Bot roster, presence, a computer of the Bot\u2019s own, and work that starts without a prompt. Sep 3, 2026"
+ },
+ "https://x.ai/news/el-salvador-partnership": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "xAI and El Salvador Pioneer the World's First Nationwide AI Education Program Announcing Our Transformative Partnership with the Government of El Salvador. Dec 11, 2025"
+ },
+ "https://x.ai/news/government": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Announcing xAI for Government We are excited to announce xAI For Government \u2013 a suite of frontier AI products available first to United States Government customers. Jul 14, 2025"
+ },
+ "https://x.ai/news/grok": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Announcing Grok Grok is an AI modeled after the Hitchhiker\u2019s Guide to the Galaxy. It is intended to answer almost anything and, far harder, even suggest what questions to ask! Nov 3, 2023"
+ },
+ "https://x.ai/news/grok-1.5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Announcing Grok-1.5 Grok-1.5 comes with improved reasoning capabilities and a context length of 128,000 tokens. Available on \ud835\udd4f soon. Mar 28, 2024"
+ },
+ "https://x.ai/news/grok-1.5v": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok-1.5 Vision Preview Connecting the digital and physical worlds with our first multimodal model. Apr 12, 2024"
+ },
+ "https://x.ai/news/grok-1212": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Bringing Grok to Everyone Grok is now faster, sharper, and has improved multilingual support. It is available to everyone on the \ud835\udd4f platform. Dec 12, 2024"
+ },
+ "https://x.ai/news/grok-2": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok-2 Beta Release We announce our new Grok-2 and Grok-2 mini models. Aug 13, 2024"
+ },
+ "https://x.ai/news/grok-3": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok 3 Beta \u2014 The Age of Reasoning Agents We are thrilled to unveil an early preview of Grok 3, our most advanced model yet, blending superior reasoning with extensive pretraining knowledge. Feb 19, 2025"
+ },
+ "https://x.ai/news/grok-4": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok 4 Grok 4 is the most intelligent model in the world. It includes native tool use and real-time search integration, and is available now to SuperGrok and Premium+ subscribers, as well as through the xAI API. We are also introducing a new SuperGrok Heavy tier with access to Grok 4 Heavy - the most powerful version of Grok 4. Jul 9, 2025"
+ },
+ "https://x.ai/news/grok-4-1": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok 4.1 Grok 4.1 is now available to all users on grok.com, \ud835\udd4f, and the iOS and Android apps. It is rolling out immediately in Auto mode and can be selected explicitly as \u201cGrok 4.1\u201d in the model picker. Nov 17, 2025"
+ },
+ "https://x.ai/news/grok-4-1-fast": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok 4.1 Fast and Agent Tools API Bringing the next generation of tool-calling agents to the xAI API Nov 19, 2025"
+ },
+ "https://x.ai/news/grok-4-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Grok 4.5 Grok 4.5 is SpaceXSI's smartest model built for coding, agentic tasks, and knowledge work. Jul 16, 2026"
+ },
+ "https://x.ai/news/grok-4-5-everywhere": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Bringing Grok 4.5 to iOS, Android, Web, and X Grok 4.5, our most intelligent model yet, is now on grok.com, X, iOS, and Android. Jul 22, 2026"
+ },
+ "https://x.ai/news/grok-4-6": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Grok 4.6 Grok 4.6 builds on Grok 4.5 with a particular focus on long-running agents and more ambitious interactive and visual work. Aug 12, 2026"
+ },
+ "https://x.ai/news/grok-4-6-amazon-bedrock": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok 4.6 on Amazon Bedrock Grok 4.6 is now available via Amazon Bedrock. Aug 19, 2026"
+ },
+ "https://x.ai/news/grok-4-6-github-copilot": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok 4.6 in GitHub Copilot Grok 4.6, our latest coding model, is now available in GitHub Copilot. Aug 14, 2026"
+ },
+ "https://x.ai/news/grok-4-6-microsoft-foundry": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok 4.6 on Microsoft Foundry Grok 4.6 is now available via Microsoft Foundry. Aug 26, 2026"
+ },
+ "https://x.ai/news/grok-4-6-vertex-ai": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok 4.6 on Gemini Enterprise Agent Platform Grok 4.6 is now available via Gemini Enterprise Agent Platform. Aug 21, 2026"
+ },
+ "https://x.ai/news/grok-4-7": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Grok 4.7 SpaceXSI's most powerful model for coding and knowledge work. Twice as fast, at half the price of comparable models. Sep 21, 2026"
+ },
+ "https://x.ai/news/grok-4-fast": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok 4 Fast Pushing the Frontier of Cost-Efficient Intelligence Sep 19, 2025"
+ },
+ "https://x.ai/news/grok-amazon-bedrock": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok on Amazon Bedrock Grok models are now available via Amazon Bedrock. Jun 17, 2026"
+ },
+ "https://x.ai/news/grok-automations": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Automations in Grok Describe a job once and Grok runs it on a schedule or when an email arrives, then reports back. Jul 16, 2026"
+ },
+ "https://x.ai/news/grok-bot-1-0": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Nov 11, 2026 Introducing Grok Bot 1.0 Bots now work with your whole team, take on work without being asked, and get more done, faster. Read More"
+ },
+ "https://x.ai/news/grok-bot-accounting": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Product \u00b7 Nov 16, 2026 Building an accounting team with Grok Bot"
+ },
+ "https://x.ai/news/grok-bot-and-x": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Bot now works with X Grok Bot now has a tighter integration with X. Aug 29, 2026"
+ },
+ "https://x.ai/news/grok-bot-customer-support": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "How SpaceXSI is using Grok Bot to scale customer support We rebuilt the combined SpaceXSI and Cursor support operation around Grok Bot, expanding to a much broader product portfolio without adding headcount. Sep 22, 2026"
+ },
+ "https://x.ai/news/grok-bot-for-enterprise": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Bot for Enterprise Grok Bot is now available for enterprises. Grok and Cursor Enterprise customers have free usage for the next two weeks, and can invite their whole organization, including people without an existing seat. Sep 3, 2026"
+ },
+ "https://x.ai/news/grok-bot-more-plans": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Bot is now included with more plans Grok Bot is now available for SuperGrok, Cursor Pro, and all Cursor Teams plans. Aug 26, 2026"
+ },
+ "https://x.ai/news/grok-bot-procurement": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Setting Grok Bot loose on procurement We gave Grok Bot access to vendor spend, contracts, and usage data. It found more than $100,000 in direct savings. Sep 4, 2026"
+ },
+ "https://x.ai/news/grok-bot-sales": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Product \u00b7 Oct 27, 2026 Your next sales teammate should be a Grok Bot"
+ },
+ "https://x.ai/news/grok-build-0-1": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Build 0.1 on API Grok Build 0.1, our fastest coding model, is now available via the xAI API in public beta. May 29, 2026"
+ },
+ "https://x.ai/news/grok-build-cli": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Grok Build Now in early beta for all SuperGrok and X Premium Plus subscribers \u2014 Grok Build is a new coding agent that runs right from your terminal. May 25, 2026"
+ },
+ "https://x.ai/news/grok-build-for-everyone": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Build on web and mobile Grok Build is now available on every plan, on the web and on mobile. Aug 19, 2026"
+ },
+ "https://x.ai/news/grok-build-memory": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Memory in Grok Build Grok Build now carries conventions, decisions, and project facts from one session to the next. Notes are written in the background as you work and read back when you return to the project. Sep 16, 2026"
+ },
+ "https://x.ai/news/grok-build-mode": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Build Mode Create and share websites, apps, games, and interactive dashboards. Now in Early Beta for SuperGrok Heavy subscribers on grok.com, iOS, and Android. Jul 28, 2026"
+ },
+ "https://x.ai/news/grok-build-open-source": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Build is Now Open Source Explore the harness behind our coding agent and TUI. Jul 15, 2026"
+ },
+ "https://x.ai/news/grok-business": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Grok Business and Grok Enterprise The best assistant in the world is now Enterprise ready. Dec 30, 2025"
+ },
+ "https://x.ai/news/grok-code-fast-1": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Code Fast 1 We're thrilled to introduce grok-code-fast-1, a speedy and economical reasoning model that excels at agentic coding. Aug 28, 2025"
+ },
+ "https://x.ai/news/grok-collections-api": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Collections API State-of-the-art RAG system built directly into our API. Dec 22, 2025"
+ },
+ "https://x.ai/news/grok-connectors": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Connectors in web, iOS, and Android Deep integrations that bring the apps you use every day directly into Grok. May 6, 2026"
+ },
+ "https://x.ai/news/grok-custom-voices": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Custom Voices Your voice. Your brand. Clone a voice from a short recording and use it across Grok Text to Speech and Speech to Speech APIs. Apr 30, 2026"
+ },
+ "https://x.ai/news/grok-databricks": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok on Databricks Grok models are now available on Databricks Agent Bricks. Jun 18, 2026"
+ },
+ "https://x.ai/news/grok-github-copilot": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok 4.5 in GitHub Copilot Grok 4.5, our smartest coding model, is now available in GitHub Copilot. Jul 28, 2026"
+ },
+ "https://x.ai/news/grok-goes-global": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok goes Global with KSA Announcing Our Landmark Partnership with Saudi Arabia and HUMAIN Nov 19, 2025"
+ },
+ "https://x.ai/news/grok-hermes": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Connect Grok to Hermes Agent Use your Grok account and subscription inside Nous Research\u2019s open-source, self-improving Hermes agent. May 15, 2026"
+ },
+ "https://x.ai/news/grok-image-generation-release": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Image Generation Release We are updating Grok's capabilities with a new autoregressive image generation model, code-named Aurora, available on the \ud835\udd4f platform. Dec 9, 2024"
+ },
+ "https://x.ai/news/grok-imagine-1-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Imagine 1.5 Preview grok-imagine-video-1.5-preview, our latest image-to-video model, is now available via the xAI API in preview. Jun 3, 2026"
+ },
+ "https://x.ai/news/grok-imagine-api": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Imagine API State-of-the-art video generation across quality, cost, and latency. Jan 28, 2026"
+ },
+ "https://x.ai/news/grok-imagine-image-2": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Imagine Image 2.0 Precise image generation and editing, built for real creative work. Aug 7, 2026"
+ },
+ "https://x.ai/news/grok-imagine-quality-mode": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Imagine Quality Mode API Higher realism. Stronger text rendering. Better creative control. May 6, 2026"
+ },
+ "https://x.ai/news/grok-imagine-video-1-5": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Imagine Video 1.5 Improved quality at even faster speeds. Jun 16, 2026"
+ },
+ "https://x.ai/news/grok-imagine-video-1-5-references": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Imagine Video 1.5 with References Our best video model, now with text, image, and voice references \u2014 generating up to 1080p. Jul 31, 2026"
+ },
+ "https://x.ai/news/grok-kilocode": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Use Grok in Kilo Code Use your SuperGrok or X Premium+ subscription inside Kilo Code, the open-source agentic coding platform. May 27, 2026"
+ },
+ "https://x.ai/news/grok-openclaw": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Use Grok in OpenClaw Use your SuperGrok or X Premium subscription inside OpenClaw, an open-source, local-first agent and personal assistant. May 19, 2026"
+ },
+ "https://x.ai/news/grok-opencode": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Use Grok in OpenCode Use your SuperGrok or X Premium subscription inside OpenCode. May 21, 2026"
+ },
+ "https://x.ai/news/grok-os": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Open Release of Grok-1 We are releasing the weights and architecture of our 314 billion parameter Mixture-of-Experts model Grok-1. Mar 17, 2024"
+ },
+ "https://x.ai/news/grok-plugin-marketplace": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Build Plugin Marketplace Launching the built-in plugin marketplace for Grok Build. Jun 11, 2026"
+ },
+ "https://x.ai/news/grok-skills": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Skills in web, iOS, and Android Persistent expertise for Grok. Generate documents, decks, and spreadsheets. Automate workflows. Build and share your own skills. May 18, 2026"
+ },
+ "https://x.ai/news/grok-stt-and-tts-apis": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Speech to Text and Text to Speech APIs Fast and accurate. Natural, expressive voices. Simple pricing. Multilingual support. Apr 17, 2026"
+ },
+ "https://x.ai/news/grok-voice-3": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Grok Voice 3.0 The world\u2019s most intelligent voice model. Oct 14, 2026"
+ },
+ "https://x.ai/news/grok-voice-agent-api": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Voice Agent API Bringing the power of Grok Voice to all developers. Dec 17, 2025"
+ },
+ "https://x.ai/news/grok-voice-agent-builder": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing the Voice Agent Builder Create a personalized voice agent in under 2 minutes without a single line of code. Jul 1, 2026"
+ },
+ "https://x.ai/news/grok-voice-think-fast-1": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok Voice 1.0 Our most capable voice agent is now available via API. Apr 23, 2026"
+ },
+ "https://x.ai/news/grok-voice-think-fast-2": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Grok Voice 2.0 Introducing our most capable speech-to-speech voice model. Jul 29, 2026"
+ },
+ "https://x.ai/news/grok-voice-transcribe-2": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Grok Voice Transcribe 2.0 Announcing SpaceXSI's newest speech-to-text model, with unparalleled accuracy and cost effectiveness. Sep 18, 2026"
+ },
+ "https://x.ai/news/grok-warp": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Use Grok in Warp Use your Grok and X Premium subscription inside Warp. Jun 15, 2026"
+ },
+ "https://x.ai/news/incident-sweep": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Using Grok Bot to detect and respond to incidents IncidentWatch spots ticket spikes before internal alerts fire. IncidentSweep clears the related backlog in an approved batch. Oct 20, 2026"
+ },
+ "https://x.ai/news/introducing-excel-addin": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Grok for Excel Use the Grok add-in for Microsoft Excel to ask questions in plain English, write formulas, and run scenarios without leaving the workbook. Jul 20, 2026"
+ },
+ "https://x.ai/news/introducing-goal": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing /goal Use /goal for long-running autonomous task execution in Grok Build. Jun 22, 2026"
+ },
+ "https://x.ai/news/introducing-google-workspace-addon": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Grok in Google Workspace Use the Grok add-on for Google Workspace to work directly in Sheets, Slides, and Docs. Jul 24, 2026"
+ },
+ "https://x.ai/news/introducing-grok-bot": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Grok Bot Grok Bot is your team of always-on agents. They have their own computer, work inside tools and apps like you do, and keep working 24/7. Aug 11, 2026"
+ },
+ "https://x.ai/news/introducing-outlook-addin": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Grok for Outlook Use the Grok add-in for Microsoft Outlook to summarize long email threads, draft replies in your voice, and keep your inbox organized. Jul 21, 2026"
+ },
+ "https://x.ai/news/introducing-powerpoint-addin": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Grok for PowerPoint Grok now works inside Microsoft PowerPoint \u2014 turn outlines into slides, expand the deck, and tighten the narrative without leaving the app. Jun 16, 2026"
+ },
+ "https://x.ai/news/introducing-word-addin": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing Grok for Word Use the Grok add-in for Microsoft Word to turn notes into documents, style and format your work, or bring research from the web into Word. Jun 18, 2026"
+ },
+ "https://x.ai/news/new-flagship-voices": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "21 New Flagship Grok Voices New multilingual voices for Grok Voice, plus improved naturalness for the original five. Jul 6, 2026"
+ },
+ "https://x.ai/news/onegov": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Expanding xAI for Government with GSA OneGov Expanding \u2018xAI For Government\u2019 with more accessible AI tools for the Federal Government Sep 25, 2025"
+ },
+ "https://x.ai/news/partnernetworkannouncement": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Company \u00b7 Oct 22, 2026 Introducing the SpaceX Super Intelligence Partner Network"
+ },
+ "https://x.ai/news/prompt-ide": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Announcing PromptIDE Integrated development environment for prompt engineering and interpretability research. Nov 6, 2023"
+ },
+ "https://x.ai/news/series-b": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Series B funding round xAI is pleased to announce our series B funding round of $6 billion. May 26, 2024"
+ },
+ "https://x.ai/news/series-c": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "xAI raises $6B Series C We are partnering with A16Z, Blackrock, Fidelity Management & Research Company, Kingdom Holdings, Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia Capital, Valor Equity Partners and Vy Capital, amongst others. Dec 23, 2024"
+ },
+ "https://x.ai/news/series-e": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "xAI Raises $20B Series E xAI is rapidly accelerating its progress in building advanced AI. Jan 6, 2026"
+ },
+ "https://x.ai/news/team-bots": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Team Bots: shared AI teammates that learn as they work Give a Grok Bot the files, apps, and expertise it needs, then share it so your whole team can work from the same context. Sep 28, 2026"
+ },
+ "https://x.ai/news/us-gov-dept-of-war": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Supporting the DOW's mission with AI xAI is proud to be selected by the US Department of War to deliver Frontier AI Dec 22, 2025"
+ },
+ "https://x.ai/news/workflows": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Workflows in Grok Build Grok Build can now write and run workflows: orchestration scripts that fan a task out across hundreds of parallel agents, verify the results, and report back in one background run. Jul 23, 2026"
+ },
+ "https://x.ai/news/x-subscription": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "Introducing The X Subscription Grok, Grok Bot, Cursor, and X Premium, all on one plan. Oct 12, 2026"
+ },
+ "https://x.ai/news/xai-joins-spacex": {
+  "first_seen": "2026-11-21T00:05:17+00:00",
+  "source": "xai",
+  "title": "xAI joins SpaceX SpaceX announced today that it has acquired xAI. Feb 2, 2026"
  }
 }
