@@ -74,7 +74,7 @@ SOURCES = [
     # Andrej Karpathy: public GitHub activity (new repos, pushes, releases), gists, and blog
     ("karpathy-github", "Karpathy GitHub", "gh_events",
      "https://api.github.com/users/karpathy/events/public?per_page=50", {}),
-    ("karpathy-gist", "Karpathy gist", "gh_gists", "https://api.github.com/users/karpathy/gists?per_page=30", {}),
+    ("karpathy-gist", "Karpathy gist", "rss", "https://gist.github.com/karpathy.atom", {}),
     ("karpathy-blog", "Karpathy blog post", "rss", "https://karpathy.github.io/feed.xml", {}),
 ]
 
