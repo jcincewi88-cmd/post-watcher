@@ -27,6 +27,7 @@ SEEN_FILE = Path(__file__).with_name("seen.json")
 META_KEY = "__meta__"
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
 CONGRESS_API_KEY = os.environ.get("CONGRESS_API_KEY", "").strip()
+GH_TOKEN = os.environ.get("GH_TOKEN", "").strip()  # GitHub's automatic per-run key (higher rate limits)
 SEC_UA = os.environ.get("SEC_USER_AGENT", "").strip() or "post-watcher contact@example.com"
 BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/124.0 Safari/537.36 post-watcher/1.1")
@@ -70,17 +71,27 @@ SOURCES = [
      "https://api.congress.gov/v3/daily-congressional-record", {}),
     ("crec", "Congressional Record issue", "crec_govinfo", "https://www.govinfo.gov/sitemap/CREC_{year}_sitemap.xml", {}),
     ("crec", "Congressional Record issue", "crec_govinfo", "https://www.govinfo.gov/rss/crec.xml", {}),
+    # Andrej Karpathy: public GitHub activity (new repos, pushes, releases), gists, and blog
+    ("karpathy-github", "Karpathy GitHub", "gh_events",
+     "https://api.github.com/users/karpathy/events/public?per_page=50", {}),
+    ("karpathy-gist", "Karpathy gist", "gh_gists", "https://api.github.com/users/karpathy/gists?per_page=30", {}),
+    ("karpathy-blog", "Karpathy blog post", "rss", "https://karpathy.github.io/feed.xml", {}),
 ]
 
 
 def fetch(url):
     ua = SEC_UA if "sec.gov" in url else BROWSER_UA
-    req = urllib.request.Request(url, headers={
+    headers = {
         "User-Agent": ua,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9",
         "Accept-Encoding": "identity",
-    })
+    }
+    if url.startswith("https://api.github.com/"):
+        headers["Accept"] = "application/vnd.github+json"
+        if GH_TOKEN:
+            headers["Authorization"] = f"Bearer {GH_TOKEN}"
+    req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=30) as resp:
         return resp.read().decode("utf-8", errors="replace")
 
@@ -182,13 +193,17 @@ def collect():
                 items = parse_congress_api(body)
             elif kind == "crec_govinfo":
                 items = parse_crec_govinfo(body)
+            elif kind == "gh_events":
+                items = parse_gh_events(body)
+            elif kind == "gh_gists":
+                items = parse_gh_gists(body)
             elif kind == "rss":
                 items = parse_feed(body, opts.get("category"))
             elif kind == "sitemap":
                 items = parse_sitemap(body, url, opts["path"])
             else:
                 items = parse_page(body, url, opts["path"])
-            if items:
+            if items or kind in ("gh_events", "gh_gists"):  # quiet stretches are normal on GitHub
                 ok_keys.add(key)
             else:
                 problems.setdefault(key, []).append(f"{url}: no posts found")
@@ -226,6 +241,41 @@ def parse_congress_api(body):
 def parse_crec_govinfo(body):
     ids = set(re.findall(r"https://www\.govinfo\.gov/app/details/CREC-(\d{4}-\d{2}-\d{2})", body))
     return [crec_item(d, url=f"https://www.govinfo.gov/app/details/CREC-{d}") for d in sorted(ids)]
+
+
+def parse_gh_events(body):
+    """Public GitHub activity worth knowing about: new repos, pushes, releases, repos made public."""
+    items = []
+    for e in json.loads(body):
+        repo = (e.get("repo") or {}).get("name", "")
+        p = e.get("payload") or {}
+        kind = e.get("type")
+        if kind == "PushEvent":
+            commits = p.get("commits") or []
+            msg = (commits[-1].get("message", "").splitlines() or [""])[0] if commits else ""
+            title, url = f"Pushed to {repo}" + (f": {msg}" if msg else ""), f"https://github.com/{repo}/commits"
+        elif kind == "CreateEvent" and p.get("ref_type") == "repository":
+            desc = p.get("description") or ""
+            title, url = f"New repo: {repo}" + (f" — {desc}" if desc else ""), f"https://github.com/{repo}"
+        elif kind == "PublicEvent":
+            title, url = f"Made public: {repo}", f"https://github.com/{repo}"
+        elif kind == "ReleaseEvent":
+            rel = p.get("release") or {}
+            title = f"Release in {repo}: {rel.get('name') or rel.get('tag_name') or ''}".rstrip(": ")
+            url = rel.get("html_url") or f"https://github.com/{repo}/releases"
+        else:
+            continue  # stars, follows, comments etc. are skipped
+        items.append({"id": f"ghe:{e.get('id')}", "title": title, "url": url})
+    return items
+
+
+def parse_gh_gists(body):
+    items = []
+    for g in json.loads(body):
+        files = list((g.get("files") or {}).keys())
+        title = g.get("description") or (files[0] if files else "New gist")
+        items.append({"id": f"gist:{g.get('id')}", "title": title, "url": g.get("html_url", "")})
+    return items
 
 
 def notify(title, message, click=None, tags="green_circle"):
