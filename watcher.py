@@ -40,7 +40,16 @@ BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 #                 only links of the form <path><one-segment-slug> count.
 # Several entries may share a key (e.g. a page and its feed); results are merged.
 SOURCES = [
-    ("openai", "OpenAI product release", "rss", "https://openai.com/news/rss.xml", {"category": "Product"}),
+    # OpenAI: every news section. The feed misses some posts, so the news page and each
+    # section's sitemap are read too.
+    ("openai-all", "OpenAI post", "rss", "https://openai.com/news/rss.xml", {}),
+    ("openai-all", "OpenAI post", "page", "https://openai.com/news/", {"path": "/index/"}),
+    *[("openai-all", "OpenAI post", "sitemap", f"https://openai.com/sitemap.xml/{s}/", {"path": "/index/"})
+      for s in ("company", "research", "product", "release", "milestone", "safety", "engineering",
+                "science", "security", "intelligence-age", "global-affairs",
+                "global-affairs-news-listed", "ai-adoption", "applied-ai")],
+    ("openai-all", "OpenAI post", "sitemap", "https://openai.com/sitemap.xml/safety-and-alignment/",
+     {"path": "/safety-alignment/"}),
 
     ("sec-press", "SEC press release", "page", "https://www.sec.gov/newsroom/press-releases",
      {"path": "/newsroom/press-releases/"}),
@@ -209,7 +218,12 @@ def collect():
                 problems.setdefault(key, []).append(f"{url}: no posts found")
             for it in items:
                 # "id" lets different sites report the same item once (e.g. one Record issue)
-                found.setdefault(it.get("id") or it["url"], {**it, "source": key, "label": label})
+                ident = it.get("id") or it["url"]
+                if key == "openai-all":  # OpenAI's feed drops the trailing slash its sitemaps use
+                    ident = ident.rstrip("/")
+                prev = found.get(ident)
+                if prev is None or (prev.get("needs_title") and not it.get("needs_title")):
+                    found[ident] = {**it, "source": key, "label": label}
         except Exception as exc:
             msg = f"{url}: {exc}"
             if CONGRESS_API_KEY:
