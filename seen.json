@@ -1037,6 +1037,7 @@
    "yt-transcripts"
   ],
   "warned": [
+   "apify",
    "usmint"
   ],
   "yt_channels": [
@@ -1064,7 +1065,15 @@
    "UCqK_GSMbpiV8spgD3ZGloSw",
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
-  "yt_pending": {}
+  "yt_pending": {
+   "QqVIVSo2-Go": {
+    "channel": "Fox Business",
+    "next": "2026-11-23T22:35:31+00:00",
+    "title": "Markets are coming OFF THE BOIL, expert says",
+    "tries": 0,
+    "url": "https://www.youtube.com/watch?v=QqVIVSo2-Go"
+   }
+  }
  },
  "http://karpathy.github.io/2015/11/14/ai/": {
   "first_seen": "2026-11-21T02:20:18+00:00",
@@ -12775,6 +12784,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Why This AI Founder Won't Hire From OpenAI"
+ },
+ "ytv:QqVIVSo2-Go": {
+  "first_seen": "2026-11-23T22:35:31+00:00",
+  "source": "yt-transcripts",
+  "title": "Markets are coming OFF THE BOIL, expert says"
  },
  "ytv:QzYIA31dK-Y": {
   "first_seen": "2026-11-23T22:30:30+00:00",
