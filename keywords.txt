@@ -1,0 +1,9 @@
+# Words or phrases to listen for in new YouTube videos (one per line).
+# Plurals match automatically (memecoin also catches memecoins). Capitals don't matter.
+# Lines starting with # are notes and are ignored.
+memecoin
+meme coin
+shitcoin
+shit coin
+mascot
+intelligence
