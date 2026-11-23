@@ -1033,11 +1033,38 @@
    "openai-all",
    "sec-press",
    "sec-speech",
-   "xai"
+   "xai",
+   "yt-transcripts"
   ],
   "warned": [
    "usmint"
-  ]
+  ],
+  "yt_channels": [
+   "UC2D2CMWXMOVWx7giW1n3LIg",
+   "UC4woSp8ITBoYDmjkukhEhxg",
+   "UC5AQEUAwCh1sGDvkQtkDWUQ",
+   "UC7TghOL755nBk7HelHoi9LQ",
+   "UCAl9Ld79qaZxp9JzEOwd3aA",
+   "UCCXoCcu9Rp7NPbTzIvogpZg",
+   "UCDRIjKy6eZOvKtOELtTdeUA",
+   "UCEAZeUIeJs0IjQiqTCdVSIg",
+   "UCESLZhusAkFfsNsApnjF_Cg",
+   "UCGX7nGXpz-CmO_Arg-cgJ7A",
+   "UCGeBogGDZ9W3dsGx-mWQGJA",
+   "UCGq-a57w-aPwyi3pW7XLiHw",
+   "UCGttrUON87gWfU6dMWm1fcA",
+   "UCN9Nj4tjXbVTLYWN0EKly_Q",
+   "UCSHZKyawb77ixDdsGog4iWA",
+   "UCbLhGKVY-bJPcawebgtNfbw",
+   "UCevXpeL8cNyAnww-NqJ4m2w",
+   "UCf0PBRjhf0rF8fWBIxTuoWA",
+   "UChPuCAEXg7iYkVNjQY1NGYg",
+   "UCkoujZQZatbqy4KGcgjpVxQ",
+   "UCnxGkOGNMqQEUMvroOWps6Q",
+   "UCqK_GSMbpiV8spgD3ZGloSw",
+   "UCzQUP1qoWDoEbmsQxvdjxgQ"
+  ],
+  "yt_pending": {}
  },
  "http://karpathy.github.io/2015/11/14/ai/": {
   "first_seen": "2026-11-21T02:20:18+00:00",
@@ -11953,5 +11980,1730 @@
   "first_seen": "2026-11-21T00:05:17+00:00",
   "source": "xai",
   "title": "xAI joins SpaceX SpaceX announced today that it has acquired xAI. Feb 2, 2026"
+ },
+ "ytv:-6PuYw92m1c": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "How Did A Homeless 13-Year-Old Become Comedy's Most Fearless Voice?"
+ },
+ "ytv:-IObATJE5ow": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "This is What Kids in China See on TikTok \ud83d\ude33"
+ },
+ "ytv:-MALuUcnL8s": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Real Reason Shawn Ryan Wears a Rolex \ud83d\ude33"
+ },
+ "ytv:-MRFQdv-sfc": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "We Put the Magic Bullet Theory to the Ultimate Test"
+ },
+ "ytv:-yIQdQvb50k": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Nelk Boys On Shane Gillis Controversy & Internet Beef!"
+ },
+ "ytv:0FbiWJgb89s": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Deirdre Bosa on the cult of the founder and AI being too big to fail | The 8:30"
+ },
+ "ytv:0dyNRJyco1s": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitcoin Is the Hedge Against a U.S. Default Nobody Sees Coming"
+ },
+ "ytv:1FKSiQ8s4bY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe on the Ciryl Gane vs. Josh Hokit Fight and the Eye Poke"
+ },
+ "ytv:1I16PILJe9Y": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "WARNING: Bitcoin Is BREAKING Critical Support LIVE! [DO THIS QUICK]"
+ },
+ "ytv:1M3Vdl6DRkU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Biggest Mysteries in Physics: Antimatter, Dark Energy & ToE - Don Lincoln | Lex Fridman Podcast #497"
+ },
+ "ytv:1MyM4klkFzM": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Is the CIA Evil?"
+ },
+ "ytv:1Wh2SYG6EJs": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Wall Street SURGES as Jensen Huang returns to lead Nvidia"
+ },
+ "ytv:1bR0gtecoHU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate"
+ },
+ "ytv:1ff8cugYvjg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Tommy McMillen on His Overdose and Hospitalization"
+ },
+ "ytv:1mDHHi398ig": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Russian Sex Spy: I Was Trained To Control A Man's Mind With Sex! | John Kiriakou & Aliia Roza"
+ },
+ "ytv:1rn_Clc-MM0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang"
+ },
+ "ytv:1ykZ6H0hyAY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Sozzi Unleashed: Jensen Huang's Surprise NVIDIA Return"
+ },
+ "ytv:2KMWoCwAnxM": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "64,000 Bitcoin Miners Hijacked by Uncensored AI Hackers"
+ },
+ "ytv:2Svqf4AtLOU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Zohran SHOCKS: RIKERS TO CLOSE"
+ },
+ "ytv:2hJkprFnzhY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504"
+ },
+ "ytv:2wRoYSOD8Lg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "TAXPAYER BACKLASH: Fury ERUPTS over BILLION dollar controversy"
+ },
+ "ytv:320ubxcXdh4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Inside Drakes 20v1 Stream & Barstool Internet Invitational - Nelk Boys Reveal All!"
+ },
+ "ytv:38Cxn9WpttM": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why Bitcoin Wasn't ENOUGH For Vitalik Buterin"
+ },
+ "ytv:3B2HRPuwylE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "JRE MMA Show #188 with Paddy Pimblett"
+ },
+ "ytv:3CklqoP4TiM": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "It\u2019s NOT racist, it\u2019s LOVELY! - The Tim Dillon Show"
+ },
+ "ytv:3T868ghJyEk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "WE SPEND MORE ON AI THAN SALARIES | MERCOR CEO"
+ },
+ "ytv:3ZkDiDrxDeY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why Neo-Clouds are Great Businesses & The State of Compute with Kush Bavaria, Co-Founder @ Ornn"
+ },
+ "ytv:3awi65nRbuQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Nelk Boys React to Clavicular ARREST and UFC 331!"
+ },
+ "ytv:3ia0R4ak07M": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "JENSEN IS BACK. MARKETS ARE BACK!"
+ },
+ "ytv:3zIf2zCVHxo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Anthropic\u2019s Record IPO Sends Bitcoin to 4-Month Low"
+ },
+ "ytv:3zW2X9OXxC0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "David Sacks on Jensen\u2019s Exit: China Wins, America Loses"
+ },
+ "ytv:49gIAR6Pzj8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "HOW DID A SPY GET INTO NVIDIA?"
+ },
+ "ytv:4R9Sk_Hb1uk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Original Avengers Were Native American \ud83e\udd2f"
+ },
+ "ytv:4Unch--PmW0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Man Who Predicted The Last Crash WARNS A Recession Starts If These 2 Fail! | Steve Eisman"
+ },
+ "ytv:4YjQk0Ub-n0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "NEAR's Illia Polosukhin Makes the Case for Privacy as AI Agents Take Over Trading"
+ },
+ "ytv:4bwpYsV9z1E": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "\u201cI Just Sold Everything\u201d - WTF Happened To Crypto?!"
+ },
+ "ytv:4h04X5ljWqs": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitcoin BLOODBATH... So What Happens Now??"
+ },
+ "ytv:5J9HEzKJpxE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Logan Paul FINALLY Responds to Ethan Klein Scandal, Hasan Piker, Dwarf Mamba Going BROKE"
+ },
+ "ytv:5RHT54HIxME": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen is BACK: Trump Enshrines TOO BIG TO FAIL"
+ },
+ "ytv:5iSYPTFOeiU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Could the AI Bubble Burst Sooner Than You Think? | TypeSafe AI CEO"
+ },
+ "ytv:5ntFIBfH9yg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Nvidia CEO Situation: What You Need to Know Now | The 8:30"
+ },
+ "ytv:6VrJUnPsZoM": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Saddest Disease in the World \ud83d\ude14"
+ },
+ "ytv:75zAEcopwCk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Crypto Crashes as Anthropic Pulls Off the Biggest IPO Ever"
+ },
+ "ytv:7duhmu3oAEE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "'DON'T SCREW IT UP': Nvidia CANNOT let this happen again, cybersecurity expert says"
+ },
+ "ytv:7mEK5wZHpto": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Mushrooms for the Mind & Immune System | Paul Stamets"
+ },
+ "ytv:7pIavdZD1f0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "'BEYOND OUR REGULATION': Intelligence official makes CHILLING warning #shorts"
+ },
+ "ytv:7qjFt0k9QHE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Gary Cardone: \"This Is NOT Capitulation Yet\""
+ },
+ "ytv:7uqCc2gCf6Q": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Anthropic is the biggest winner from Jensen's Exit"
+ },
+ "ytv:80pcAk8YzZA": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "How Backpack Won CFTC Approval to Bring Crypto Perps Onshore"
+ },
+ "ytv:8R_AOgry-mI": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bob Does Sports on the 2026 Internet Invitational and Golfing with LeBron James!"
+ },
+ "ytv:8YHTMsy0bT8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping"
+ },
+ "ytv:8ZkheBuQ8Bk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen Huang is BACK, what does this mean for the FUTRUE?"
+ },
+ "ytv:8bR6zuWaoz8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Elon Musk is pleased that Jensen Huang is back"
+ },
+ "ytv:8mRH0KXTBPY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Nelk Boys Predict the Future of Brand Risk vs UFC & Talk on the Victoria's Secret Show!"
+ },
+ "ytv:8wyHELLUrAk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Zcash Mathematically Proved Counterfeiting Bugs Are Impossible"
+ },
+ "ytv:8zUNEL8YxxM": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "\ud83e\udd83\ud83e\udd83\ud83e\udd83\ud83e\udde8\ud83e\udde8\ud83e\udde8"
+ },
+ "ytv:97EIKJ0L80o": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Steiny Exposes SteveWillDoIt, NELK Boys COLLAPSE, Andrew Schulz Fallout"
+ },
+ "ytv:9A4FW46m4eY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "President Trump weighs in on Jensen Huang's return to Nvidia."
+ },
+ "ytv:9AKWL5iHcSA": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2581 - Protect Our Parks 18"
+ },
+ "ytv:9dWQNg68Ncw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why Addiction is a Control Problem | Dr. Anna Lembke"
+ },
+ "ytv:9i5VBuUtTbg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2579 - Gary Sinise"
+ },
+ "ytv:9k47sQ0CT18": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Wall Street Just PICKED Its Blockchains (Here's What It Means For You)"
+ },
+ "ytv:9lVSYriKja4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitcoin ETFs Set Records That Will Never Be Broken"
+ },
+ "ytv:9rNbP7MS0po": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "How Low Can Bitcoin and Ethereum Go Before the Next Leg Up?"
+ },
+ "ytv:9x7ozRrJrlw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Solana Foundation\u2019s Nick Ducoff on DTCC Integration and the Tokenization Supercycle"
+ },
+ "ytv:Abn7Y2z9HvA": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Could AI Make Communism FINALLY Work?"
+ },
+ "ytv:Air1P1bKgB0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "When Will Bitcoin Go Up Again?"
+ },
+ "ytv:Aop2MN2s-7w": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "WHAT ALZHEIMER'S IS REALLY LIKE \ud83d\udc94"
+ },
+ "ytv:Awx-DQHsBac": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jane Doe, Russian Plague, & The Black Epstein | The Tim Dillon Show #516"
+ },
+ "ytv:AxVKQmS8T4U": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Roblox Brushed Off His Mom\u2019s Warning \ud83d\ude21"
+ },
+ "ytv:B1Qt8gWPlQI": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen Huang & Chinese Spies - Tim Dillon Show"
+ },
+ "ytv:B3teQRrEmVY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The First Member of NELK Gets Married & Bendadonnn Gets ARRESTED!"
+ },
+ "ytv:BE2JqjsN4aY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jev Creator on Will US Open Models Catch Chinese | The Cost of Intelligence & Tokens | Diogo Almeida"
+ },
+ "ytv:C48XWOO5EPI": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Hakeem Jeffries WON'T COMMIT To Iran War Shutdown Fight"
+ },
+ "ytv:C71_sVcAj3k": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen Huang Is Back at Nvidia. What Happens Now? | Market Hang"
+ },
+ "ytv:CM3oXmVoxWo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Lighter vs. Hyperliquid: Where a Top Trader Sees More Upside"
+ },
+ "ytv:CYs13p70rwo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "HE COULD WALK AWAY WITH BILLIONS. HE SAID NO"
+ },
+ "ytv:Cf1hlIU6aTA": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitcoin ALWAYS Follows This Path..."
+ },
+ "ytv:CfNVHuOKb6Q": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "GTA 6 Gamer Gate? The Girlfriend Problem"
+ },
+ "ytv:CyR-gh7E_Kc": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Santa Cruz & Nelk Boys\u2019 CRAZIEST Ayahuasca Trip, Taking N3ON To India & Togi\u2019s $50,000 Gift!"
+ },
+ "ytv:Cz-sbWva2fA": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "$5 BILLION NVIDIA SPY OPERATION"
+ },
+ "ytv:Dwi_gVb94K8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "How Hackers Stole $6.3 BILLION Across 192 Cryptocurrencies!"
+ },
+ "ytv:E5dHVlPZm1E": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Could a Nuclear War Actually Begin?"
+ },
+ "ytv:EM0PDXPC4dc": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "How Smiling Can Increase Endurance | Ross Edgley"
+ },
+ "ytv:EP1eb4A6hkQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "MOST DON'T REALIZE THIS ABOUT CRYPTO"
+ },
+ "ytv:EP_bXY_2UKQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Research Firm That Covered the Anthropic S1 in Real Time Using AI Agents"
+ },
+ "ytv:ERWrOjP58pU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitcoin, Gold and Anthropic: Where the Money Goes Next"
+ },
+ "ytv:EdIds7RGBoI": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Expert DISCLOSES what could TRIGGER Iranian military action"
+ },
+ "ytv:FGCP2F_7rQk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Taiwan: The Most Epic Night Market Experience w/ Jensen Huang | Lex Fridman"
+ },
+ "ytv:FNbTA_W9B5o": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "WHEN TO *NOT* TRUST YOUR THOUGHTS"
+ },
+ "ytv:FRoQOzZRcpw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Brain Doctor That Figured Out The Cause Of Dementia - Dr. David Perlmutter"
+ },
+ "ytv:FawgYwI6wYE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Logan Paul HATES Golf \ud83e\udd2c\u26f3\ufe0f"
+ },
+ "ytv:G5w7EyF-aFQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?"
+ },
+ "ytv:GLZ5cV1h3H8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "How Backpack Won CFTC Approval: Mark Wetjen Explains \u201cNovel but Compliant\u201d"
+ },
+ "ytv:GMF_uSBTs_8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Most Horrific War Program of All Time"
+ },
+ "ytv:GPa6lh5bwQ8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Has the CIA Ever Gone Rogue?"
+ },
+ "ytv:GiXy9NZLMfA": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "the top regret of dying people"
+ },
+ "ytv:Gta2f-eD6mc": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "EFFECTIVE IMMEDIATELY: Nvidia REINSTATES Jensen Huang as CEO"
+ },
+ "ytv:H9AxUtUmp-U": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Finance Expert Warns of Cyberattacks & Grid Failure: Buy Gold and Bury It Before AI Deletes the Bank"
+ },
+ "ytv:H9rF1CSSh-w": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jeff Kaplan: World of Warcraft, Overwatch, Blizzard, and Future of Gaming | Lex Fridman Podcast #493"
+ },
+ "ytv:HAXzFdJ9U-0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "ORANGE JUICE HAS MORE SUGAR THAN YOU THINK!"
+ },
+ "ytv:HSd2U41rd8U": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Nelk Boys on Salim's Internet Invitational Performance & Dana White Becoming Press Secretary!"
+ },
+ "ytv:H_12X81TfDQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Altcoins At Make Or Break Support! (What I\u2019m Watching)"
+ },
+ "ytv:HgpUrLdeuOg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Who Is Behind These Cyberattacks?"
+ },
+ "ytv:I2OatwLLsbU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Michael Saylor: My Massive Prediction for Anthropic IPO & Bitcoin"
+ },
+ "ytv:IOEG3OYo-Kg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Who\u2019s behind this?"
+ },
+ "ytv:JF5W20NVLL4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jason: \"The leak came from inside the White House.\""
+ },
+ "ytv:JYzMtbySiek": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Former CISA exec warns Americans to brace for more tech outages #shorts"
+ },
+ "ytv:JZyVfVpbbrE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "\"Bitcoin is Over...\" Here\u2019s What Comes Next"
+ },
+ "ytv:Jd27pUd6HGc": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "SHOWDOWN: Trump's PRESIDENTIAL VETO hangs over everything #shorts"
+ },
+ "ytv:JgRhP4b20aY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2573 - Legion of Skanks"
+ },
+ "ytv:Jy0vAQBGg44": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Midterm Reaction | The Tim Dillon Show #520"
+ },
+ "ytv:KVmuP2PuQdc": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "my favorite cemetery artist"
+ },
+ "ytv:KYcVWXhgKBc": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Nvidia brought him back, and its own investigation is still running | The 8:30"
+ },
+ "ytv:Ko9p7w3Za6w": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Falling in Love Is Rebellion | Robert Greene"
+ },
+ "ytv:KxKDBjyB_8c": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "CAN WE PREVENT DEMENTIA?"
+ },
+ "ytv:LA7bT16wB64": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen Huang Is Back. Washington Just Changed the Rules | Deirdre Bosa Live"
+ },
+ "ytv:LRDuSIGr7uU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "This Is Alarming"
+ },
+ "ytv:LXfb-gmzjCE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Gary Sinise Opens Up About His Son's Cancer Battle"
+ },
+ "ytv:L_AJ0jO-AG0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why Bitcoin Can EASILY Hit $125k Again! (Quantum, Big Banks, & SpaceX)"
+ },
+ "ytv:L_AUxnMLvrQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen Huang Wants Back In. Why Is NVIDIA Saying No?"
+ },
+ "ytv:L_gmsjGGpe4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Nobody Taught Google's AI This \ud83d\ude33"
+ },
+ "ytv:Lmmrt8SkshQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Colby Adcock - What If China Can Build a Million Drones a Month? | SRS #359"
+ },
+ "ytv:LzV0oZ5-sDE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why DARPA Was Created"
+ },
+ "ytv:M-FACdo_bfY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "HOW SPIES ARE TRAINED TO HONEYTRAP"
+ },
+ "ytv:MAuB0FH63CY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Congress Just Got AI And Still Can\u2019t Keep Up"
+ },
+ "ytv:MRHtS-900XI": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Archaeologist Reveals the Horrific Human Sacrifices in Ancient America"
+ },
+ "ytv:MUtgp2ixLyk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "\"Cops need body cams to DEFEND themselves!\""
+ },
+ "ytv:MezEnDJ7y0k": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Can Bitcoin Survive the AI Selloff?"
+ },
+ "ytv:MoDFog_7nUM": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "COP31 COLLAPSE: Bitter UN fossil fuel dispute breaks out #shorts"
+ },
+ "ytv:Mtg8G8csazY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Nelk Boys React and Tell All About the Internet Invitational!"
+ },
+ "ytv:NLiGsqWQD-E": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitcoin Survives Biggest Crypto Hack In History?!"
+ },
+ "ytv:NYFGCESmikA": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501"
+ },
+ "ytv:NsvFpH37OXg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why WashU\u2019s CIO Is Still Investing in China"
+ },
+ "ytv:OKvrpk0Zqkc": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Is the Bank of Jensen back open for business?"
+ },
+ "ytv:OLxhXH2C7Q4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Katt and the Rat nutcrackers available now!"
+ },
+ "ytv:ON9uO6eHhrE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "GOP rep praises courts after Biden-era spending bill ruled unconstitutional over THIS"
+ },
+ "ytv:ONVWLa2LOzk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "David Friedberg: Was Jensen Taken Out So the Deep State Could Control AI?"
+ },
+ "ytv:OXdGzv7aLh8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2584 - Mike Baker"
+ },
+ "ytv:OrKVJX0DhWk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Logan\u2019s Daughter & Dwarf Mamba are Friends \ud83d\ude0a"
+ },
+ "ytv:Os3qARsrd-g": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Crypto's Cypherpunk Values Are Why North Korea Keeps Hacking It"
+ },
+ "ytv:Ox4ZEuKTDJQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "UK GOVERNMENT WARNING..."
+ },
+ "ytv:P0R2K4-6Wgo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "MARKET FALLS, ANTHROPIC DOWN, AI BUBBLE POP?"
+ },
+ "ytv:P1wyCbnLrZg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Ali G Roasts Clavicular \ud83d\uddff\ud83d\udd25"
+ },
+ "ytv:P53rz9uzxos": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "ETF Investor Forum 2026"
+ },
+ "ytv:PJzVRjYHsmw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Thanksgiving turkeys unveiled ahead of White House pardon"
+ },
+ "ytv:PWMNwdI360M": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Dan Ives on Jensen Huang, Nvidia, SpaceX, Tesla, and Blue Wave"
+ },
+ "ytv:Q2FYT5QM_eU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Iran BOMBS Bahrain: THREATENS TO RUN BLOCKADE"
+ },
+ "ytv:Q7mJw9ZUxfY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Homo floresiensis: The Hobbit People of Flores and Reports of Modern Sightings"
+ },
+ "ytv:Q8jMI01Xd84": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Pentagon Warns About a 90 Day Blackout"
+ },
+ "ytv:Q8ykBAP0ub0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Nelk Boys Expose Lamine Yamal\u2019s Girlfriend and Talk LeBron James Leak!"
+ },
+ "ytv:QLSljLnIVF4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "This Thwarted Plot May Just Unify America - Tim Dillon"
+ },
+ "ytv:QNCd8UHCpFQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "David Friedberg: The AI Job Loss Narrative is Bullsh*t"
+ },
+ "ytv:QO5-NXt95lE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Nelk Boys Predict That AI Will Kill All Humans"
+ },
+ "ytv:QUEm-IgQCac": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Ben Cowen: Bitcoin vs Altcoins"
+ },
+ "ytv:QeVFc6hDnYY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Initia Was Hacked Twice in 18 Days. Nearly $6 Million Gone!"
+ },
+ "ytv:QgN2bwiUh_U": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "David Friedberg: Restricting Open Source AI Is a Path to Tyranny"
+ },
+ "ytv:QjDMSL4PpPE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Chamath Predicts the Rise of AI\u2019s Magnificent 10: \u201cDirt to Application\u201d"
+ },
+ "ytv:Qopc3Q6LuV0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why This AI Founder Won't Hire From OpenAI"
+ },
+ "ytv:QzYIA31dK-Y": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "carnival conspiracy \u26f9\ud83c\udffe"
+ },
+ "ytv:RUn3GEd3Oro": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Is Bitcoin DEAD?"
+ },
+ "ytv:RX1m7PdjPqQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitcoin Is Waiting On One Thing Before Institutions Go All-In"
+ },
+ "ytv:RZ4BBkSZ3io": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Will Jensen Return to NVIDIA | Kalshi, Mercor, Fractile: Mega-Rounds Continue"
+ },
+ "ytv:SHlrUAkkWI0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Lex trains w/ Khabib Nurmagomedov | Exclusive Footage at UFC PI"
+ },
+ "ytv:SaooKcUhyqA": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Details Are Disturbing\u2026"
+ },
+ "ytv:SopfYgUpDBQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Don't Wait Until It's Too Late: Crucial Financial Lessons From 25 Experts"
+ },
+ "ytv:TDBjtt5xSB4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Tucker on the NVIDIA Scandal"
+ },
+ "ytv:TDOyoS4SMrk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Midterms Just Destroyed the AI Trade?"
+ },
+ "ytv:TYqBYWN5H2E": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Nelk Boys on Trump Renaming Lake Ontario and Talk GTA6 Release!"
+ },
+ "ytv:U0PpQYD_cOo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Purpose = Uniqueness"
+ },
+ "ytv:UEWww6E6Xz8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Army DEFIES COURT: WILL EXPLODE TOXIC LEAD In Iowa"
+ },
+ "ytv:UZ8eYaAf08M": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The AI Compute Crisis: Why We Need Thousands of Times More Computing Power | Fractile Founder"
+ },
+ "ytv:Ujn4bX5t3n4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Diseases That Ended Entire Civilizations \ud83d\ude28"
+ },
+ "ytv:Uns8CWWtxBI": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Coinbase Just Changed the Rules for Crypto"
+ },
+ "ytv:UszyU_XrX9o": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Race to Build the Private Ethereum"
+ },
+ "ytv:Uv2w4VTU-iQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen OUT as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact"
+ },
+ "ytv:Ux77OqM4kjI": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Shane Gillis on the SNL Monologue Backlash"
+ },
+ "ytv:V-d7DfsMYkc": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Social Media is HARDER than Corporate \ud83e\udd2f\ud83d\udd25"
+ },
+ "ytv:VLEYkbmScIo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "This Was the Deadliest Epidemic in Human History \ud83d\ude33"
+ },
+ "ytv:VQnZuwxci08": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Raoul Pal: My Final Warning To Crypto Investors in 2027"
+ },
+ "ytv:V_f5F7GNetM": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Schumer REJECTED By Allies, Slotkin DEFECTS"
+ },
+ "ytv:VkIAQ80DmHw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Tucker Flames Marco Rubio"
+ },
+ "ytv:VleJyfuZjF0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Trump\u2019s Bimbos, Live-Streamed Executions, & Crumbl Cookies | The Tim Dillon Show #517"
+ },
+ "ytv:VmsrLi1I-Vg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "SHOCKER: CNN Is Lying to You"
+ },
+ "ytv:VnkIaL3ot-I": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "$72B in Ether Sits Exposed to Quantum Attack"
+ },
+ "ytv:VrAhVJgTa7s": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "she's got a point"
+ },
+ "ytv:Vu0XZSz-aj4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Elizabeth Warren Gets Another Shot at Crypto"
+ },
+ "ytv:Vx6RgcNiM48": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "What Jurassic Park Got Wrong About Dinosaurs"
+ },
+ "ytv:W34bhqqcTXQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Crypto Has Two Sides. Only One Is Winning Right Now."
+ },
+ "ytv:W4HdZZrqjPo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Melania Trump visits Joint Base Andrews to support deployed US troops"
+ },
+ "ytv:W8qZXDzj2Bw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitwise CIO Matt Hougan on Why Solana ETF Could Hit $10B"
+ },
+ "ytv:WJL2Ta9ZNDg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Crypto Market Is Completely F*d? (nvidia latest)"
+ },
+ "ytv:WJhCrJ_JLuk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Craziest Story About Roman Emperor Nero"
+ },
+ "ytv:WPZ-mEQPVFk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Most Evil Person in the World"
+ },
+ "ytv:WjnmZ8_tHn4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why Is Everything Crashing?"
+ },
+ "ytv:WxdtNIzqmro": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Sydney Sweeney\u2019s New Commercial \ud83e\udd2f\ud83c\udf52"
+ },
+ "ytv:XRUCa6snYE4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "BITCOIN: The Answer To The Question You've All Been Waiting For! [Is The Bottom In?]"
+ },
+ "ytv:XyXBwO5jYpw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Gary Gallagher: American Civil War, Slavery, Lincoln, Grant & Lee | Lex Fridman Podcast #499"
+ },
+ "ytv:Y7abNeR_ats": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why Stablecoins Need to Move Beyond the Dollar"
+ },
+ "ytv:YNUl4gqyOo0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Cracking The Cornell 7 Case \ud83d\udd75\ufe0f - Tim Dillon"
+ },
+ "ytv:YaGJeytcDS0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "New Info Surfaces In Jensen Huang Cheating Scandal - The Tim Dillon Show"
+ },
+ "ytv:Ybs3g0hu-CY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Michael Saylor: \"History is Repeating for Bitcoin\""
+ },
+ "ytv:YiHiurGuczE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Mike ERUPTS About Jay-Z \ud83d\ude21\ud83d\udd25"
+ },
+ "ytv:YiXWeiXOLkA": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Soviet's Plan to Wipe Out America"
+ },
+ "ytv:ZAzWPE9CItg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory | Lex Fridman Podcast #503"
+ },
+ "ytv:ZC6oMrR7zJE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Who Caused Bitcoin's $17,000 Flash Crash?"
+ },
+ "ytv:ZC7rQ3BYu6I": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Anthropic, Elon, and a Lead filled Thanksgiving | The Tim Dillon Show #522"
+ },
+ "ytv:ZHjNWVhHdJ8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2583 - Bob Gymlan"
+ },
+ "ytv:ZXTQ7vKpYnI": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Nelk Boys Get Prenups, Bet BIG On The NFL Season & React To Clavicular Drama"
+ },
+ "ytv:ZZEseOhghdo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Nvidia needs Jensen, but can he return?"
+ },
+ "ytv:Zd1P2a1tsPQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "\u2018ENERGY REALITY\u2019: Climate talks COLLAPSE as fossil fuel fight turns bitter"
+ },
+ "ytv:Ze2j39_pKZI": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitcoin to $1 MILLION by 2036"
+ },
+ "ytv:ZhauycRUMek": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Plan No One in the U.S. Knows About"
+ },
+ "ytv:Zng5DkMO8e8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Stocks Plunge After the Midterms. Can Bitcoin Survive the AI Selloff?"
+ },
+ "ytv:_TCAMTOxuVM": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Paddy Pimblett on His Feud with Ilia Topuria and How It Started"
+ },
+ "ytv:_e7oRMEmxgc": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Tucker Destroys Kratom Salesman Markwayne Mullin"
+ },
+ "ytv:_k9l-Qx3YvY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2577 - Gregory Forth"
+ },
+ "ytv:_pSVmCMpQTQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Trump ABANDONS Americans To West Bank Terror"
+ },
+ "ytv:a2K-AHeZ3o0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2574 - Francis Foster & Konstantin Kisin"
+ },
+ "ytv:aUIfO-vZ_W8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2582 - Greg Anderson"
+ },
+ "ytv:aZc-8SgSQaw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen Huang, Chinese Spies, and a Humanoid Future | The Tim Dillon Show #521"
+ },
+ "ytv:apwmuAExhmk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Former CIA Officer Mike Baker on the Jensen Huang Chinese Spy Situation"
+ },
+ "ytv:arMMF0ISRRM": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel"
+ },
+ "ytv:b6Mbkc2qKtw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Altcoin Long Setups I\u2019m Taking While the Market Panics"
+ },
+ "ytv:brzkTni-nTQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle"
+ },
+ "ytv:c-c5KaHd0Gs": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Greg Anderson Rowed from Washington to Hawaii"
+ },
+ "ytv:c56sbKRdt8A": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "TRUMPCARE FOR ALL: Trump FLOATS Abdul M4A Scheme"
+ },
+ "ytv:c9iBoul2PtE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jeffrey Epstein\u2019s Brother: \u201cNow We Have Proof That He Didn\u2019t Kill Himself\u201d"
+ },
+ "ytv:cFTQp3y1qyw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Crypto Market Could Stay Flat While These Coins Win"
+ },
+ "ytv:cPdMTsTDctI": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "CRTICIAL: Is The Worlds BIGGEST IPO Ever Good For Markets? [My Trade Plan]"
+ },
+ "ytv:crtNNGpwesw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "AI Will Explode Bitcoin?"
+ },
+ "ytv:cvJzWtK0nCY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Dr. Peter McCullough on Strokes, Cancer, and the Covid Vaccine"
+ },
+ "ytv:cvqaIVwnDPE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "JRE MMA Show #189 with Tommy McMillen"
+ },
+ "ytv:d9y30vB88zg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2572 - Colum Tyrrell"
+ },
+ "ytv:dM--ynsYIYg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Salim Squashes Internet Invitational Beef with Big John & Sends Message To Dave Portnoy!"
+ },
+ "ytv:dMBBOawFy_4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2578 - Calley Means"
+ },
+ "ytv:dVXDDF3IhQ4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "This Crypto Capitulation Changes Everything (I Am Worried)"
+ },
+ "ytv:duqpCH2snqE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Markets were already bouncing before Jensen Huang came back"
+ },
+ "ytv:dvEtMMfT9ww": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "\u201cThe Week After I Got Fired From Fox\u2026\u201d"
+ },
+ "ytv:dzBOwhPFMrI": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Wall Street Veteran Turning Alternative Data Into Infrastructure for Everyone"
+ },
+ "ytv:eHo-u38pDTk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "what makes an animal \"extinct\"?"
+ },
+ "ytv:eJi5mTmuOCQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Would America Survive Another Pandemic?"
+ },
+ "ytv:eNZIXXz7xy8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Pump.fun KILLED Crypto"
+ },
+ "ytv:eQ8uWh_tfxM": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Gen Jack Keane: He's going to FINISH this"
+ },
+ "ytv:el_oC5zPJO0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Katt Williams | This Past Weekend w/ Theo Von #696"
+ },
+ "ytv:eocM1C3HfQg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Senator Bernie Sanders: Iran Wasn't Trump's Idea. Someone Else Pushed Him Into It!"
+ },
+ "ytv:ezkQTR31xn8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Paddy Pimblett on His Famous Choke and His Next Fight"
+ },
+ "ytv:fFHjwcRT-tU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bari Weiss Is Doing Comedy Now??? \ud83e\udd23 - Tim Dillon"
+ },
+ "ytv:fNngsUm9myk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Big John Exposes Salim \ud83d\ude21\u26f3\ufe0f"
+ },
+ "ytv:fcNom_MzQDE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Who is actually buying your crypto right now?"
+ },
+ "ytv:ffh7fdwfrWU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Sequoia Leaves London, Close Scout Program & End Evergreen Fund | NASDAQ Loses $2.5T in 24 hours"
+ },
+ "ytv:fvSLTBLXs5o": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "H3 Scandal \ud83e\udd2f\ud83d\udc94\ud83d\udd25"
+ },
+ "ytv:g7ceecPoLY4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "BlackRock\u2019s Bitcoin Bet Is Just Getting Started"
+ },
+ "ytv:gISD1K_qPFs": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why Washington Wanted Jensen Huang Back at Nvidia"
+ },
+ "ytv:gNqPZGZsQng": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "\"I'M NOT MAGA\" Elon FREAKS, Abandons Trump"
+ },
+ "ytv:gPuefi-UpaQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Big John PISSED OFF at Salim Losing Him $1,400,000, Shoots His Shot w/ Breckie Hill, Exposes Portnoy"
+ },
+ "ytv:gYQt82qVU6o": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Danny McBride breaks out a laser pointer"
+ },
+ "ytv:gof1NS_jGUo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitcoin Loans Are Coming For Your Mortgage"
+ },
+ "ytv:h4JhXQoW6kE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Crypto Just Failed a Critical Bull Market Test! What's Next?"
+ },
+ "ytv:hBDUMM5E1uI": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why Sean Bowe Left Bitcoin to Build Zcash"
+ },
+ "ytv:hUEGmSbt5as": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen Huang is back at Nvidia HQ as CEO."
+ },
+ "ytv:hepQZlJv3GA": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "the truth about \"dynamic\" pricing"
+ },
+ "ytv:hieH3S0U8-E": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Every Market Is Crashing\u2026 Here's Why It Could Get Worse Fast!"
+ },
+ "ytv:hxOOZCt52iY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Calley Means Details Who Runs the White House After Resigning From the Trump Administration"
+ },
+ "ytv:iKx3gAODybU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Vikings, Ragnar, Berserkers, Valhalla & the Warriors of the Viking Age | Lex Fridman Podcast #495"
+ },
+ "ytv:iaSOlyrztlk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "60% of Solana Already Runs on DoubleZero: Austin Federa"
+ },
+ "ytv:iqJd_xUIY_A": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Matt McCusker's new job"
+ },
+ "ytv:j58R4nsOlmo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "WORST Crypto News Ever.... I\u2019m In Trouble"
+ },
+ "ytv:jHOvCD1nGEQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Chamath: The Market is BAD for Stocks Right Now"
+ },
+ "ytv:jXTY8WwohF0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "LEVERAGING PARALLEL PATHWAYS, EXERCISE & COLD TO FOCUS & LEARN BETTER"
+ },
+ "ytv:jeKD85EPlAc": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Where Did Binance's Stolen $6 Billion Go?"
+ },
+ "ytv:jk19_P5fWmo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The UNTHINKABLE is About to Happen to Crypto"
+ },
+ "ytv:jv92XSW5NQE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2580 - Kenneth Lacovara"
+ },
+ "ytv:kAiFNM09czA": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Is the Government Preparing For Something?"
+ },
+ "ytv:kJ_XpwpFRo0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Will Elon Run For President in 2028?"
+ },
+ "ytv:krS9GO1898k": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "\ud83d\udea8 Nvidia reinstates Jensen Huang as CEO, President, and Board Director."
+ },
+ "ytv:kyNupwRvHOE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "KATT WILLIAMS OPENS UP ABOUT HIS ABUSIVE CHILDHOOD"
+ },
+ "ytv:l6USUAIKJls": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Khabib Nurmagomedov: Dagestan, MMA, UFC, Islam, Conor, Fedor & Football | Lex Fridman Podcast #500"
+ },
+ "ytv:lMLEsEtJH7Q": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "This Is Not a Conspiracy Theory\u2026"
+ },
+ "ytv:lODnyDeqWvQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Goodbye Ran."
+ },
+ "ytv:mJviDNOhIyw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "How Bitcoin Can Pay You 15% Forever"
+ },
+ "ytv:mfWJkm_p3kQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "URGENT: Mark This Date\u2026 Bitcoin Investors Are Not Ready"
+ },
+ "ytv:mg4yo5HUMuQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "\"Fire the Bankers\": Most VCs Won't Survive AI | Why the Inference Layer is Uninvestable | Anj Midha"
+ },
+ "ytv:ml1hyhqBEJE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2576 - Dr. Peter McCullough"
+ },
+ "ytv:mn_Puf5WVNE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Did You Know There is a Pyramid in Louisiana?! \ud83e\udd2f"
+ },
+ "ytv:moGYkaiuW3U": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Paleontologist Kenneth Lacovara Explains How Dinosaurs Are Real"
+ },
+ "ytv:nEboA3TkKz0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why Morgan Stanley Thinks Tokenization Makes More Sense for Alts Than Equities"
+ },
+ "ytv:nepKKz-MzFM": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496"
+ },
+ "ytv:ntk6gDdExxg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "'YOU'LL FIND OUT SOON': Tech Billionaire OMINOUS WARNING On AI Cyberthreats"
+ },
+ "ytv:oH3xYGESvHQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Real-Life Version of Skynet \ud83d\ude33"
+ },
+ "ytv:oPbrUELfZ5s": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Building the Virtual Analyst That Never Sleeps"
+ },
+ "ytv:pAvZjdqulxY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "future plans"
+ },
+ "ytv:pEIWY6lXw8I": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "A RECESSION IS COMING!"
+ },
+ "ytv:pMuud2kayJo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Breaking the Codependency Cycle | Dr. Anna Lembke"
+ },
+ "ytv:pQDswOi2zqg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Steiny RAGE BAITS Mike \ud83d\ude21\ud83d\udc74\ud83c\udffc"
+ },
+ "ytv:pWFpTDLY7bA": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Who Really Makes Money From AI? | Kush Bavaria"
+ },
+ "ytv:pv1TUJSEM2k": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498"
+ },
+ "ytv:q8miqVUyh7w": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "David Sacks: Who Risked Jail to Take Down Jensen Huang?"
+ },
+ "ytv:qORrTMaoZKk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why Whale Watching Can Fool You"
+ },
+ "ytv:qUTI_emgNg4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "They Want To Livestream An Execution??? \u2620\ufe0f - Tim Dillon"
+ },
+ "ytv:qiiWLOZgjes": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen BACK: Trump Enshrines TOO BIG TO FAIL"
+ },
+ "ytv:rE_biHm1WHo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "New bio alert for Jensen Huang. \ud83d\udca5"
+ },
+ "ytv:rxz_RRmnQXE": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Vivek Ramaswamy, French Riots, & The MAGA Cult | The Tim Dillon Show #518"
+ },
+ "ytv:s1Tna40nXuY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Thunderbirds Shot Corn Kernels Like Bullets?! \ud83e\udd2f"
+ },
+ "ytv:s7d2d8FhevU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud & Jung | Lex Fridman Podcast #502"
+ },
+ "ytv:t09qO4lQ6y8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Happiness Isn't the World's Job | Eckhart Tolle"
+ },
+ "ytv:t9mjxFqGMSo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Happiness Expert Dr. Arthur Brooks | This Past Weekend w/ Theo Von #695"
+ },
+ "ytv:tru-j8JHAAU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Fox News FREAKS Over GTA VI"
+ },
+ "ytv:u2YxtyIKff0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "\"I WORRY ABOUT WHAT'S COMING...\""
+ },
+ "ytv:uK3WcQCkR8c": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Demon That Talks Is Never the One in Charge \ud83d\ude33"
+ },
+ "ytv:uVrHQHq-B5g": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "ATTENTION ALL: BUY Bitcoin Right NOW OR WAIT For Further Capitulation? [The Plan]"
+ },
+ "ytv:ubWulIRhxIU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Hegseth's Doomsday Plan, Transgender Fascism, & why Taco Bell is America"
+ },
+ "ytv:ufw4Vjqt5zY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The CIA Knows EVERY One of These Buildings"
+ },
+ "ytv:v1X9Fqs5a14": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "GTA 6, Crime, Heists, Mafia, Gangs, Prison, Corrupt Cops, Miami & Money | Lex Fridman Podcast #505"
+ },
+ "ytv:vFGrw-dfoSk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why American AI Labs Can\u2019t Access Their Own Compute | Anjney Midha"
+ },
+ "ytv:vb9UdanNr9M": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Nelk Boys React to Brand Risk Boxing and Andrew Tate Arrest!"
+ },
+ "ytv:vif8NQcjVf0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen Huang: NVIDIA - The $4 Trillion Company & the AI Revolution | Lex Fridman Podcast #494"
+ },
+ "ytv:w-JLU6Bictg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Get Your Crypto Off Exchanges (Top 5 Wallets for 2027)"
+ },
+ "ytv:w0FmzHVrFVQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Neurophos on Building a Chip 50 Times Faster Than Nvidia\u2019s Blackwell"
+ },
+ "ytv:wLJ_jy3wyN8": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen Huang is Out at Nvidia & Bitcoin is Crashing?!"
+ },
+ "ytv:wO4A4TR0dw0": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitcoin, AI & $40 Trillion in Debt: What Happens Next?"
+ },
+ "ytv:w_QLUF4nSb4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "David Friedberg: Bring Back Jensen If He's Innocent"
+ },
+ "ytv:wbJ_Q1xsDHg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Overcome Addictions and Obsessions of All Kinds | Dr. Anna Lembke"
+ },
+ "ytv:wbeUIPfWBzY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The One Rule an Exorcist Never Breaks \ud83d\ude33"
+ },
+ "ytv:wpRf6pd37fc": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Anthropic IPO Breakdown: Most Valuable Company?"
+ },
+ "ytv:ws6DwkOR98I": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Steiny Regrets Netanyahu Podcast \ud83d\ude31\ud83d\udd25"
+ },
+ "ytv:xL2xzf3AuGw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Garbage Man tells the truth about recycling"
+ },
+ "ytv:x_kDKqbDJ-E": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitcoin\u2019s Bull Market Is On a One-Month Clock"
+ },
+ "ytv:xhlMLBbG09c": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "SteveWillDoIt gets EXPOSED! \ud83e\udd2f\ud83d\udd25"
+ },
+ "ytv:xjN5uifK2n4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The \u201cM\u201d Word.. \ud83d\ude05"
+ },
+ "ytv:y-fRFiTrrg4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Access the Sublime & Live Your Best Life | Robert Greene"
+ },
+ "ytv:y-ywxPcQQ3I": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2575 - Sam Tallent"
+ },
+ "ytv:yNSPqdtMqQQ": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Krystal reacts to Abdul El-Sayed and Hakeem Jeffries\u2019 wildly different statements on Iran war"
+ },
+ "ytv:yP6zXAtUYXw": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Did Nixon Really Get Rid of All US Biological Weapons?"
+ },
+ "ytv:yUdg7drjrZY": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Essentials: Cold & Heat Exposure for Metabolic Health | Dr. Susanna S\u00f8berg"
+ },
+ "ytv:yawHhhUA0Hk": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why didn't Bitcoin hit a crazy all-time high this year?"
+ },
+ "ytv:yybe6OLgrbM": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Tucker and Megyn Kelly Speak Out on Russell Brand\u2019s Trial and Netflix\u2019s Smear Campaign"
+ },
+ "ytv:z5ZYXLQdXZs": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Get Ready For The Reversal: My Altcoin Buy Zones"
+ },
+ "ytv:zIsl7Q6nhFs": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "\u201cMy personal assistant was leaking to short sellers.\u201d \ud83e\udd2f"
+ },
+ "ytv:zM4NlcUYBKs": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "We Are In Uncharted Territory"
+ },
+ "ytv:zPAyvYCl5jA": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The Missing Scientists Case and the Time Travel Conspiracy"
+ },
+ "ytv:zb8ChS8bwBg": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "'From Curiosity to Execution': With Solana Foundation's Rachel Conlan"
+ },
+ "ytv:zlfcCJ1GIzU": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Did Anthropic Cause Bitcoin's CRASH?"
+ },
+ "ytv:zxb8pfGQLd4": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Lunch lady love"
+ },
+ "ytv:zxuyM2faKEo": {
+  "first_seen": "2026-11-23T22:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Tucker on JD After Trump"
  }
 }
