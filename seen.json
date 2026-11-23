@@ -4838,6 +4838,11 @@
   "source": "anthropic",
   "title": "What work can robots do"
  },
+ "https://www.anthropic.com/research/working-with-ai": {
+  "first_seen": "2026-11-23T20:55:17+00:00",
+  "source": "anthropic",
+  "title": "Working with AI"
+ },
  "https://www.anthropic.com/research/writing-tools-for-agents": {
   "first_seen": "2026-11-21T00:05:17+00:00",
   "source": "anthropic",
