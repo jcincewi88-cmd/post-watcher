@@ -1037,7 +1037,6 @@
    "yt-transcripts"
   ],
   "warned": [
-   "apify",
    "usmint"
   ],
   "yt_channels": [
@@ -1066,18 +1065,11 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
-   "QqVIVSo2-Go": {
-    "channel": "Fox Business",
-    "next": "2026-11-23T22:35:31+00:00",
-    "title": "Markets are coming OFF THE BOIL, expert says",
-    "tries": 0,
-    "url": "https://www.youtube.com/watch?v=QqVIVSo2-Go"
-   },
    "rXgmrc56PFQ": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-23T22:40:34+00:00",
+    "next": "2026-11-23T23:00:25+00:00",
     "title": "Elon Musk stood by Jensen Huang when the chips were down",
-    "tries": 0,
+    "tries": 1,
     "url": "https://www.youtube.com/watch?v=rXgmrc56PFQ"
    }
   }
