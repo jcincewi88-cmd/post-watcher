@@ -19,7 +19,8 @@ import re
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+import urllib.error
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urljoin, urlsplit
 
@@ -31,6 +32,42 @@ GH_TOKEN = os.environ.get("GH_TOKEN", "").strip()  # GitHub's automatic per-run 
 SEC_UA = os.environ.get("SEC_USER_AGENT", "").strip() or "post-watcher contact@example.com"
 BROWSER_UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/124.0 Safari/537.36 post-watcher/1.1")
+
+# --- YouTube transcript keyword alerts ---------------------------------------------------
+# New uploads from these channels are sent to an Apify transcript tool; if the spoken words
+# contain one of the keywords in keywords.txt, you get a ping that opens the video at that moment.
+APIFY_TOKEN = os.environ.get("APIFY_TOKEN", "").strip()
+APIFY_ACTOR = "vKlQCAJRI72MdyK1u"  # "Youtube Transcript Scraper" by supreme_coder
+KEYWORDS_FILE = Path(__file__).with_name("keywords.txt")
+YT_KEY = "yt-transcripts"
+# minutes to wait before each new try while a video has no captions yet (then give up)
+YT_RETRY_MINUTES = [10, 20, 40, 80, 160, 320]
+YT_BATCH = 25  # most videos sent to Apify in one check
+YT_CHANNELS = [
+    ("Fox Business", "UCCXoCcu9Rp7NPbTzIvogpZg"),
+    ("Yahoo Finance", "UCEAZeUIeJs0IjQiqTCdVSIg"),
+    ("Coin Bureau", "UCqK_GSMbpiV8spgD3ZGloSw"),
+    ("CoinDesk", "UC7TghOL755nBk7HelHoi9LQ"),
+    ("Bankless", "UCAl9Ld79qaZxp9JzEOwd3aA"),
+    ("Altcoin Daily", "UCbLhGKVY-bJPcawebgtNfbw"),
+    ("Crypto Banter", "UCN9Nj4tjXbVTLYWN0EKly_Q"),
+    ("Joe Rogan (PowerfulJRE)", "UCzQUP1qoWDoEbmsQxvdjxgQ"),
+    ("JRE Clips", "UCnxGkOGNMqQEUMvroOWps6Q"),
+    ("All-In Podcast", "UCESLZhusAkFfsNsApnjF_Cg"),
+    ("Lex Fridman", "UCSHZKyawb77ixDdsGog4iWA"),
+    ("Theo Von", "UC5AQEUAwCh1sGDvkQtkDWUQ"),
+    ("The Diary Of A CEO", "UCGq-a57w-aPwyi3pW7XLiHw"),
+    ("Tucker Carlson", "UCGttrUON87gWfU6dMWm1fcA"),
+    ("Shawn Ryan Show", "UCkoujZQZatbqy4KGcgjpVxQ"),
+    ("The Tim Dillon Show", "UC4woSp8ITBoYDmjkukhEhxg"),
+    ("Andrew Huberman", "UC2D2CMWXMOVWx7giW1n3LIg"),
+    ("IMPAULSIVE", "UCGeBogGDZ9W3dsGx-mWQGJA"),
+    ("FULL SEND PODCAST", "UChPuCAEXg7iYkVNjQY1NGYg"),
+    ("PBD Podcast", "UCGX7nGXpz-CmO_Arg-cgJ7A"),
+    ("Anthony Pompliano", "UCevXpeL8cNyAnww-NqJ4m2w"),
+    ("20VC", "UCf0PBRjhf0rF8fWBIxTuoWA"),
+    ("Breaking Points", "UCDRIjKy6eZOvKtOELtTdeUA"),
+]
 
 # Each source: key, alert label, kind, url, options.
 #   kind "rss"  : RSS/Atom feed. option "category" keeps only items in that category.
@@ -85,6 +122,10 @@ SOURCES = [
      "https://api.github.com/users/karpathy/events/public?per_page=50", {}),
     ("karpathy-gist", "Karpathy gist", "rss", "https://gist.github.com/karpathy.atom", {}),
     ("karpathy-blog", "Karpathy blog post", "rss", "https://karpathy.github.io/feed.xml", {}),
+] + [
+    (YT_KEY, "YouTube channels (transcript keywords)", "yt_channel",
+     f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}", {})
+    for _name, cid in YT_CHANNELS
 ]
 
 
@@ -206,6 +247,8 @@ def collect():
                 items = parse_gh_events(body)
             elif kind == "gh_gists":
                 items = parse_gh_gists(body)
+            elif kind == "yt_channel":
+                items = parse_yt_feed(body)
             elif kind == "rss":
                 items = parse_feed(body, opts.get("category"))
             elif kind == "sitemap":
@@ -292,6 +335,140 @@ def parse_gh_gists(body):
     return items
 
 
+def parse_yt_feed(body):
+    """A channel's upload feed (latest 15 videos)."""
+    atom, yt = "{http://www.w3.org/2005/Atom}", "{http://www.youtube.com/xml/schemas/2015}"
+    items = []
+    for e in ET.fromstring(body).iter(atom + "entry"):
+        vid = (e.findtext(yt + "videoId") or "").strip()
+        if not vid:
+            continue
+        items.append({"id": f"ytv:{vid}", "vid": vid, "title": clean(e.findtext(atom + "title")),
+                      "url": f"https://www.youtube.com/watch?v={vid}",
+                      "channel": clean(e.findtext(f"{atom}author/{atom}name")),
+                      "channel_id": (e.findtext(yt + "channelId") or "").strip()})
+    return items
+
+
+def load_keywords():
+    """keywords.txt: one word or phrase per line; lines starting with # are notes."""
+    if not KEYWORDS_FILE.exists():
+        return []
+    words = []
+    for line in KEYWORDS_FILE.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if line and not line.startswith("#"):
+            words.append(line.lower())
+    return words
+
+
+def kw_pattern(kw):
+    # whole word or phrase, also matching plurals (memecoin -> memecoins); any spacing
+    body = r"\s+".join(re.escape(p) for p in kw.split())
+    return re.compile(r"(?<![a-z0-9])" + body + r"(?:s|es)?(?![a-z0-9])", re.I)
+
+
+def find_keywords(segments, title, keywords):
+    """Return {keyword: (count, start_seconds or None, snippet)} for keywords that were said."""
+    texts = [clean(s.get("text", "")) for s in segments]
+    starts = [float(s.get("start") or 0) for s in segments]
+    full = " ".join(texts)
+    hits = {}
+    for kw in keywords:
+        pat = kw_pattern(kw)
+        count = len(pat.findall(full))
+        if not count:
+            if pat.search(title or ""):
+                hits[kw] = (0, None, "in the title")
+            continue
+        # first line where it's said (a phrase may run onto the next line)
+        for i, t in enumerate(texts):
+            window = t + (" " + texts[i + 1] if i + 1 < len(texts) else "")
+            if pat.search(window):
+                snippet = " ".join(texts[max(0, i - 1): i + 2])
+                if len(snippet) > 220:
+                    snippet = snippet[:217] + "..."
+                hits[kw] = (count, starts[i], snippet)
+                break
+    return hits
+
+
+def apify_transcripts(urls):
+    """Run the Apify transcript tool on these videos and return its results."""
+    data = json.dumps({"urls": [{"url": u} for u in urls], "languages": ["en"],
+                       "outputFormat": "json"}).encode("utf-8")
+    req = urllib.request.Request(
+        f"https://api.apify.com/v2/acts/{APIFY_ACTOR}/run-sync-get-dataset-items?timeout=240",
+        data=data, headers={"Content-Type": "application/json",
+                            "Authorization": f"Bearer {APIFY_TOKEN}"})
+    with urllib.request.urlopen(req, timeout=290) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+
+def clock(sec):
+    sec = int(sec)
+    return f"{sec // 3600}:{sec % 3600 // 60:02d}:{sec % 60:02d}" if sec >= 3600 else f"{sec // 60}:{sec % 60:02d}"
+
+
+def process_youtube(meta, warned, now_dt):
+    """Fetch transcripts for waiting videos and ping on keyword hits."""
+    pending = meta.setdefault("yt_pending", {})
+    keywords = load_keywords()
+    due = [v for v, p in pending.items() if datetime.fromisoformat(p["next"]) <= now_dt]
+    if not due:
+        return
+    if not APIFY_TOKEN:
+        print("WARN APIFY_TOKEN secret is not set; skipping transcripts")
+        return
+    batch = due[:YT_BATCH]
+    try:
+        results = apify_transcripts([pending[v]["url"] for v in batch])
+    except urllib.error.HTTPError as exc:
+        print("WARN Apify:", exc.code, exc.reason)
+        if exc.code in (401, 402, 403) and "apify" not in warned:
+            why = {401: "the Apify key was rejected (expired or deleted?)",
+                   402: "the Apify account is out of credit for this month",
+                   403: "the Apify key isn't allowed to run the transcript tool"}[exc.code]
+            notify("Can't get YouTube transcripts", f"Transcript keyword alerts are paused: {why}.",
+                   tags="warning")
+            warned.add("apify")
+        return
+    except Exception as exc:  # network hiccup or timeout: try again next check
+        print("WARN Apify:", exc)
+        return
+    warned.discard("apify")
+
+    by_vid = {}
+    for item in results if isinstance(results, list) else []:
+        m = re.search(r"(?:v=|youtu\.be/|shorts/)([\w-]{11})", (item.get("videoUrl") or "") + " " + (item.get("inputUrl") or ""))
+        if m and item.get("transcript"):
+            by_vid[m.group(1)] = item["transcript"]
+
+    for vid in batch:
+        p = pending[vid]
+        segs = by_vid.get(vid)
+        if not segs:  # no captions yet: wait and try again, then give up
+            if p["tries"] >= len(YT_RETRY_MINUTES):
+                print("GAVE UP (no transcript)", vid)
+                del pending[vid]
+            else:
+                p["next"] = (now_dt + timedelta(minutes=YT_RETRY_MINUTES[p["tries"]])).isoformat(timespec="seconds")
+                p["tries"] += 1
+            continue
+        del pending[vid]
+        hits = find_keywords(segs, p["title"], keywords)
+        print("TRANSCRIPT", vid, "hits:", sorted(hits))
+        if not hits:
+            continue
+        first_kw = min(hits, key=lambda k: (hits[k][1] is None, hits[k][1] or 0))
+        count, start, snippet = hits[first_kw]
+        said = ", ".join(f'"{k}"' + (f" x{hits[k][0]}" if hits[k][0] > 1 else "") for k in hits)
+        where = f" at {clock(start)}" if start is not None else ""
+        msg = (f'"{snippet}"' if start is not None else "Keyword is in the title.") + f"{where}\n\n{p['title']}"
+        click = p["url"] + (f"&t={int(start)}s" if start is not None else "")
+        notify(f"{said} said on {p['channel']}", msg, click=click, tags="red_circle")
+
+
 def notify(title, message, click=None, tags="green_circle"):
     payload = {"topic": NTFY_TOPIC, "title": title, "message": message, "tags": [tags]}
     if click:
@@ -320,10 +497,21 @@ def main():
     warned = set(meta.get("warned", []))
 
     found, ok_keys, failing, labels = collect()
-    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    now_dt = datetime.now(timezone.utc)
+    now = now_dt.isoformat(timespec="seconds")
     for key, msgs in failing.items():
         for m in msgs:
             print("WARN", m)
+
+    # YouTube: a channel read for the first time (e.g. newly added) has its existing videos
+    # recorded quietly, so only later uploads get their transcripts checked
+    yt_channels = set(meta.get("yt_channels", []))
+    for k, it in found.items():
+        if (it["source"] == YT_KEY and YT_KEY in seeded
+                and it.get("channel_id") not in yt_channels and k not in seen):
+            seen[k] = {"title": it["title"], "source": YT_KEY, "first_seen": now}
+    yt_channels |= {it.get("channel_id") for it in found.values() if it["source"] == YT_KEY}
+    meta["yt_channels"] = sorted(c for c in yt_channels if c)
 
     # 1. sources read for the first time: record quietly, one confirmation ping
     new_sources = sorted(k for k in ok_keys if k not in seeded)
@@ -339,6 +527,13 @@ def main():
     # 2. genuinely new posts on sources already being watched
     new = [(k, it) for k, it in found.items() if k not in seen and it["source"] in seeded]
     for k, it in new:
+        if it["source"] == YT_KEY:  # new upload: queue it for a transcript check, no ping yet
+            meta.setdefault("yt_pending", {})[it["vid"]] = {
+                "title": it["title"], "channel": it["channel"], "url": it["url"],
+                "tries": 0, "next": now}
+            seen[k] = {"title": it["title"], "source": YT_KEY, "first_seen": now}
+            print("QUEUED", k)
+            continue
         if it.get("needs_title"):
             it["title"] = page_title(it["url"]) or it["title"]
         notify(f"NEW {it['label']}", it["title"], click=it["url"])
@@ -353,6 +548,9 @@ def main():
                    tags="warning")
             warned.add(key)
     warned -= ok_keys
+
+    # 4. transcripts for queued YouTube videos (keyword pings)
+    process_youtube(meta, warned, now_dt)
 
     seen[META_KEY] = {**meta, "seeded": sorted(seeded), "warned": sorted(warned)}
     SEEN_FILE.write_text(json.dumps(seen, indent=1, sort_keys=True) + "\n")
