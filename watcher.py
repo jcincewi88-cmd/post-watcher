@@ -43,6 +43,7 @@ YT_KEY = "yt-transcripts"
 # minutes to wait before each new try while a video has no captions yet (then give up)
 YT_RETRY_MINUTES = [10, 20, 40, 80, 160, 320]
 YT_BATCH = 25  # most videos sent to Apify in one check
+YT_ICON = "https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.png"
 YT_CHANNELS = [
     ("Fox Business", "UCCXoCcu9Rp7NPbTzIvogpZg"),
     ("Yahoo Finance", "UCEAZeUIeJs0IjQiqTCdVSIg"),
@@ -483,11 +484,15 @@ def process_youtube(meta, warned, now_dt):
         where = f" at {clock(start)}" if start is not None else ""
         msg = (f'"{snippet}"' if start is not None else "Keyword is in the title.") + f"{where}\n\n{p['title']}"
         click = p["url"] + (f"&t={int(start)}s" if start is not None else "")
-        notify(f"{said} said on {p['channel']}", msg, click=click, tags="red_circle")
+        notify(f"{said} said on {p['channel']}", msg, click=click, tags="arrow_forward", icon=YT_ICON)
 
 
-def notify(title, message, click=None, tags="green_circle"):
-    payload = {"topic": NTFY_TOPIC, "title": title, "message": message, "tags": [tags]}
+def notify(title, message, click=None, tags="green_circle", icon=None):
+    payload = {"topic": NTFY_TOPIC, "title": title, "message": message}
+    if tags:
+        payload["tags"] = [tags]
+    if icon:
+        payload["icon"] = icon
     if click:
         payload["click"] = click
     req = urllib.request.Request("https://ntfy.sh/", data=json.dumps(payload).encode("utf-8"),
