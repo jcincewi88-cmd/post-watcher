@@ -1081,6 +1081,13 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
+   "ETyrBOW9WMU": {
+    "channel": "Crypto Banter",
+    "next": "2026-11-24T05:25:23+00:00",
+    "title": "CAUTION: Don't Ignore The Signs The Market Is Giving You Here! [My Bitcoin Plan]",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=ETyrBOW9WMU"
+   },
    "XPLS5_T51no": {
     "channel": "PBD Podcast",
     "next": "2026-11-24T06:40:38+00:00",
@@ -12741,6 +12748,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Bitcoin, Gold and Anthropic: Where the Money Goes Next"
+ },
+ "ytv:ETyrBOW9WMU": {
+  "first_seen": "2026-11-24T05:15:23+00:00",
+  "source": "yt-transcripts",
+  "title": "CAUTION: Don't Ignore The Signs The Market Is Giving You Here! [My Bitcoin Plan]"
  },
  "ytv:EdIds7RGBoI": {
   "first_seen": "2026-11-23T22:30:30+00:00",
