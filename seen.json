@@ -1097,9 +1097,9 @@
    },
    "P-SvyILdsYc": {
     "channel": "Fox Business",
-    "next": "2026-11-24T16:10:37+00:00",
+    "next": "2026-11-24T16:55:30+00:00",
     "title": "WATCH LIVE: Trump and first lady host annual Thanksgiving turkey pardoning",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=P-SvyILdsYc"
    },
    "T4ufamhjYRo": {
@@ -14582,6 +14582,11 @@
   "first_seen": "2026-11-24T00:10:24+00:00",
   "source": "yt-transcripts",
   "title": "Gen. Keane: Trump is going to finish this once and for all #shorts"
+ },
+ "ytv:kbU6pc9nO_4": {
+  "first_seen": "2026-11-24T16:15:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Most VCs Are Just Glorified Bankers"
  },
  "ytv:krS9GO1898k": {
   "first_seen": "2026-11-23T22:30:30+00:00",
