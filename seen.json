@@ -1118,9 +1118,9 @@
    },
    "P_vVzEcKnWU": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T18:50:42+00:00",
+    "next": "2026-11-24T19:35:26+00:00",
     "title": "Sozzi Unleashed At The Close | Market Coverage",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=P_vVzEcKnWU"
    },
    "T4ufamhjYRo": {
@@ -1164,13 +1164,6 @@
     "title": "Sozzi Unleashed (9:30\u201310:00 a.m. ET)",
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=o_NiJBOC86s"
-   },
-   "ur8v_RSIY-k": {
-    "channel": "Guardian News",
-    "next": "2026-11-24T18:50:31+00:00",
-    "title": "'I'm going to be a better CEO': Jensen Huang rejoins Nvidia after Trump intervention",
-    "tries": 6,
-    "url": "https://www.youtube.com/watch?v=ur8v_RSIY-k"
    }
   }
  },
