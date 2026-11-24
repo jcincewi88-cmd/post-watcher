@@ -1081,6 +1081,13 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
+   "48-88TXFLf0": {
+    "channel": "PowerfulJRE",
+    "next": "2026-11-24T18:35:27+00:00",
+    "title": "Joe Rogan Experience #2585 - Sam Tripoli & Eddie Bravo",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=48-88TXFLf0"
+   },
    "81MoSWyTKKE": {
     "channel": "Guardian News",
     "next": "2026-11-24T19:35:27+00:00",
@@ -1109,18 +1116,11 @@
     "tries": 3,
     "url": "https://www.youtube.com/watch?v=HUaAfoOyXWU"
    },
-   "LAhg30XpToY": {
-    "channel": "Crypto Banter",
-    "next": "2026-11-24T18:20:37+00:00",
-    "title": "I\u2019m Worried about Bitcoin & Crypto",
-    "tries": 5,
-    "url": "https://www.youtube.com/watch?v=LAhg30XpToY"
-   },
    "P-SvyILdsYc": {
     "channel": "Fox Business",
-    "next": "2026-11-24T18:20:48+00:00",
+    "next": "2026-11-24T21:05:27+00:00",
     "title": "WATCH LIVE: Trump and first lady host annual Thanksgiving turkey pardoning",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=P-SvyILdsYc"
    },
    "P_vVzEcKnWU": {
@@ -12398,6 +12398,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "David Sacks on Jensen\u2019s Exit: China Wins, America Loses"
+ },
+ "ytv:48-88TXFLf0": {
+  "first_seen": "2026-11-24T18:25:27+00:00",
+  "source": "yt-transcripts",
+  "title": "Joe Rogan Experience #2585 - Sam Tripoli & Eddie Bravo"
  },
  "ytv:49gIAR6Pzj8": {
   "first_seen": "2026-11-23T22:30:30+00:00",
