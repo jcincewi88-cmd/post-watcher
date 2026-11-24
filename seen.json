@@ -1090,9 +1090,9 @@
    },
    "GyGkJtcsTvs": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T17:25:28+00:00",
+    "next": "2026-11-24T17:50:28+00:00",
     "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=GyGkJtcsTvs"
    },
    "LAhg30XpToY": {
@@ -13267,6 +13267,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "He pays $0 for health insurance in Norway. Here's how he spends the rest of his income. #thepaycheck"
+ },
+ "ytv:LOPbztZftWE": {
+  "first_seen": "2026-11-24T17:30:28+00:00",
+  "source": "yt-transcripts",
+  "title": "Why Chris Van Hollen wants to replace Chuck Schumer | America, Actually"
  },
  "ytv:LRDuSIGr7uU": {
   "first_seen": "2026-11-23T22:30:30+00:00",
