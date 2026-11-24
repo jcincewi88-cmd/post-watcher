@@ -1083,9 +1083,9 @@
   "yt_pending": {
    "ETyrBOW9WMU": {
     "channel": "Crypto Banter",
-    "next": "2026-11-24T07:50:36+00:00",
+    "next": "2026-11-24T10:30:37+00:00",
     "title": "CAUTION: Don't Ignore The Signs The Market Is Giving You Here! [My Bitcoin Plan]",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=ETyrBOW9WMU"
    },
    "XPLS5_T51no": {
@@ -12118,6 +12118,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Bitcoin Is the Hedge Against a U.S. Default Nobody Sees Coming"
+ },
+ "ytv:0rM0SjIYNPc": {
+  "first_seen": "2026-11-24T07:50:37+00:00",
+  "source": "yt-transcripts",
+  "title": "Nvidia SKYROCKETS after worst week since 2008"
  },
  "ytv:13oLTL_UxW8": {
   "first_seen": "2026-11-24T01:35:19+00:00",
