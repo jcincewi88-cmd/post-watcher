@@ -1088,6 +1088,13 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=81MoSWyTKKE"
    },
+   "GyGkJtcsTvs": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-24T17:25:28+00:00",
+    "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=GyGkJtcsTvs"
+   },
    "LAhg30XpToY": {
     "channel": "Crypto Banter",
     "next": "2026-11-24T18:20:37+00:00",
@@ -1132,9 +1139,9 @@
    },
    "o_NiJBOC86s": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T17:10:37+00:00",
+    "next": "2026-11-24T19:55:28+00:00",
     "title": "Sozzi Unleashed (9:30\u201310:00 a.m. ET)",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=o_NiJBOC86s"
    },
    "ur8v_RSIY-k": {
@@ -12986,6 +12993,11 @@
   "source": "yt-transcripts",
   "title": "EFFECTIVE IMMEDIATELY: Nvidia REINSTATES Jensen Huang as CEO"
  },
+ "ytv:GyGkJtcsTvs": {
+  "first_seen": "2026-11-24T17:15:28+00:00",
+  "source": "yt-transcripts",
+  "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)"
+ },
  "ytv:H-b9zHQ25O4": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -13050,6 +13062,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Nelk Boys on Salim's Internet Invitational Performance & Dana White Becoming Press Secretary!"
+ },
+ "ytv:HWFwXZYlpII": {
+  "first_seen": "2026-11-24T17:15:28+00:00",
+  "source": "yt-transcripts",
+  "title": "What does Macy's Thanksgiving Day parade cost?"
  },
  "ytv:HXhZb8uFH9M": {
   "first_seen": "2026-11-24T01:35:19+00:00",
@@ -14710,6 +14727,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "FFmpeg: The Incredible Technology Behind Video on the Internet | Lex Fridman Podcast #496"
+ },
+ "ytv:ngknTtr2toc": {
+  "first_seen": "2026-11-24T17:15:28+00:00",
+  "source": "yt-transcripts",
+  "title": "Many people ignore these 'early red flags' in romance scams"
  },
  "ytv:njkVoLo2Bvs": {
   "first_seen": "2026-11-24T01:35:19+00:00",
