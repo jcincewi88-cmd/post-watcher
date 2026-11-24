@@ -1104,9 +1104,9 @@
    },
    "HUaAfoOyXWU": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T18:45:29+00:00",
+    "next": "2026-11-24T20:10:30+00:00",
     "title": "Market Hang (12:30\u20131:30 p.m. ET)",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=HUaAfoOyXWU"
    },
    "P-SvyILdsYc": {
@@ -1153,9 +1153,9 @@
    },
    "mm8aesKdOhQ": {
     "channel": "Face the Nation",
-    "next": "2026-11-24T18:50:23+00:00",
+    "next": "2026-11-24T19:10:30+00:00",
     "title": "Watch Live: Trump pardons turkeys Freedom and Feathers at the White House",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=mm8aesKdOhQ"
    },
    "o_NiJBOC86s": {
@@ -13794,6 +13794,11 @@
   "source": "yt-transcripts",
   "title": "The Diseases That Ended Entire Civilizations \ud83d\ude28"
  },
+ "ytv:Ulm2SO5g5XE": {
+  "first_seen": "2026-11-24T18:50:30+00:00",
+  "source": "yt-transcripts",
+  "title": "All In Jason Calacanis Says Billionaires CAN'T BE TRAITORS"
+ },
  "ytv:Um1v1XKxG2M": {
   "first_seen": "2026-11-24T16:10:33+00:00",
   "source": "yt-transcripts",
@@ -14198,6 +14203,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "EU officials reject Cop31 deal as it 'doesn't speak to reality of the climate crisis'"
+ },
+ "ytv:aOQCQrBRX-Y": {
+  "first_seen": "2026-11-24T18:50:30+00:00",
+  "source": "yt-transcripts",
+  "title": "RETURN OF THE LEATHER #NVIDIA #Jensen"
  },
  "ytv:aUIfO-vZ_W8": {
   "first_seen": "2026-11-23T22:30:30+00:00",
