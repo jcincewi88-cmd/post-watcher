@@ -1111,23 +1111,23 @@
    },
    "UUi8LVLY6Xc": {
     "channel": "The New York Times",
-    "next": "2026-11-24T16:20:33+00:00",
+    "next": "2026-11-24T16:45:20+00:00",
     "title": "Jensen Huang Returns as Nvidia CEO",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=UUi8LVLY6Xc"
    },
    "Um1v1XKxG2M": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T16:20:33+00:00",
+    "next": "2026-11-24T16:45:20+00:00",
     "title": "Jensen Huang promises to be a \u201cbetter CEO\u201d",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=Um1v1XKxG2M"
    },
    "d-DZB88_ORo": {
     "channel": "Fox Business",
-    "next": "2026-11-24T16:20:48+00:00",
+    "next": "2026-11-24T17:05:20+00:00",
     "title": "WATCH LIVE: DOJ launches new crackdown on cyber scams targeting Americans",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=d-DZB88_ORo"
    },
    "nVmHLbrDLZw": {
@@ -14367,6 +14367,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Why Washington Wanted Jensen Huang Back at Nvidia"
+ },
+ "ytv:gJ-V10FZyH0": {
+  "first_seen": "2026-11-24T16:25:20+00:00",
+  "source": "yt-transcripts",
+  "title": "Trump takes credit for Jensen Huang's return to Nvidia"
  },
  "ytv:gLRkU94LeUo": {
   "first_seen": "2026-11-24T01:35:19+00:00",
