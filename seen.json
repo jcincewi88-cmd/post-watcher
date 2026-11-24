@@ -1095,6 +1095,13 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=HUaAfoOyXWU"
    },
+   "P9wOAYmhhNY": {
+    "channel": "Washington Post",
+    "next": "2026-11-24T21:30:37+00:00",
+    "title": "Trump pardons turkeys on new White House helipad",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=P9wOAYmhhNY"
+   },
    "P_vVzEcKnWU": {
     "channel": "Yahoo Finance",
     "next": "2026-11-24T23:40:40+00:00",
@@ -12464,6 +12471,11 @@
   "source": "yt-transcripts",
   "title": "'THIS IS A MESS': Aviation expert DISCLOSES what FAA leadership FINALLY admitted"
  },
+ "ytv:4z3t-3zPooM": {
+  "first_seen": "2026-11-24T21:20:37+00:00",
+  "source": "yt-transcripts",
+  "title": "How did this 23-year-old artist turn a quirky side table into a six-figure business? #smallbusiness"
+ },
  "ytv:52l9kFBlXQU": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -13558,6 +13570,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "ETF Investor Forum 2026"
+ },
+ "ytv:P9wOAYmhhNY": {
+  "first_seen": "2026-11-24T21:20:37+00:00",
+  "source": "yt-transcripts",
+  "title": "Trump pardons turkeys on new White House helipad"
  },
  "ytv:PAKir3cT37w": {
   "first_seen": "2026-11-24T01:35:19+00:00",
@@ -15103,6 +15120,11 @@
   "first_seen": "2026-11-23T22:40:34+00:00",
   "source": "yt-transcripts",
   "title": "Elon Musk stood by Jensen Huang when the chips were down"
+ },
+ "ytv:rcTq8ia17E4": {
+  "first_seen": "2026-11-24T21:20:37+00:00",
+  "source": "yt-transcripts",
+  "title": "Sen. Chris Van Hollen\u2019s plan for holding Trump accountable"
  },
  "ytv:rkDiNKDv3Cg": {
   "first_seen": "2026-11-24T01:35:19+00:00",
