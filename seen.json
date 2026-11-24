@@ -1097,9 +1097,9 @@
    },
    "P-SvyILdsYc": {
     "channel": "Fox Business",
-    "next": "2026-11-24T15:45:27+00:00",
+    "next": "2026-11-24T16:10:37+00:00",
     "title": "WATCH LIVE: Trump and first lady host annual Thanksgiving turkey pardoning",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=P-SvyILdsYc"
    },
    "T4ufamhjYRo": {
@@ -1108,6 +1108,13 @@
     "title": "Hamish Falconer and Ed Miliband appear before select committee \u2013 watch live",
     "tries": 4,
     "url": "https://www.youtube.com/watch?v=T4ufamhjYRo"
+   },
+   "d-DZB88_ORo": {
+    "channel": "Fox Business",
+    "next": "2026-11-24T16:00:37+00:00",
+    "title": "WATCH LIVE: DOJ launches new crackdown on cyber scams targeting Americans",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=d-DZB88_ORo"
    },
    "nVmHLbrDLZw": {
     "channel": "Yahoo Finance",
@@ -1118,9 +1125,9 @@
    },
    "o_NiJBOC86s": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T15:50:28+00:00",
+    "next": "2026-11-24T17:10:37+00:00",
     "title": "Sozzi Unleashed (9:30\u201310:00 a.m. ET)",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=o_NiJBOC86s"
    },
    "ur8v_RSIY-k": {
@@ -14142,6 +14149,11 @@
   "source": "yt-transcripts",
   "title": "CRTICIAL: Is The Worlds BIGGEST IPO Ever Good For Markets? [My Trade Plan]"
  },
+ "ytv:c_jNjznqyxk": {
+  "first_seen": "2026-11-24T15:50:37+00:00",
+  "source": "yt-transcripts",
+  "title": "Chuck Schumer is the reason we need term limits: Political commentator"
+ },
  "ytv:cgccX1hG3Pc": {
   "first_seen": "2026-11-24T10:50:30+00:00",
   "source": "yt-transcripts",
@@ -14161,6 +14173,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "JRE MMA Show #189 with Tommy McMillen"
+ },
+ "ytv:d-DZB88_ORo": {
+  "first_seen": "2026-11-24T15:50:37+00:00",
+  "source": "yt-transcripts",
+  "title": "WATCH LIVE: DOJ launches new crackdown on cyber scams targeting Americans"
  },
  "ytv:d9y30vB88zg": {
   "first_seen": "2026-11-23T22:30:30+00:00",
@@ -14891,6 +14908,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "The rise, reinvention and uncertain future of Nvidia without Jensen Huang"
+ },
+ "ytv:th4wfMJ4YUo": {
+  "first_seen": "2026-11-24T15:50:37+00:00",
+  "source": "yt-transcripts",
+  "title": "Dave Portnoy HATES Big John! \ud83d\ude24\ud83d\udd25"
  },
  "ytv:tru-j8JHAAU": {
   "first_seen": "2026-11-23T22:30:30+00:00",
