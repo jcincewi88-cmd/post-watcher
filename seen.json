@@ -1083,9 +1083,9 @@
   "yt_pending": {
    "3TbKeiAOY4g": {
     "channel": "Crypto Banter",
-    "next": "2026-11-24T10:05:30+00:00",
+    "next": "2026-11-24T10:50:35+00:00",
     "title": "Bitcoin Could Hit 48K In The Next 7 Days (Urgent Update)",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=3TbKeiAOY4g"
    },
    "ETyrBOW9WMU": {
@@ -13521,6 +13521,11 @@
   "source": "yt-transcripts",
   "title": "Plenary session as Cop31 runs further into overtime - watch live"
  },
+ "ytv:SjsR5Fx57dM": {
+  "first_seen": "2026-11-24T10:10:35+00:00",
+  "source": "yt-transcripts",
+  "title": "House vote LOOMS over permitting reform bill"
+ },
  "ytv:SlmT1Wxtv2o": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -14756,6 +14761,11 @@
   "source": "yt-transcripts",
   "title": "Nick Offerman: Our Generation \"Shat The Bed\""
  },
+ "ytv:tTV9J8Zk8zo": {
+  "first_seen": "2026-11-24T10:10:35+00:00",
+  "source": "yt-transcripts",
+  "title": "Bob Woodward on Trump, Jeff Bezos and Washington\u2019s secrets | The Axios Show"
+ },
  "ytv:tX5oNAxULSY": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -14940,6 +14950,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Steiny Regrets Netanyahu Podcast \ud83d\ude31\ud83d\udd25"
+ },
+ "ytv:wvYRWAlVgM4": {
+  "first_seen": "2026-11-24T10:10:35+00:00",
+  "source": "yt-transcripts",
+  "title": "Is You Can See Everything an insult to objective truth?"
  },
  "ytv:xAc7zaM6lZg": {
   "first_seen": "2026-11-24T01:35:19+00:00",
