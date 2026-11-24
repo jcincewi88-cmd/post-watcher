@@ -12,3 +12,4 @@ pumpfun
 ticker
 my own coin
 to the moon
+coin
