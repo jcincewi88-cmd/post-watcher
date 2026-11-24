@@ -1090,10 +1090,17 @@
    },
    "T4ufamhjYRo": {
     "channel": "Guardian News",
-    "next": "2026-11-24T13:51:55+00:00",
+    "next": "2026-11-24T14:35:20+00:00",
     "title": "Hamish Falconer and Ed Miliband appear before select committee \u2013 watch live",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=T4ufamhjYRo"
+   },
+   "nVmHLbrDLZw": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-24T14:05:20+00:00",
+    "title": "The 8:30 (8:30\u20139:30 a.m. ET)",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=nVmHLbrDLZw"
    },
    "ur8v_RSIY-k": {
     "channel": "Guardian News",
@@ -14548,6 +14555,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Why Morgan Stanley Thinks Tokenization Makes More Sense for Alts Than Equities"
+ },
+ "ytv:nVmHLbrDLZw": {
+  "first_seen": "2026-11-24T13:55:20+00:00",
+  "source": "yt-transcripts",
+  "title": "The 8:30 (8:30\u20139:30 a.m. ET)"
  },
  "ytv:nepKKz-MzFM": {
   "first_seen": "2026-11-23T22:30:30+00:00",
