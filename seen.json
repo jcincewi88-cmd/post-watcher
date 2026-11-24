@@ -1083,9 +1083,9 @@
   "yt_pending": {
    "GyGkJtcsTvs": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T22:40:39+00:00",
+    "next": "2026-11-25T04:05:23+00:00",
     "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)",
-    "tries": 5,
+    "tries": 6,
     "url": "https://www.youtube.com/watch?v=GyGkJtcsTvs"
    },
    "HUaAfoOyXWU": {
@@ -1097,9 +1097,9 @@
    },
    "JtJkswDvH84": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T22:40:27+00:00",
+    "next": "2026-11-24T23:25:23+00:00",
     "title": "Anthropic closes below its $83 IPO price less than a week later from its debut.",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=JtJkswDvH84"
    },
    "P_vVzEcKnWU": {
@@ -12843,6 +12843,11 @@
   "source": "yt-transcripts",
   "title": "GTA 6 Gamer Gate? The Girlfriend Problem"
  },
+ "ytv:Cju0VqD0xsk": {
+  "first_seen": "2026-11-24T22:45:23+00:00",
+  "source": "yt-transcripts",
+  "title": "Uh Oh, Crypto Holders.. It All Comes Down To This!"
+ },
  "ytv:Cr9NtvCi6GQ": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -13227,6 +13232,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Who\u2019s behind this?"
+ },
+ "ytv:I_IoEDbatw8": {
+  "first_seen": "2026-11-24T22:45:23+00:00",
+  "source": "yt-transcripts",
+  "title": "US woman chased by turkeys days before Thanksgiving"
  },
  "ytv:IhadoD7FkJQ": {
   "first_seen": "2026-11-24T01:35:19+00:00",
@@ -14067,6 +14077,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Americans want their politicians to be \u2018fighters\u2019 | FT #shorts"
+ },
+ "ytv:Xh8zlul1kdY": {
+  "first_seen": "2026-11-24T22:45:23+00:00",
+  "source": "yt-transcripts",
+  "title": "For some wholesome family bonding\u2764\ufe0f"
  },
  "ytv:XyXBwO5jYpw": {
   "first_seen": "2026-11-23T22:30:30+00:00",
@@ -15122,6 +15137,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "They Want To Livestream An Execution??? \u2620\ufe0f - Tim Dillon"
+ },
+ "ytv:qaMNDBsD1yo": {
+  "first_seen": "2026-11-24T22:45:23+00:00",
+  "source": "yt-transcripts",
+  "title": "Trump gives Thanksgiving pardon to turkeys Freedom and Feathers at White House"
  },
  "ytv:qcKatHMcxXk": {
   "first_seen": "2026-11-24T01:35:19+00:00",
