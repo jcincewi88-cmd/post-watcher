@@ -1067,16 +1067,16 @@
   "yt_pending": {
    "XPLS5_T51no": {
     "channel": "PBD Podcast",
-    "next": "2026-11-24T01:30:21+00:00",
+    "next": "2026-11-24T01:50:28+00:00",
     "title": "Jensen Huang Returns to NVIDIA, Trump Meets Xi & Putin, GTA 6 Hits $3.79B | PBD Podcast #894",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=XPLS5_T51no"
    },
    "rXgmrc56PFQ": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T01:25:28+00:00",
+    "next": "2026-11-24T04:10:28+00:00",
     "title": "Elon Musk stood by Jensen Huang when the chips were down",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=rXgmrc56PFQ"
    }
   }
