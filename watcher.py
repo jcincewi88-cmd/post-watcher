@@ -50,7 +50,7 @@ YT_CHANNELS = [
     ("Coin Bureau", "UCqK_GSMbpiV8spgD3ZGloSw"),
     ("CoinDesk", "UC7TghOL755nBk7HelHoi9LQ"),
     ("Bankless", "UCAl9Ld79qaZxp9JzEOwd3aA"),
-    ("Altcoin Daily", "UCbLhGKVY-bJPcawebgtNfbw"),
+    ("Paul Barron Network", "UC4VPa7EOvObpyCRI4YKRQRw"),
     ("Crypto Banter", "UCN9Nj4tjXbVTLYWN0EKly_Q"),
     ("Joe Rogan (PowerfulJRE)", "UCzQUP1qoWDoEbmsQxvdjxgQ"),
     ("JRE Clips", "UCnxGkOGNMqQEUMvroOWps6Q"),
