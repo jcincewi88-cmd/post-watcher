@@ -484,7 +484,7 @@ def process_youtube(meta, warned, now_dt):
         where = f" at {clock(start)}" if start is not None else ""
         msg = (f'"{snippet}"' if start is not None else "Keyword is in the title.") + f"{where}\n\n{p['title']}"
         click = p["url"] + (f"&t={int(start)}s" if start is not None else "")
-        notify(f"{said} said on {p['channel']}", msg, click=click, tags="arrow_forward", icon=YT_ICON)
+        notify(f"{said} said on {p['channel']}", msg, click=click, tags="red_square", icon=YT_ICON)
 
 
 def notify(title, message, click=None, tags="green_circle", icon=None):
