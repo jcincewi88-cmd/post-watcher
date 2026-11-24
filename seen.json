@@ -1095,13 +1095,6 @@
     "tries": 1,
     "url": "https://www.youtube.com/watch?v=4Mr9A3V4zXo"
    },
-   "81MoSWyTKKE": {
-    "channel": "Guardian News",
-    "next": "2026-11-24T19:35:27+00:00",
-    "title": "Stephen Timms makes statement in Commons on his report on Pip \u2013 watch live",
-    "tries": 5,
-    "url": "https://www.youtube.com/watch?v=81MoSWyTKKE"
-   },
    "GyGkJtcsTvs": {
     "channel": "Yahoo Finance",
     "next": "2026-11-24T20:00:23+00:00",
@@ -1125,9 +1118,9 @@
    },
    "P_vVzEcKnWU": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T19:35:26+00:00",
+    "next": "2026-11-24T20:55:39+00:00",
     "title": "Sozzi Unleashed At The Close | Market Coverage",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=P_vVzEcKnWU"
    },
    "T4ufamhjYRo": {
@@ -12158,6 +12151,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "What is it like to work in India's deadly #firecracker industry? #India #fireworks"
+ },
+ "ytv:-nGMUfLgfkw": {
+  "first_seen": "2026-11-24T19:35:39+00:00",
+  "source": "yt-transcripts",
+  "title": "2028 SHOCK: DNC Demands Anti DARK MONEY PLEDGE For Presidential Contenders"
  },
  "ytv:-yIQdQvb50k": {
   "first_seen": "2026-11-23T22:30:30+00:00",
