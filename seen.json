@@ -1102,6 +1102,13 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=P_vVzEcKnWU"
    },
+   "Sl4XLphrEPo": {
+    "channel": "The Daily Wire",
+    "next": "2026-11-24T21:50:30+00:00",
+    "title": "Checks out",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=Sl4XLphrEPo"
+   },
    "T4ufamhjYRo": {
     "channel": "Guardian News",
     "next": "2026-11-25T00:05:28+00:00",
@@ -13749,6 +13756,11 @@
   "source": "yt-transcripts",
   "title": "House vote LOOMS over permitting reform bill"
  },
+ "ytv:Sl4XLphrEPo": {
+  "first_seen": "2026-11-24T21:40:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Checks out"
+ },
  "ytv:SlmT1Wxtv2o": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -14408,6 +14420,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "How Grand Theft Auto VI Is 30 Years in the Making"
+ },
+ "ytv:ddAdK-BUKfs": {
+  "first_seen": "2026-11-24T21:40:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Is the Jensen Huang Rally Already Fading?"
  },
  "ytv:dmYM0J7w0Gg": {
   "first_seen": "2026-11-24T01:35:19+00:00",
