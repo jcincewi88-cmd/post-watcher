@@ -1081,18 +1081,11 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
-   "48-88TXFLf0": {
-    "channel": "PowerfulJRE",
-    "next": "2026-11-24T19:40:39+00:00",
-    "title": "Joe Rogan Experience #2585 - Sam Tripoli & Eddie Bravo",
-    "tries": 3,
-    "url": "https://www.youtube.com/watch?v=48-88TXFLf0"
-   },
    "4Mr9A3V4zXo": {
     "channel": "Theo Von",
-    "next": "2026-11-24T19:40:42+00:00",
+    "next": "2026-11-24T20:05:21+00:00",
     "title": "Young Amish Male Returns | This Past Weekend w/ Theo Von #697",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=4Mr9A3V4zXo"
    },
    "GyGkJtcsTvs": {
@@ -1108,6 +1101,13 @@
     "title": "Market Hang (12:30\u20131:30 p.m. ET)",
     "tries": 4,
     "url": "https://www.youtube.com/watch?v=HUaAfoOyXWU"
+   },
+   "Nk1YeyECJ5s": {
+    "channel": "CoinDesk",
+    "next": "2026-11-24T19:55:21+00:00",
+    "title": "Nvidia CEO's Return Is a \u2018Bullish Black Swan\u2019 and BTC Is in Gold\u2019s \u2018Doghouse\u2019 Era: Eric Balchunas",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=Nk1YeyECJ5s"
    },
    "P-SvyILdsYc": {
     "channel": "Fox Business",
@@ -13466,6 +13466,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501"
+ },
+ "ytv:Nk1YeyECJ5s": {
+  "first_seen": "2026-11-24T19:45:21+00:00",
+  "source": "yt-transcripts",
+  "title": "Nvidia CEO's Return Is a \u2018Bullish Black Swan\u2019 and BTC Is in Gold\u2019s \u2018Doghouse\u2019 Era: Eric Balchunas"
  },
  "ytv:NsvFpH37OXg": {
   "first_seen": "2026-11-23T22:30:30+00:00",
