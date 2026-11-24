@@ -1081,6 +1081,13 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
+   "3TbKeiAOY4g": {
+    "channel": "Crypto Banter",
+    "next": "2026-11-24T09:45:22+00:00",
+    "title": "Bitcoin Could Hit 48K In The Next 7 Days (Urgent Update)",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=3TbKeiAOY4g"
+   },
    "ETyrBOW9WMU": {
     "channel": "Crypto Banter",
     "next": "2026-11-24T10:30:37+00:00",
@@ -1094,13 +1101,6 @@
     "title": "Jensen Huang Returns to NVIDIA, Trump Meets Xi & Putin, GTA 6 Hits $3.79B | PBD Podcast #894",
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=XPLS5_T51no"
-   },
-   "rXgmrc56PFQ": {
-    "channel": "Yahoo Finance",
-    "next": "2026-11-24T09:35:20+00:00",
-    "title": "Elon Musk stood by Jensen Huang when the chips were down",
-    "tries": 6,
-    "url": "https://www.youtube.com/watch?v=rXgmrc56PFQ"
    },
    "ur8v_RSIY-k": {
     "channel": "Guardian News",
@@ -12280,6 +12280,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "WE SPEND MORE ON AI THAN SALARIES | MERCOR CEO"
+ },
+ "ytv:3TbKeiAOY4g": {
+  "first_seen": "2026-11-24T09:35:22+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitcoin Could Hit 48K In The Next 7 Days (Urgent Update)"
  },
  "ytv:3WTOXMJcjkQ": {
   "first_seen": "2026-11-24T01:35:19+00:00",
