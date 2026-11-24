@@ -1101,6 +1101,13 @@
     "title": "Elon Musk stood by Jensen Huang when the chips were down",
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=rXgmrc56PFQ"
+   },
+   "ur8v_RSIY-k": {
+    "channel": "Guardian News",
+    "next": "2026-11-24T08:10:43+00:00",
+    "title": "'I'm going to be a better CEO': Jensen Huang rejoins Nvidia after Trump intervention",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=ur8v_RSIY-k"
    }
   }
  },
@@ -14778,6 +14785,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "What will Democrats actually do about data centers?"
+ },
+ "ytv:ur8v_RSIY-k": {
+  "first_seen": "2026-11-24T08:00:43+00:00",
+  "source": "yt-transcripts",
+  "title": "'I'm going to be a better CEO': Jensen Huang rejoins Nvidia after Trump intervention"
  },
  "ytv:v0B8-cmAA-8": {
   "first_seen": "2026-11-24T01:35:19+00:00",
