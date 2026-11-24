@@ -1131,6 +1131,13 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=Um1v1XKxG2M"
    },
+   "mCs7YURUHJo": {
+    "channel": "Washington Post",
+    "next": "2026-11-24T23:25:36+00:00",
+    "title": "Firefighters demonstrate dangers of deep-frying a frozen turkey",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=mCs7YURUHJo"
+   },
    "mm8aesKdOhQ": {
     "channel": "Face the Nation",
     "next": "2026-11-24T23:55:33+00:00",
@@ -13687,6 +13694,11 @@
   "source": "yt-transcripts",
   "title": "Nelk Boys Expose Lamine Yamal\u2019s Girlfriend and Talk LeBron James Leak!"
  },
+ "ytv:QJfIuKTeE7s": {
+  "first_seen": "2026-11-24T23:15:36+00:00",
+  "source": "yt-transcripts",
+  "title": "'POWER PLAY': Trump brought Jensen Huang back #shorts"
+ },
  "ytv:QLSljLnIVF4": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -14976,6 +14988,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Leaked Draft Report Finds \u2018Catastrophic\u2019 Training Failures at ICE"
+ },
+ "ytv:mCs7YURUHJo": {
+  "first_seen": "2026-11-24T23:15:36+00:00",
+  "source": "yt-transcripts",
+  "title": "Firefighters demonstrate dangers of deep-frying a frozen turkey"
  },
  "ytv:mJviDNOhIyw": {
   "first_seen": "2026-11-23T22:30:30+00:00",
