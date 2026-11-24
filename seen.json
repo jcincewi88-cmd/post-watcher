@@ -1095,6 +1095,13 @@
     "tries": 4,
     "url": "https://www.youtube.com/watch?v=LAhg30XpToY"
    },
+   "P-SvyILdsYc": {
+    "channel": "Fox Business",
+    "next": "2026-11-24T15:45:27+00:00",
+    "title": "WATCH LIVE: Trump and first lady host annual Thanksgiving turkey pardoning",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=P-SvyILdsYc"
+   },
    "T4ufamhjYRo": {
     "channel": "Guardian News",
     "next": "2026-11-24T15:55:34+00:00",
@@ -13394,6 +13401,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "UK GOVERNMENT WARNING..."
+ },
+ "ytv:P-SvyILdsYc": {
+  "first_seen": "2026-11-24T15:35:27+00:00",
+  "source": "yt-transcripts",
+  "title": "WATCH LIVE: Trump and first lady host annual Thanksgiving turkey pardoning"
  },
  "ytv:P0R2K4-6Wgo": {
   "first_seen": "2026-11-23T22:30:30+00:00",
