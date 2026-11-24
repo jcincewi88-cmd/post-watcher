@@ -1125,9 +1125,9 @@
    },
    "d-DZB88_ORo": {
     "channel": "Fox Business",
-    "next": "2026-11-24T17:05:20+00:00",
+    "next": "2026-11-24T18:30:29+00:00",
     "title": "WATCH LIVE: DOJ launches new crackdown on cyber scams targeting Americans",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=d-DZB88_ORo"
    },
    "o_NiJBOC86s": {
@@ -14841,6 +14841,11 @@
   "source": "yt-transcripts",
   "title": "David Sacks: Who Risked Jail to Take Down Jensen Huang?"
  },
+ "ytv:qAiamrDLZZY": {
+  "first_seen": "2026-11-24T17:10:29+00:00",
+  "source": "yt-transcripts",
+  "title": "BOMBSHELL: Expert calls FAA's NextGen program a LIE #shorts"
+ },
  "ytv:qD0IeHGz7V0": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -15075,6 +15080,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "ICE Detains Two Passengers Boarding at Seattle Airport"
+ },
+ "ytv:vTeVRs1xRLs": {
+  "first_seen": "2026-11-24T17:10:29+00:00",
+  "source": "yt-transcripts",
+  "title": "New York Wants to BAN Boiling Live Lobsters"
  },
  "ytv:vb9UdanNr9M": {
   "first_seen": "2026-11-23T22:30:30+00:00",
