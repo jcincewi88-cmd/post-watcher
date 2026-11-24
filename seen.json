@@ -1095,13 +1095,6 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=HUaAfoOyXWU"
    },
-   "P9wOAYmhhNY": {
-    "channel": "Washington Post",
-    "next": "2026-11-24T21:30:37+00:00",
-    "title": "Trump pardons turkeys on new White House helipad",
-    "tries": 1,
-    "url": "https://www.youtube.com/watch?v=P9wOAYmhhNY"
-   },
    "P_vVzEcKnWU": {
     "channel": "Yahoo Finance",
     "next": "2026-11-24T23:40:40+00:00",
@@ -14510,6 +14503,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "\u2018GTA VI\u2019 isn\u2019t all about violence. It\u2019s about choice."
+ },
+ "ytv:fW9EL9Al_k0": {
+  "first_seen": "2026-11-24T21:35:19+00:00",
+  "source": "yt-transcripts",
+  "title": "no one uses tools like the Amish"
  },
  "ytv:fcNom_MzQDE": {
   "first_seen": "2026-11-23T22:30:30+00:00",
