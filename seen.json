@@ -1109,6 +1109,20 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=T4ufamhjYRo"
    },
+   "UUi8LVLY6Xc": {
+    "channel": "The New York Times",
+    "next": "2026-11-24T16:20:33+00:00",
+    "title": "Jensen Huang Returns as Nvidia CEO",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=UUi8LVLY6Xc"
+   },
+   "Um1v1XKxG2M": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-24T16:20:33+00:00",
+    "title": "Jensen Huang promises to be a \u201cbetter CEO\u201d",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=Um1v1XKxG2M"
+   },
    "d-DZB88_ORo": {
     "channel": "Fox Business",
     "next": "2026-11-24T16:20:48+00:00",
@@ -12139,6 +12153,11 @@
   "source": "yt-transcripts",
   "title": "Deirdre Bosa on the cult of the founder and AI being too big to fail | The 8:30"
  },
+ "ytv:0GQftkysN9o": {
+  "first_seen": "2026-11-24T16:10:33+00:00",
+  "source": "yt-transcripts",
+  "title": "Sean Hannity knows amplifying Trump\u2019s election lies is NOT worth another $787 million #DailyShow"
+ },
  "ytv:0S93zGUH2NA": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -13684,6 +13703,11 @@
   "source": "yt-transcripts",
   "title": "Why Homeowners And Renters Feel Stuck"
  },
+ "ytv:UUi8LVLY6Xc": {
+  "first_seen": "2026-11-24T16:10:33+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen Huang Returns as Nvidia CEO"
+ },
  "ytv:UZ8eYaAf08M": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -13693,6 +13717,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "The Diseases That Ended Entire Civilizations \ud83d\ude28"
+ },
+ "ytv:Um1v1XKxG2M": {
+  "first_seen": "2026-11-24T16:10:33+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen Huang promises to be a \u201cbetter CEO\u201d"
  },
  "ytv:Uns8CWWtxBI": {
   "first_seen": "2026-11-23T22:30:30+00:00",
@@ -13728,6 +13757,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "This Was the Deadliest Epidemic in Human History \ud83d\ude33"
+ },
+ "ytv:VPNrx9W5wx0": {
+  "first_seen": "2026-11-24T16:10:33+00:00",
+  "source": "yt-transcripts",
+  "title": "Fact-checking the '\u00a3750m a week' cost to rejoin the EU"
  },
  "ytv:VQnZuwxci08": {
   "first_seen": "2026-11-23T22:30:30+00:00",
@@ -14338,6 +14372,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Why does Delhi's air get so polluted after #Diwali? #riskybusiness #fireworks"
+ },
+ "ytv:gM_3EzjZTs0": {
+  "first_seen": "2026-11-24T16:10:33+00:00",
+  "source": "yt-transcripts",
+  "title": "TikToks That Will Make You Stop and Pray"
  },
  "ytv:gNqPZGZsQng": {
   "first_seen": "2026-11-23T22:30:30+00:00",
