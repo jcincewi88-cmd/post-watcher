@@ -1081,6 +1081,13 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
+   "LAhg30XpToY": {
+    "channel": "Crypto Banter",
+    "next": "2026-11-24T13:05:27+00:00",
+    "title": "I\u2019m Worried about Bitcoin & Crypto",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=LAhg30XpToY"
+   },
    "ur8v_RSIY-k": {
     "channel": "Guardian News",
     "next": "2026-11-24T13:25:26+00:00",
@@ -13144,6 +13151,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Jensen Huang Is Back. Washington Just Changed the Rules | Deirdre Bosa Live"
+ },
+ "ytv:LAhg30XpToY": {
+  "first_seen": "2026-11-24T12:55:27+00:00",
+  "source": "yt-transcripts",
+  "title": "I\u2019m Worried about Bitcoin & Crypto"
  },
  "ytv:LKUprQDkacY": {
   "first_seen": "2026-11-24T01:35:19+00:00",
