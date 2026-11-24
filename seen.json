@@ -1090,9 +1090,9 @@
    },
    "93bpVUS0B_A": {
     "channel": "Face the Nation",
-    "next": "2026-11-24T18:05:24+00:00",
+    "next": "2026-11-24T18:25:29+00:00",
     "title": "Trump officials lay out explosive detonation plan",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=93bpVUS0B_A"
    },
    "GyGkJtcsTvs": {
@@ -1104,9 +1104,9 @@
    },
    "HUaAfoOyXWU": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T18:05:23+00:00",
+    "next": "2026-11-24T18:45:29+00:00",
     "title": "Market Hang (12:30\u20131:30 p.m. ET)",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=HUaAfoOyXWU"
    },
    "LAhg30XpToY": {
@@ -14967,6 +14967,11 @@
   "source": "yt-transcripts",
   "title": "New bio alert for Jensen Huang. \ud83d\udca5"
  },
+ "ytv:rHBQgEDh0m4": {
+  "first_seen": "2026-11-24T18:05:29+00:00",
+  "source": "yt-transcripts",
+  "title": "Dems, Senate Republicans VOW Trump Revenge On NVIDIA"
+ },
  "ytv:rXgmrc56PFQ": {
   "first_seen": "2026-11-23T22:40:34+00:00",
   "source": "yt-transcripts",
@@ -15081,6 +15086,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "The Demon That Talks Is Never the One in Charge \ud83d\ude33"
+ },
+ "ytv:uKiAh7zMgJM": {
+  "first_seen": "2026-11-24T18:05:29+00:00",
+  "source": "yt-transcripts",
+  "title": "Why Chornobyl\u2019s $1.5B Nuclear Structure Is No Longer Secure | WSJ"
  },
  "ytv:uVrHQHq-B5g": {
   "first_seen": "2026-11-23T22:30:30+00:00",
