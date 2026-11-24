@@ -1083,9 +1083,9 @@
   "yt_pending": {
    "48-88TXFLf0": {
     "channel": "PowerfulJRE",
-    "next": "2026-11-24T18:35:27+00:00",
+    "next": "2026-11-24T19:00:23+00:00",
     "title": "Joe Rogan Experience #2585 - Sam Tripoli & Eddie Bravo",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=48-88TXFLf0"
    },
    "81MoSWyTKKE": {
@@ -1097,9 +1097,9 @@
    },
    "GyGkJtcsTvs": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T18:35:24+00:00",
+    "next": "2026-11-24T20:00:23+00:00",
     "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=GyGkJtcsTvs"
    },
    "HUaAfoOyXWU": {
@@ -1150,6 +1150,13 @@
     "title": "WATCH LIVE: DOJ launches new crackdown on cyber scams targeting Americans",
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=d-DZB88_ORo"
+   },
+   "mm8aesKdOhQ": {
+    "channel": "Face the Nation",
+    "next": "2026-11-24T18:50:23+00:00",
+    "title": "Watch Live: Trump pardons turkeys Freedom and Feathers at the White House",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=mm8aesKdOhQ"
    },
    "o_NiJBOC86s": {
     "channel": "Yahoo Finance",
@@ -14771,6 +14778,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Joe Rogan Experience #2576 - Dr. Peter McCullough"
+ },
+ "ytv:mm8aesKdOhQ": {
+  "first_seen": "2026-11-24T18:40:23+00:00",
+  "source": "yt-transcripts",
+  "title": "Watch Live: Trump pardons turkeys Freedom and Feathers at the White House"
  },
  "ytv:mn_Puf5WVNE": {
   "first_seen": "2026-11-23T22:30:30+00:00",
