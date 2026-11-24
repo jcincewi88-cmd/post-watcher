@@ -1088,6 +1088,13 @@
     "tries": 3,
     "url": "https://www.youtube.com/watch?v=48-88TXFLf0"
    },
+   "4Mr9A3V4zXo": {
+    "channel": "Theo Von",
+    "next": "2026-11-24T19:40:42+00:00",
+    "title": "Young Amish Male Returns | This Past Weekend w/ Theo Von #697",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=4Mr9A3V4zXo"
+   },
    "81MoSWyTKKE": {
     "channel": "Guardian News",
     "next": "2026-11-24T19:35:27+00:00",
@@ -1741,6 +1748,16 @@
   "first_seen": "2026-11-23T21:45:23+00:00",
   "source": "openai-all",
   "title": "Holiday Extras is rethinking what it can build with Codex"
+ },
+ "https://openai.com/business/customer-stories/ifood": {
+  "first_seen": "2026-11-24T19:30:42+00:00",
+  "source": "openai-all",
+  "title": "How iFood scales coding agents across 15,000 repositories"
+ },
+ "https://openai.com/business/customer-stories/intentful-dots": {
+  "first_seen": "2026-11-24T19:30:42+00:00",
+  "source": "openai-all",
+  "title": "How Intentful uses dots to make more time for growth"
  },
  "https://openai.com/business/customer-stories/revolut": {
   "first_seen": "2026-11-23T21:45:23+00:00",
@@ -12416,6 +12433,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "HOW DID A SPY GET INTO NVIDIA?"
+ },
+ "ytv:4Mr9A3V4zXo": {
+  "first_seen": "2026-11-24T19:30:42+00:00",
+  "source": "yt-transcripts",
+  "title": "Young Amish Male Returns | This Past Weekend w/ Theo Von #697"
  },
  "ytv:4R9Sk_Hb1uk": {
   "first_seen": "2026-11-23T22:30:30+00:00",
