@@ -1123,18 +1123,11 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=Um1v1XKxG2M"
    },
-   "d-DZB88_ORo": {
-    "channel": "Fox Business",
-    "next": "2026-11-24T21:10:42+00:00",
-    "title": "WATCH LIVE: DOJ launches new crackdown on cyber scams targeting Americans",
-    "tries": 5,
-    "url": "https://www.youtube.com/watch?v=d-DZB88_ORo"
-   },
    "mm8aesKdOhQ": {
     "channel": "Face the Nation",
-    "next": "2026-11-24T21:15:29+00:00",
+    "next": "2026-11-24T23:55:33+00:00",
     "title": "Watch Live: Trump pardons turkeys Freedom and Feathers at the White House",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=mm8aesKdOhQ"
    },
    "o_NiJBOC86s": {
@@ -14875,6 +14868,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Vehicles burn on Mexican highway after capture of 'El Chapo Isidro'"
+ },
+ "ytv:nDakjPdzkkM": {
+  "first_seen": "2026-11-24T21:15:33+00:00",
+  "source": "yt-transcripts",
+  "title": "Delta Force Operator's Closest Call \ud83d\ude33"
  },
  "ytv:nEboA3TkKz0": {
   "first_seen": "2026-11-23T22:30:30+00:00",
