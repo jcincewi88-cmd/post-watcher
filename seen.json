@@ -1095,6 +1095,13 @@
     "tries": 2,
     "url": "https://www.youtube.com/watch?v=GyGkJtcsTvs"
    },
+   "HUaAfoOyXWU": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-24T17:45:23+00:00",
+    "title": "Market Hang (12:30\u20131:30 p.m. ET)",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=HUaAfoOyXWU"
+   },
    "LAhg30XpToY": {
     "channel": "Crypto Banter",
     "next": "2026-11-24T18:20:37+00:00",
@@ -13063,6 +13070,11 @@
   "source": "yt-transcripts",
   "title": "Nelk Boys on Salim's Internet Invitational Performance & Dana White Becoming Press Secretary!"
  },
+ "ytv:HUaAfoOyXWU": {
+  "first_seen": "2026-11-24T17:35:23+00:00",
+  "source": "yt-transcripts",
+  "title": "Market Hang (12:30\u20131:30 p.m. ET)"
+ },
  "ytv:HWFwXZYlpII": {
   "first_seen": "2026-11-24T17:15:28+00:00",
   "source": "yt-transcripts",
@@ -13882,6 +13894,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Sydney Sweeney\u2019s New Commercial \ud83e\udd2f\ud83c\udf52"
+ },
+ "ytv:X7HaegPAusg": {
+  "first_seen": "2026-11-24T17:35:23+00:00",
+  "source": "yt-transcripts",
+  "title": "MASSIVE NVIDIA Insider Trading Q's As Trump Makes Millions"
  },
  "ytv:XC9TtrCgGzE": {
   "first_seen": "2026-11-24T01:35:19+00:00",
@@ -15347,6 +15364,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Get Ready For The Reversal: My Altcoin Buy Zones"
+ },
+ "ytv:z6Q5FDD0ros": {
+  "first_seen": "2026-11-24T17:35:23+00:00",
+  "source": "yt-transcripts",
+  "title": "Is Jensen Huang Worth $1 Trillion to Nvidia?"
  },
  "ytv:zFm77gHNT_o": {
   "first_seen": "2026-11-24T01:35:19+00:00",
