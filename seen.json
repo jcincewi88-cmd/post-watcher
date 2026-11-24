@@ -1065,6 +1065,13 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
+   "XPLS5_T51no": {
+    "channel": "PBD Podcast",
+    "next": "2026-11-24T01:30:21+00:00",
+    "title": "Jensen Huang Returns to NVIDIA, Trump Meets Xi & Putin, GTA 6 Hits $3.79B | PBD Podcast #894",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=XPLS5_T51no"
+   },
    "rXgmrc56PFQ": {
     "channel": "Yahoo Finance",
     "next": "2026-11-24T01:25:28+00:00",
@@ -12998,6 +13005,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Sydney Sweeney\u2019s New Commercial \ud83e\udd2f\ud83c\udf52"
+ },
+ "ytv:XPLS5_T51no": {
+  "first_seen": "2026-11-24T01:20:21+00:00",
+  "source": "yt-transcripts",
+  "title": "Jensen Huang Returns to NVIDIA, Trump Meets Xi & Putin, GTA 6 Hits $3.79B | PBD Podcast #894"
  },
  "ytv:XRUCa6snYE4": {
   "first_seen": "2026-11-23T22:30:30+00:00",
