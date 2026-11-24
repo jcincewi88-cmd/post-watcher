@@ -4927,6 +4927,11 @@
   "source": "openai-all",
   "title": "HYGH speeds development and campaigns with ChatGPT Business"
  },
+ "https://openai.com/index/ifood": {
+  "first_seen": "2026-11-24T18:35:22+00:00",
+  "source": "openai-all",
+  "title": "How iFood scales coding agents across 15,000 repositories"
+ },
  "https://openai.com/index/image-generation-api": {
   "first_seen": "2026-11-20T20:33:39+00:00",
   "source": "openai",
@@ -14021,6 +14026,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Ukraine Strikes Russian Ships Near Libya"
+ },
+ "ytv:Yu28wkyDihc": {
+  "first_seen": "2026-11-24T18:35:22+00:00",
+  "source": "yt-transcripts",
+  "title": "'HE'LL HAVE TO RESIGN': Nvidia CEO faces BRUTAL warning after controversial comeback"
  },
  "ytv:Yx2lgDruVaI": {
   "first_seen": "2026-11-24T01:35:19+00:00",
