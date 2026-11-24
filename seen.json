@@ -1067,9 +1067,9 @@
   "yt_pending": {
    "rXgmrc56PFQ": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T00:05:24+00:00",
+    "next": "2026-11-24T01:25:28+00:00",
     "title": "Elon Musk stood by Jensen Huang when the chips were down",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=rXgmrc56PFQ"
    }
   }
@@ -13658,6 +13658,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Garbage Man tells the truth about recycling"
+ },
+ "ytv:xTzMrgXUfJc": {
+  "first_seen": "2026-11-24T00:05:28+00:00",
+  "source": "yt-transcripts",
+  "title": "'TREMENDOUS TAX': Trump LEVIES THREAT to companies regarding overseas data centers"
  },
  "ytv:x_kDKqbDJ-E": {
   "first_seen": "2026-11-23T22:30:30+00:00",
