@@ -1081,6 +1081,13 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
+   "81MoSWyTKKE": {
+    "channel": "Guardian News",
+    "next": "2026-11-24T14:20:29+00:00",
+    "title": "Stephen Timms makes statement in Commons on his report on Pip \u2013 watch live",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=81MoSWyTKKE"
+   },
    "LAhg30XpToY": {
     "channel": "Crypto Banter",
     "next": "2026-11-24T14:10:31+00:00",
@@ -1097,9 +1104,9 @@
    },
    "nVmHLbrDLZw": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T14:05:20+00:00",
+    "next": "2026-11-24T14:30:29+00:00",
     "title": "The 8:30 (8:30\u20139:30 a.m. ET)",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=nVmHLbrDLZw"
    },
    "ur8v_RSIY-k": {
@@ -12476,6 +12483,11 @@
   "source": "yt-transcripts",
   "title": "How Backpack Won CFTC Approval to Bring Crypto Perps Onshore"
  },
+ "ytv:81MoSWyTKKE": {
+  "first_seen": "2026-11-24T14:10:29+00:00",
+  "source": "yt-transcripts",
+  "title": "Stephen Timms makes statement in Commons on his report on Pip \u2013 watch live"
+ },
  "ytv:87dDHTecUXM": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -13415,6 +13427,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Democrats Have Power Again. How Far Will They Go?"
+ },
+ "ytv:Ptb5dj7ZqPU": {
+  "first_seen": "2026-11-24T14:10:29+00:00",
+  "source": "yt-transcripts",
+  "title": "Why Gold Keeps CRASHING."
  },
  "ytv:Q2FYT5QM_eU": {
   "first_seen": "2026-11-23T22:30:30+00:00",
