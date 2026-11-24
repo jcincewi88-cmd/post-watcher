@@ -1123,6 +1123,13 @@
     "tries": 4,
     "url": "https://www.youtube.com/watch?v=P-SvyILdsYc"
    },
+   "P_vVzEcKnWU": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-24T18:25:37+00:00",
+    "title": "Sozzi Unleashed At The Close | Market Coverage",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=P_vVzEcKnWU"
+   },
    "T4ufamhjYRo": {
     "channel": "Guardian News",
     "next": "2026-11-24T18:40:48+00:00",
@@ -13527,6 +13534,11 @@
   "source": "yt-transcripts",
   "title": "Dan Ives on Jensen Huang, Nvidia, SpaceX, Tesla, and Blue Wave"
  },
+ "ytv:P_vVzEcKnWU": {
+  "first_seen": "2026-11-24T18:15:37+00:00",
+  "source": "yt-transcripts",
+  "title": "Sozzi Unleashed At The Close | Market Coverage"
+ },
  "ytv:Pdvnxuqctb8": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -14467,6 +14479,11 @@
   "source": "yt-transcripts",
   "title": "Danny McBride breaks out a laser pointer"
  },
+ "ytv:gjo0U_f2JG0": {
+  "first_seen": "2026-11-24T18:15:37+00:00",
+  "source": "yt-transcripts",
+  "title": "Eddie Bravo Questions AI, The Space Station, and The Moon Landing"
+ },
  "ytv:gof1NS_jGUo": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -15361,6 +15378,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Trump: 'We're going to fight very hard for the data centers'"
+ },
+ "ytv:yJE-mU3kur8": {
+  "first_seen": "2026-11-24T18:15:37+00:00",
+  "source": "yt-transcripts",
+  "title": "Everybody just started taking Bitcoin as collateral."
  },
  "ytv:yNSPqdtMqQQ": {
   "first_seen": "2026-11-23T22:30:30+00:00",
