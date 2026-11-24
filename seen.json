@@ -1090,9 +1090,9 @@
    },
    "rXgmrc56PFQ": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T04:10:28+00:00",
+    "next": "2026-11-24T09:35:20+00:00",
     "title": "Elon Musk stood by Jensen Huang when the chips were down",
-    "tries": 5,
+    "tries": 6,
     "url": "https://www.youtube.com/watch?v=rXgmrc56PFQ"
    }
   }
@@ -14336,6 +14336,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Nick Offerman on What Big Ag Costs American Farmers"
+ },
+ "ytv:k0r5Vum4i_g": {
+  "first_seen": "2026-11-24T04:15:20+00:00",
+  "source": "yt-transcripts",
+  "title": "These identical twins are political opposites, so Thanksgiving dinner is year-round for this family"
  },
  "ytv:kAiFNM09czA": {
   "first_seen": "2026-11-23T22:30:30+00:00",
