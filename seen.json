@@ -1088,11 +1088,18 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=81MoSWyTKKE"
    },
+   "93bpVUS0B_A": {
+    "channel": "Face the Nation",
+    "next": "2026-11-24T18:05:24+00:00",
+    "title": "Trump officials lay out explosive detonation plan",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=93bpVUS0B_A"
+   },
    "GyGkJtcsTvs": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-24T17:50:28+00:00",
+    "next": "2026-11-24T18:35:24+00:00",
     "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=GyGkJtcsTvs"
    },
    "HUaAfoOyXWU": {
@@ -12619,6 +12626,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "\ud83e\udd83\ud83e\udd83\ud83e\udd83\ud83e\udde8\ud83e\udde8\ud83e\udde8"
+ },
+ "ytv:93bpVUS0B_A": {
+  "first_seen": "2026-11-24T17:55:24+00:00",
+  "source": "yt-transcripts",
+  "title": "Trump officials lay out explosive detonation plan"
  },
  "ytv:97EIKJ0L80o": {
   "first_seen": "2026-11-23T22:30:30+00:00",
