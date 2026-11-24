@@ -1083,9 +1083,9 @@
   "yt_pending": {
    "4Mr9A3V4zXo": {
     "channel": "Theo Von",
-    "next": "2026-11-24T20:05:21+00:00",
+    "next": "2026-11-24T20:45:39+00:00",
     "title": "Young Amish Male Returns | This Past Weekend w/ Theo Von #697",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=4Mr9A3V4zXo"
    },
    "GyGkJtcsTvs": {
@@ -14861,6 +14861,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Paleontologist Kenneth Lacovara Explains How Dinosaurs Are Real"
+ },
+ "ytv:mvRCh1d-57k": {
+  "first_seen": "2026-11-24T20:05:39+00:00",
+  "source": "yt-transcripts",
+  "title": "Did They Find Noah\u2019s Ark? | Official Preview"
  },
  "ytv:nDK9LZpjYZ0": {
   "first_seen": "2026-11-24T01:35:19+00:00",
