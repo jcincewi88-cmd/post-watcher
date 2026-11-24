@@ -67,6 +67,23 @@ YT_CHANNELS = [
     ("Anthony Pompliano", "UCevXpeL8cNyAnww-NqJ4m2w"),
     ("20VC", "UCf0PBRjhf0rF8fWBIxTuoWA"),
     ("Breaking Points", "UCDRIjKy6eZOvKtOELtTdeUA"),
+    # big news channels that post only a few times a day
+    ("CNBC", "UCvJJ_dzjViJCoLf5uKUTwoA"),
+    ("The Economist", "UC0p5jTq6Xx_DosDFxVXnWaQ"),
+    ("The Wall Street Journal", "UCK7tptUDHh-RYDsdxO1-5QQ"),
+    ("Financial Times", "UCoUxsWakJucWg46KW5RsvPw"),
+    ("Business Insider", "UCcyq283he07B7_KUX07mmtA"),
+    ("The New York Times", "UCqnbDFdCpuN8CMEg0VuEBqA"),
+    ("POLITICO", "UCgjtvMmHXbutALaw9XzRkAg"),
+    ("Washington Post", "UCHd62-u_v4DvJ8TCFtpi4GA"),
+    ("Guardian News", "UCIRYBXDze5krPDzAEOxFGVA"),
+    ("Face the Nation", "UC2x_qNZXKDxNP1j4jvHATRQ"),
+    ("VICE News", "UCZaT_X_mc0BI-djXOlfhqWQ"),
+    ("Vox", "UCLXo7UDZvByw2ixzpQCufnA"),
+    ("Axios", "UCfU4-ArXuSX0tpyApyklMAg"),
+    ("The Daily Wire", "UCaeO5vkdj5xOQHp4UmIN6dw"),
+    ("The Daily Show", "UCwWhs_6x42TyRM4Wstoq8HA"),
+    ("CNBC Make It", "UCH5_L3ytGbBziX0CLuYdQ1Q"),
 ]
 
 # Each source: key, alert label, kind, url, options.
