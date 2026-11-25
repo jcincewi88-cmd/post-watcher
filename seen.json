@@ -1099,9 +1099,9 @@
   "yt_pending": {
    "-5G2Ay1Erxk": {
     "channel": "Crypto Banter",
-    "next": "2026-11-25T11:05:26+00:00",
+    "next": "2026-11-25T12:30:35+00:00",
     "title": "20 Altcoin Setups In 20 Minutes! (Your Requests + My Levels)",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=-5G2Ay1Erxk"
    },
    "-Pf0oYvGc1I": {
@@ -1110,6 +1110,13 @@
     "title": "Colombia\u2019s president takes control of supermarket hostage siege operation",
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=-Pf0oYvGc1I"
+   },
+   "MDHUmLYct3k": {
+    "channel": "Guardian News",
+    "next": "2026-11-25T11:20:35+00:00",
+    "title": "Beaver supermoon lights up skylines around the world",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=MDHUmLYct3k"
    },
    "To_Y-mh5hdg": {
     "channel": "Guardian News",
@@ -13955,6 +13962,11 @@
   "source": "yt-transcripts",
   "title": "Congress Just Got AI And Still Can\u2019t Keep Up"
  },
+ "ytv:MDHUmLYct3k": {
+  "first_seen": "2026-11-25T11:10:35+00:00",
+  "source": "yt-transcripts",
+  "title": "Beaver supermoon lights up skylines around the world"
+ },
  "ytv:MFId_AjWwRY": {
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
@@ -16444,6 +16456,11 @@
   "first_seen": "2026-11-24T17:10:29+00:00",
   "source": "yt-transcripts",
   "title": "New York Wants to BAN Boiling Live Lobsters"
+ },
+ "ytv:vZQr5EWr2-I": {
+  "first_seen": "2026-11-25T11:10:35+00:00",
+  "source": "yt-transcripts",
+  "title": "My boyfriend said he\u2019d propose soon. I\u2019ve been waiting for a year."
  },
  "ytv:vZ_4BOhFm2U": {
   "first_seen": "2026-11-25T01:10:29+00:00",
