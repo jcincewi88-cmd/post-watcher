@@ -1044,6 +1044,7 @@
    "yt-transcripts"
   ],
   "warned": [
+   "karpathy-gist",
    "usmint"
   ],
   "yt_channels": [
@@ -1166,6 +1167,13 @@
     "title": "Beaver supermoon lights up skylines around the world",
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=MDHUmLYct3k"
+   },
+   "QSS-f4lxlDE": {
+    "channel": "Face the Nation",
+    "next": "2026-11-25T16:35:28+00:00",
+    "title": "Top Trump officials cajoled Nvidia to reinstate Jensen Huang. Here's what we know.",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=QSS-f4lxlDE"
    },
    "To_Y-mh5hdg": {
     "channel": "Guardian News",
@@ -14453,6 +14461,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Nelk Boys Predict That AI Will Kill All Humans"
+ },
+ "ytv:QSS-f4lxlDE": {
+  "first_seen": "2026-11-25T16:25:28+00:00",
+  "source": "yt-transcripts",
+  "title": "Top Trump officials cajoled Nvidia to reinstate Jensen Huang. Here's what we know."
  },
  "ytv:QUEm-IgQCac": {
   "first_seen": "2026-11-23T22:30:30+00:00",
