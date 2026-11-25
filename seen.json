@@ -1105,9 +1105,9 @@
    },
    "P9WyR_oUx04": {
     "channel": "The White House",
-    "next": "2026-11-25T02:45:30+00:00",
+    "next": "2026-11-25T03:10:36+00:00",
     "title": "The 2026 Thanksgiving Turkey Pardon Ceremony at the White House: Postcard Edition",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=P9WyR_oUx04"
    },
    "Sl4XLphrEPo": {
@@ -1116,20 +1116,6 @@
     "title": "Checks out",
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=Sl4XLphrEPo"
-   },
-   "UUi8LVLY6Xc": {
-    "channel": "The New York Times",
-    "next": "2026-11-25T02:50:26+00:00",
-    "title": "Jensen Huang Returns as Nvidia CEO",
-    "tries": 6,
-    "url": "https://www.youtube.com/watch?v=UUi8LVLY6Xc"
-   },
-   "Um1v1XKxG2M": {
-    "channel": "Yahoo Finance",
-    "next": "2026-11-25T02:50:26+00:00",
-    "title": "Jensen Huang promises to be a \u201cbetter CEO\u201d",
-    "tries": 6,
-    "url": "https://www.youtube.com/watch?v=Um1v1XKxG2M"
    },
    "mm8aesKdOhQ": {
     "channel": "Face the Nation",
@@ -12154,6 +12140,11 @@
   "first_seen": "2026-11-24T19:35:39+00:00",
   "source": "yt-transcripts",
   "title": "2028 SHOCK: DNC Demands Anti DARK MONEY PLEDGE For Presidential Contenders"
+ },
+ "ytv:-rec7Y_P99E": {
+  "first_seen": "2026-11-25T02:50:36+00:00",
+  "source": "yt-transcripts",
+  "title": "SEAL Team 6 Sniper's Rule for a Marriage That Lasts \ud83d\ude33"
  },
  "ytv:-yIQdQvb50k": {
   "first_seen": "2026-11-23T22:30:30+00:00",
