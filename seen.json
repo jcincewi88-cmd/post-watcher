@@ -1044,7 +1044,6 @@
    "yt-transcripts"
   ],
   "warned": [
-   "karpathy-gist",
    "usmint"
   ],
   "yt_channels": [
@@ -1128,9 +1127,9 @@
    },
    "8tP2WXyK9u8": {
     "channel": "FULL SEND PODCAST",
-    "next": "2026-11-25T16:30:26+00:00",
+    "next": "2026-11-25T16:50:30+00:00",
     "title": "Nelk Boys on Running 7 Marathons in 7 days & GTA 6 Release!",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=8tP2WXyK9u8"
    },
    "ATLljpVUdQw": {
@@ -1163,9 +1162,9 @@
    },
    "MDHUmLYct3k": {
     "channel": "Guardian News",
-    "next": "2026-11-25T16:30:26+00:00",
+    "next": "2026-11-25T21:50:30+00:00",
     "title": "Beaver supermoon lights up skylines around the world",
-    "tries": 5,
+    "tries": 6,
     "url": "https://www.youtube.com/watch?v=MDHUmLYct3k"
    },
    "QSS-f4lxlDE": {
@@ -11082,6 +11081,11 @@
   "source": "anthropic",
   "title": "Measuring progress on scalable oversight for large language models"
  },
+ "https://www.anthropic.com/research/migrating-api-to-rust": {
+  "first_seen": "2026-11-25T16:30:30+00:00",
+  "source": "anthropic",
+  "title": "Migrating our Messages API to Rust"
+ },
  "https://www.anthropic.com/research/multi-agent-research-system": {
   "first_seen": "2026-11-21T00:05:17+00:00",
   "source": "anthropic",
@@ -16301,6 +16305,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "future plans"
+ },
+ "ytv:pDR-7hN9bYg": {
+  "first_seen": "2026-11-25T16:30:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Trump's new tariffs, Jensen Huang's future and Democrats' lame-duck agenda"
  },
  "ytv:pEIWY6lXw8I": {
   "first_seen": "2026-11-23T22:30:30+00:00",
