@@ -1111,6 +1111,13 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=-Pf0oYvGc1I"
    },
+   "5wDJoMX5obc": {
+    "channel": "Washington Post",
+    "next": "2026-11-25T13:15:27+00:00",
+    "title": "Supermoon rises over the Parthenon",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=5wDJoMX5obc"
+   },
    "6WjmCoFLC4M": {
     "channel": "Yahoo Finance",
     "next": "2026-11-25T13:20:37+00:00",
@@ -12870,6 +12877,11 @@
   "source": "yt-transcripts",
   "title": "US can\u2019t win AI race without Jensen Huang as Nvidia CEO: Faulkender"
  },
+ "ytv:5wDJoMX5obc": {
+  "first_seen": "2026-11-25T13:05:27+00:00",
+  "source": "yt-transcripts",
+  "title": "Supermoon rises over the Parthenon"
+ },
  "ytv:5xKchuO1PDA": {
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
@@ -14800,6 +14812,11 @@
   "source": "yt-transcripts",
   "title": "MASSIVE NVIDIA Insider Trading Q's As Trump Makes Millions"
  },
+ "ytv:X9hUgEy__ZE": {
+  "first_seen": "2026-11-25T13:05:27+00:00",
+  "source": "yt-transcripts",
+  "title": "The paradox of Latino ICE agents"
+ },
  "ytv:XC9TtrCgGzE": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -15984,6 +16001,11 @@
   "first_seen": "2026-11-24T20:05:39+00:00",
   "source": "yt-transcripts",
   "title": "Did They Find Noah\u2019s Ark? | Official Preview"
+ },
+ "ytv:nB7v-rkhdzw": {
+  "first_seen": "2026-11-25T13:05:27+00:00",
+  "source": "yt-transcripts",
+  "title": "Barbecue, Anthony Bourdain and the American dream"
  },
  "ytv:nDK9LZpjYZ0": {
   "first_seen": "2026-11-24T01:35:19+00:00",
