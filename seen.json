@@ -1100,9 +1100,9 @@
   "yt_pending": {
    "-2cAbQoJ0fg": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T18:05:25+00:00",
+    "next": "2026-11-25T23:25:30+00:00",
     "title": "Market Hang (12:30\u20131:30 p.m. ET)",
-    "tries": 5,
+    "tries": 6,
     "url": "https://www.youtube.com/watch?v=-2cAbQoJ0fg"
    },
    "5wDJoMX5obc": {
@@ -1114,9 +1114,9 @@
    },
    "6WjmCoFLC4M": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T18:05:25+00:00",
+    "next": "2026-11-25T23:25:30+00:00",
     "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)",
-    "tries": 5,
+    "tries": 6,
     "url": "https://www.youtube.com/watch?v=6WjmCoFLC4M"
    },
    "ATLljpVUdQw": {
@@ -1188,13 +1188,6 @@
     "title": "BoE's Bailey appears before UK parliament's Treasury Committee - watch live",
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=k7BBghwlqVc"
-   },
-   "nTABm6j5PlI": {
-    "channel": "Yahoo Finance",
-    "next": "2026-11-25T18:05:25+00:00",
-    "title": "Sozzi Unleashed (9:30\u201310:00 a.m. ET)",
-    "tries": 5,
-    "url": "https://www.youtube.com/watch?v=nTABm6j5PlI"
    },
    "s5LIe7f1mNM": {
     "channel": "Guardian News",
