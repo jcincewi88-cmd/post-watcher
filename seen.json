@@ -1176,6 +1176,13 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=Ii_z53qQSJw"
    },
+   "LbZHGEJqLYU": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-25T19:50:31+00:00",
+    "title": "GTA VI had the biggest entertainment launch in history.",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=LbZHGEJqLYU"
+   },
    "MDHUmLYct3k": {
     "channel": "Guardian News",
     "next": "2026-11-25T21:50:30+00:00",
@@ -14288,6 +14295,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Nobody Taught Google's AI This \ud83d\ude33"
+ },
+ "ytv:LbZHGEJqLYU": {
+  "first_seen": "2026-11-25T19:40:31+00:00",
+  "source": "yt-transcripts",
+  "title": "GTA VI had the biggest entertainment launch in history."
  },
  "ytv:LlbfSziAhL4": {
   "first_seen": "2026-11-24T08:05:25+00:00",
