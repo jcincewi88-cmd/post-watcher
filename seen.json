@@ -1092,6 +1092,13 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
+   "-5G2Ay1Erxk": {
+    "channel": "Crypto Banter",
+    "next": "2026-11-25T10:00:25+00:00",
+    "title": "20 Altcoin Setups In 20 Minutes! (Your Requests + My Levels)",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=-5G2Ay1Erxk"
+   },
    "-Pf0oYvGc1I": {
     "channel": "Guardian News",
     "next": "2026-11-25T09:55:22+00:00",
@@ -1108,9 +1115,9 @@
    },
    "To_Y-mh5hdg": {
     "channel": "Guardian News",
-    "next": "2026-11-25T09:50:25+00:00",
+    "next": "2026-11-25T10:30:25+00:00",
     "title": "Moment dog and owner get swept by king tide on Oregon beach",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=To_Y-mh5hdg"
    }
   }
@@ -12309,6 +12316,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "'Everyone laughed' when he started a pumpkin farm \u2014 now it brings in $2M/year"
+ },
+ "ytv:-5G2Ay1Erxk": {
+  "first_seen": "2026-11-25T09:50:25+00:00",
+  "source": "yt-transcripts",
+  "title": "20 Altcoin Setups In 20 Minutes! (Your Requests + My Levels)"
  },
  "ytv:-6PuYw92m1c": {
   "first_seen": "2026-11-23T22:30:30+00:00",
