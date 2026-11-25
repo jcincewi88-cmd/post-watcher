@@ -1096,6 +1096,13 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=JtJkswDvH84"
    },
+   "RAqCaZ0LxSQ": {
+    "channel": "Face the Nation",
+    "next": "2026-11-25T01:40:26+00:00",
+    "title": "Trump pushed for Huang's reinstatement as Nvidia CEO over economic concerns, officials say",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=RAqCaZ0LxSQ"
+   },
    "Sl4XLphrEPo": {
     "channel": "The Daily Wire",
     "next": "2026-11-25T03:00:39+00:00",
@@ -13775,6 +13782,11 @@
   "first_seen": "2026-11-24T03:40:27+00:00",
   "source": "yt-transcripts",
   "title": "\u2018PROPER DECISION\u2019: Trump weighs in on Jensen Huang\u2019s reinstatement as Nvidia CEO"
+ },
+ "ytv:RAqCaZ0LxSQ": {
+  "first_seen": "2026-11-25T01:30:26+00:00",
+  "source": "yt-transcripts",
+  "title": "Trump pushed for Huang's reinstatement as Nvidia CEO over economic concerns, officials say"
  },
  "ytv:RC5wwomdCV0": {
   "first_seen": "2026-11-24T09:15:35+00:00",
