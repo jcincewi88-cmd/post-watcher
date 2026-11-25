@@ -1099,9 +1099,9 @@
   "yt_pending": {
    "-2cAbQoJ0fg": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T15:25:24+00:00",
+    "next": "2026-11-25T18:05:25+00:00",
     "title": "Market Hang (12:30\u20131:30 p.m. ET)",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=-2cAbQoJ0fg"
    },
    "-Pf0oYvGc1I": {
@@ -1120,9 +1120,9 @@
    },
    "6WjmCoFLC4M": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T15:25:24+00:00",
+    "next": "2026-11-25T18:05:25+00:00",
     "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=6WjmCoFLC4M"
    },
    "ATLljpVUdQw": {
@@ -1176,9 +1176,9 @@
    },
    "nTABm6j5PlI": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T15:25:24+00:00",
+    "next": "2026-11-25T18:05:25+00:00",
     "title": "Sozzi Unleashed (9:30\u201310:00 a.m. ET)",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=nTABm6j5PlI"
    },
    "s5LIe7f1mNM": {
@@ -11734,6 +11734,11 @@
   "first_seen": "2026-11-20T20:33:39+00:00",
   "source": "sec-press",
   "title": "SEC Issues Proposal to Restructure the Consolidated Audit Trail"
+ },
+ "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting": {
+  "first_seen": "2026-11-25T15:25:25+00:00",
+  "source": "sec-press",
+  "title": "SEC Investor Advisory Committee to Host Dec. 3 Virtual Meeting"
  },
  "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised": {
   "first_seen": "2026-11-20T20:33:39+00:00",
