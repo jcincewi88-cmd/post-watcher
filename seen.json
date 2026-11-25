@@ -1178,9 +1178,9 @@
    },
    "LbZHGEJqLYU": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T22:20:51+00:00",
+    "next": "2026-11-26T01:05:22+00:00",
     "title": "GTA VI had the biggest entertainment launch in history.",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=LbZHGEJqLYU"
    },
    "OxsVS55jGSg": {
@@ -1189,6 +1189,13 @@
     "title": "live from newark airport",
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=OxsVS55jGSg"
+   },
+   "dVOilqaYpmM": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-25T22:35:22+00:00",
+    "title": "Elon Musk is matching SpaceX shares in Trump Accounts",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=dVOilqaYpmM"
    },
    "j3K4FBo2Mn8": {
     "channel": "Yahoo Finance",
@@ -15869,6 +15876,11 @@
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "kathy is the worst"
+ },
+ "ytv:dVOilqaYpmM": {
+  "first_seen": "2026-11-25T22:25:22+00:00",
+  "source": "yt-transcripts",
+  "title": "Elon Musk is matching SpaceX shares in Trump Accounts"
  },
  "ytv:dVXDDF3IhQ4": {
   "first_seen": "2026-11-23T22:30:30+00:00",
