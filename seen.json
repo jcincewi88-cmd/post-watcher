@@ -1127,9 +1127,9 @@
    },
    "8tP2WXyK9u8": {
     "channel": "FULL SEND PODCAST",
-    "next": "2026-11-25T16:50:30+00:00",
+    "next": "2026-11-25T17:30:30+00:00",
     "title": "Nelk Boys on Running 7 Marathons in 7 days & GTA 6 Release!",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=8tP2WXyK9u8"
    },
    "ATLljpVUdQw": {
@@ -13838,6 +13838,11 @@
   "first_seen": "2026-11-25T01:25:27+00:00",
   "source": "yt-transcripts",
   "title": "CIA suffers cyber breach, senior US official says"
+ },
+ "ytv:HrcT5tZyQ8E": {
+  "first_seen": "2026-11-25T16:50:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Thank You! To everyone who has read or listened to my recently released book Protocols"
  },
  "ytv:HyooCOuxmCk": {
   "first_seen": "2026-11-25T01:50:23+00:00",
