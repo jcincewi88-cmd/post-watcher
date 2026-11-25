@@ -1157,9 +1157,9 @@
    },
    "Hsm1L85k3lI": {
     "channel": "Guardian News",
-    "next": "2026-11-25T20:00:37+00:00",
+    "next": "2026-11-25T21:25:26+00:00",
     "title": "Cloud of smoke seen after US army detonates bomb-making chemicals in Iowa",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=Hsm1L85k3lI"
    },
    "Ib3yL0VwejU": {
@@ -1192,9 +1192,9 @@
    },
    "OxsVS55jGSg": {
     "channel": "Saturday Night Live",
-    "next": "2026-11-25T20:05:24+00:00",
+    "next": "2026-11-25T22:45:26+00:00",
     "title": "live from newark airport",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=OxsVS55jGSg"
    },
    "YRB4FhNCA5k": {
@@ -1218,19 +1218,19 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=k7BBghwlqVc"
    },
+   "p_S6zQOGL2E": {
+    "channel": "Paul Barron Network",
+    "next": "2026-11-25T20:15:26+00:00",
+    "title": "December Catalysts \ud83d\udcc9 Can Anything Save Crypto?",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=p_S6zQOGL2E"
+   },
    "s5LIe7f1mNM": {
     "channel": "Guardian News",
     "next": "2026-11-25T22:30:30+00:00",
     "title": "PMQs: Andy Burnham takes questions in parliament \u2013 watch live",
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=s5LIe7f1mNM"
-   },
-   "vjjIbvY8tAo": {
-    "channel": "Guardian News",
-    "next": "2026-11-25T20:05:24+00:00",
-    "title": "Kilmar \u00c1brego Garc\u00eda holds news conference in Spain after leaving US voluntarily - watch live",
-    "tries": 4,
-    "url": "https://www.youtube.com/watch?v=vjjIbvY8tAo"
    }
   }
  },
@@ -16504,6 +16504,11 @@
   "source": "yt-transcripts",
   "title": "Barbecue, Anthony Bourdain and the American dream"
  },
+ "ytv:nCRWg62FurE": {
+  "first_seen": "2026-11-25T20:05:26+00:00",
+  "source": "yt-transcripts",
+  "title": "Is it possible to regulate AI without tanking the economy?"
+ },
  "ytv:nDK9LZpjYZ0": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -16673,6 +16678,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Could Jon Ossoff be America\u2019s next president?"
+ },
+ "ytv:p_S6zQOGL2E": {
+  "first_seen": "2026-11-25T20:05:26+00:00",
+  "source": "yt-transcripts",
+  "title": "December Catalysts \ud83d\udcc9 Can Anything Save Crypto?"
  },
  "ytv:p_Z5wiL7oMI": {
   "first_seen": "2026-11-24T01:35:19+00:00",
