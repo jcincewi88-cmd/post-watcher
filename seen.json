@@ -1091,9 +1091,9 @@
    },
    "JtJkswDvH84": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T00:50:42+00:00",
+    "next": "2026-11-25T03:35:26+00:00",
     "title": "Anthropic closes below its $83 IPO price less than a week later from its debut.",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=JtJkswDvH84"
    },
    "Sl4XLphrEPo": {
@@ -14267,6 +14267,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Nvidia needs Jensen, but can he return?"
+ },
+ "ytv:ZbtLIpNxEmU": {
+  "first_seen": "2026-11-25T00:55:26+00:00",
+  "source": "yt-transcripts",
+  "title": "If he can be elected president, you can get through this week \ud83d\udcaa"
  },
  "ytv:Zd1P2a1tsPQ": {
   "first_seen": "2026-11-23T22:30:30+00:00",
