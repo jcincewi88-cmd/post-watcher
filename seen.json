@@ -1113,9 +1113,9 @@
    },
    "MDHUmLYct3k": {
     "channel": "Guardian News",
-    "next": "2026-11-25T11:20:35+00:00",
+    "next": "2026-11-25T11:45:24+00:00",
     "title": "Beaver supermoon lights up skylines around the world",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=MDHUmLYct3k"
    },
    "To_Y-mh5hdg": {
@@ -14591,6 +14591,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Coinbase Just Changed the Rules for Crypto"
+ },
+ "ytv:UpLoHVuoX6M": {
+  "first_seen": "2026-11-25T11:25:24+00:00",
+  "source": "yt-transcripts",
+  "title": "My boyfriend said he needed a few months to propose. I\u2019ve been waiting over a year."
  },
  "ytv:UszyU_XrX9o": {
   "first_seen": "2026-11-23T22:30:30+00:00",
