@@ -1103,6 +1103,13 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=JtJkswDvH84"
    },
+   "P9WyR_oUx04": {
+    "channel": "The White House",
+    "next": "2026-11-25T02:45:30+00:00",
+    "title": "The 2026 Thanksgiving Turkey Pardon Ceremony at the White House: Postcard Edition",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=P9WyR_oUx04"
+   },
    "RAqCaZ0LxSQ": {
     "channel": "Face the Nation",
     "next": "2026-11-25T02:45:26+00:00",
@@ -13844,6 +13851,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "ETF Investor Forum 2026"
+ },
+ "ytv:P9WyR_oUx04": {
+  "first_seen": "2026-11-25T02:35:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The 2026 Thanksgiving Turkey Pardon Ceremony at the White House: Postcard Edition"
  },
  "ytv:P9wOAYmhhNY": {
   "first_seen": "2026-11-24T21:20:37+00:00",
