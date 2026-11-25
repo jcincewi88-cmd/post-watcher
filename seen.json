@@ -1150,9 +1150,9 @@
    },
    "GcCnbqUiOLI": {
     "channel": "Guardian News",
-    "next": "2026-11-25T20:40:31+00:00",
+    "next": "2026-11-25T21:25:27+00:00",
     "title": "Zelensky and Hungary's Magyar play volleyball",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=GcCnbqUiOLI"
    },
    "Hsm1L85k3lI": {
@@ -1171,9 +1171,9 @@
    },
    "Ii_z53qQSJw": {
     "channel": "Fox Business",
-    "next": "2026-11-25T20:40:40+00:00",
+    "next": "2026-11-26T02:05:27+00:00",
     "title": "WATCH LIVE: U.S. Army detonates unstable explosives at Iowa Army Ammunition Plant",
-    "tries": 5,
+    "tries": 6,
     "url": "https://www.youtube.com/watch?v=Ii_z53qQSJw"
    },
    "LO_ihG5D5L8": {
@@ -1234,9 +1234,9 @@
    },
    "z0T-xAqwYf4": {
     "channel": "POLITICO",
-    "next": "2026-11-25T20:40:31+00:00",
+    "next": "2026-11-25T21:25:27+00:00",
     "title": "Jared Kushner on how the Ukraine war could \u2018escalate massively\u2019",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=z0T-xAqwYf4"
    }
   }
@@ -13516,6 +13516,11 @@
   "source": "yt-transcripts",
   "title": "Lighter vs. Hyperliquid: Where a Top Trader Sees More Upside"
  },
+ "ytv:CWK5KXhdbc4": {
+  "first_seen": "2026-11-25T20:45:27+00:00",
+  "source": "yt-transcripts",
+  "title": "XRP was worth almost HALF of Bitcoin in 2018"
+ },
  "ytv:CYs13p70rwo": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -15910,6 +15915,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "'I forgot that I was 35': Mamdani tore his achilles while playing soccer"
+ },
+ "ytv:ePg_368hoEs": {
+  "first_seen": "2026-11-25T20:45:27+00:00",
+  "source": "yt-transcripts",
+  "title": "'TARIFF DADDY\u2019 returns after election slaughter with 'TONE DEAF' message"
  },
  "ytv:eQ8uWh_tfxM": {
   "first_seen": "2026-11-23T22:30:30+00:00",
