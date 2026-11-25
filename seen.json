@@ -1103,13 +1103,6 @@
     "tries": 4,
     "url": "https://www.youtube.com/watch?v=Sl4XLphrEPo"
    },
-   "T4ufamhjYRo": {
-    "channel": "Guardian News",
-    "next": "2026-11-25T00:05:28+00:00",
-    "title": "Hamish Falconer and Ed Miliband appear before select committee \u2013 watch live",
-    "tries": 6,
-    "url": "https://www.youtube.com/watch?v=T4ufamhjYRo"
-   },
    "UUi8LVLY6Xc": {
     "channel": "The New York Times",
     "next": "2026-11-25T02:50:26+00:00",
@@ -12505,6 +12498,11 @@
   "source": "yt-transcripts",
   "title": "Could the AI Bubble Burst Sooner Than You Think? | TypeSafe AI CEO"
  },
+ "ytv:5jeU_v7uG_E": {
+  "first_seen": "2026-11-25T00:05:28+00:00",
+  "source": "yt-transcripts",
+  "title": "Ilhan Omar investigation at NEW level of possible INDICTMENT"
+ },
  "ytv:5ntFIBfH9yg": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -14209,6 +14207,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Protesters rally during Anthropic's market debut, leading to several arrests"
+ },
+ "ytv:Z8IemPdGIHk": {
+  "first_seen": "2026-11-25T00:05:28+00:00",
+  "source": "yt-transcripts",
+  "title": "How much influence can $28 million buy at Mount Sinai?"
  },
  "ytv:ZAzWPE9CItg": {
   "first_seen": "2026-11-23T22:30:30+00:00",
