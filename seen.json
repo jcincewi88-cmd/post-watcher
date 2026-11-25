@@ -1094,9 +1094,9 @@
   "yt_pending": {
    "-Pf0oYvGc1I": {
     "channel": "Guardian News",
-    "next": "2026-11-25T07:50:35+00:00",
+    "next": "2026-11-25T08:35:19+00:00",
     "title": "Colombia\u2019s president takes control of supermarket hostage siege operation",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=-Pf0oYvGc1I"
    },
    "JtJkswDvH84": {
@@ -14326,6 +14326,11 @@
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "'Comedy is Dead!' Bill Maher on Trump, Retirement, Marriage and Why AI is 'An A**hole'"
+ },
+ "ytv:RG_VSseoIvE": {
+  "first_seen": "2026-11-25T07:55:19+00:00",
+  "source": "yt-transcripts",
+  "title": "What is remigration? | FT #shorts"
  },
  "ytv:RPuc9je0k90": {
   "first_seen": "2026-11-25T01:50:23+00:00",
