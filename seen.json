@@ -1150,16 +1150,16 @@
    },
    "GcCnbqUiOLI": {
     "channel": "Guardian News",
-    "next": "2026-11-25T21:25:27+00:00",
+    "next": "2026-11-25T22:45:31+00:00",
     "title": "Zelensky and Hungary's Magyar play volleyball",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=GcCnbqUiOLI"
    },
    "Hsm1L85k3lI": {
     "channel": "Guardian News",
-    "next": "2026-11-25T21:25:26+00:00",
+    "next": "2026-11-26T00:05:31+00:00",
     "title": "Cloud of smoke seen after US army detonates bomb-making chemicals in Iowa",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=Hsm1L85k3lI"
    },
    "Ib3yL0VwejU": {
@@ -1224,13 +1224,6 @@
     "title": "PMQs: Andy Burnham takes questions in parliament \u2013 watch live",
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=s5LIe7f1mNM"
-   },
-   "z0T-xAqwYf4": {
-    "channel": "POLITICO",
-    "next": "2026-11-25T21:25:27+00:00",
-    "title": "Jared Kushner on how the Ukraine war could \u2018escalate massively\u2019",
-    "tries": 3,
-    "url": "https://www.youtube.com/watch?v=z0T-xAqwYf4"
    }
   }
  },
@@ -13043,6 +13036,11 @@
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "This Is Why Lions Rule the Wild."
+ },
+ "ytv:618HMl71csY": {
+  "first_seen": "2026-11-25T21:25:31+00:00",
+  "source": "yt-transcripts",
+  "title": "The Macy\u2019s Day parade just got postponed for the first time ever"
  },
  "ytv:61p-hnLcT8I": {
   "first_seen": "2026-11-25T19:10:28+00:00",
