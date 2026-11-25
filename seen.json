@@ -1162,9 +1162,9 @@
    },
    "k7BBghwlqVc": {
     "channel": "Guardian News",
-    "next": "2026-11-25T14:10:46+00:00",
+    "next": "2026-11-25T14:35:23+00:00",
     "title": "BoE's Bailey appears before UK parliament's Treasury Committee - watch live",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=k7BBghwlqVc"
    },
    "nTABm6j5PlI": {
@@ -16532,6 +16532,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "The CIA Knows EVERY One of These Buildings"
+ },
+ "ytv:uk1c5N_iEOI": {
+  "first_seen": "2026-11-25T14:15:23+00:00",
+  "source": "yt-transcripts",
+  "title": "Thanksgiving dinner in a meat stick? Let\u2019s try it."
  },
  "ytv:umZcBldjhcs": {
   "first_seen": "2026-11-25T11:20:22+00:00",
