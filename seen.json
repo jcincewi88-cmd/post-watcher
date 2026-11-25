@@ -1178,16 +1178,16 @@
    },
    "LO_ihG5D5L8": {
     "channel": "VICE News",
-    "next": "2026-11-25T21:00:26+00:00",
+    "next": "2026-11-25T21:40:51+00:00",
     "title": "Inside the Protests in Europe",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=LO_ihG5D5L8"
    },
    "LbZHGEJqLYU": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T20:55:35+00:00",
+    "next": "2026-11-25T22:20:51+00:00",
     "title": "GTA VI had the biggest entertainment launch in history.",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=LbZHGEJqLYU"
    },
    "MDHUmLYct3k": {
@@ -16735,6 +16735,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Will AI start building itself in 2027? | The Economist"
+ },
+ "ytv:pj1XQUVfhz4": {
+  "first_seen": "2026-11-25T21:00:51+00:00",
+  "source": "yt-transcripts",
+  "title": "Garlinghouse's $1M Bitcoin call puts XRP at a HUGE $29-$37!"
  },
  "ytv:plWGv9qyHkg": {
   "first_seen": "2026-11-24T01:35:19+00:00",
