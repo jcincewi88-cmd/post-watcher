@@ -1155,6 +1155,13 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=Cl2zPJH4HNA"
    },
+   "GcCnbqUiOLI": {
+    "channel": "Guardian News",
+    "next": "2026-11-25T20:20:30+00:00",
+    "title": "Zelensky and Hungary's Magyar play volleyball",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=GcCnbqUiOLI"
+   },
    "Hsm1L85k3lI": {
     "channel": "Guardian News",
     "next": "2026-11-25T21:25:26+00:00",
@@ -1231,6 +1238,13 @@
     "title": "PMQs: Andy Burnham takes questions in parliament \u2013 watch live",
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=s5LIe7f1mNM"
+   },
+   "z0T-xAqwYf4": {
+    "channel": "POLITICO",
+    "next": "2026-11-25T20:20:30+00:00",
+    "title": "Jared Kushner on how the Ukraine war could \u2018escalate massively\u2019",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=z0T-xAqwYf4"
    }
   }
  },
@@ -13844,6 +13858,11 @@
   "source": "yt-transcripts",
   "title": "How Automakers Are Digging Into Used Car Sales To Compete With Carvana"
  },
+ "ytv:GcCnbqUiOLI": {
+  "first_seen": "2026-11-25T20:10:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Zelensky and Hungary's Magyar play volleyball"
+ },
  "ytv:GiXy9NZLMfA": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -15709,6 +15728,11 @@
   "source": "yt-transcripts",
   "title": "The Crypto Market Could Stay Flat While These Coins Win"
  },
+ "ytv:cKCjFbABTQo": {
+  "first_seen": "2026-11-25T20:10:30+00:00",
+  "source": "yt-transcripts",
+  "title": "How Anyone Can Unlock Psychic Abilities."
+ },
  "ytv:cPdMTsTDctI": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -17413,6 +17437,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Tucker and Megyn Kelly Speak Out on Russell Brand\u2019s Trial and Netflix\u2019s Smear Campaign"
+ },
+ "ytv:z0T-xAqwYf4": {
+  "first_seen": "2026-11-25T20:10:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Jared Kushner on how the Ukraine war could \u2018escalate massively\u2019"
  },
  "ytv:z5ZYXLQdXZs": {
   "first_seen": "2026-11-23T22:30:30+00:00",
