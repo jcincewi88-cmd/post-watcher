@@ -1176,13 +1176,6 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=Ii_z53qQSJw"
    },
-   "LO_ihG5D5L8": {
-    "channel": "VICE News",
-    "next": "2026-11-25T21:40:51+00:00",
-    "title": "Inside the Protests in Europe",
-    "tries": 3,
-    "url": "https://www.youtube.com/watch?v=LO_ihG5D5L8"
-   },
    "LbZHGEJqLYU": {
     "channel": "Yahoo Finance",
     "next": "2026-11-25T22:20:51+00:00",
@@ -1203,6 +1196,13 @@
     "title": "live from newark airport",
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=OxsVS55jGSg"
+   },
+   "flqAXVPzh38": {
+    "channel": "VICE News",
+    "next": "2026-11-25T21:55:22+00:00",
+    "title": "WHAT FRANCE'S PROTESTS MEAN FOR THE FUTURE",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=flqAXVPzh38"
    },
    "j3K4FBo2Mn8": {
     "channel": "Yahoo Finance",
@@ -13974,6 +13974,11 @@
   "source": "yt-transcripts",
   "title": "Nelk Boys on Salim's Internet Invitational Performance & Dana White Becoming Press Secretary!"
  },
+ "ytv:HU5JTYOu98Y": {
+  "first_seen": "2026-11-25T21:45:22+00:00",
+  "source": "yt-transcripts",
+  "title": "The Medicare for All debate roars back into Democratic politics"
+ },
  "ytv:HUaAfoOyXWU": {
   "first_seen": "2026-11-24T17:35:23+00:00",
   "source": "yt-transcripts",
@@ -15214,6 +15219,11 @@
   "source": "yt-transcripts",
   "title": "The Craziest Story About Roman Emperor Nero"
  },
+ "ytv:WKzhXmFm9RE": {
+  "first_seen": "2026-11-25T21:45:22+00:00",
+  "source": "yt-transcripts",
+  "title": "If you prefer cake over pie, you're wrong"
+ },
  "ytv:WMMf29bpxOs": {
   "first_seen": "2026-11-25T18:45:24+00:00",
   "source": "yt-transcripts",
@@ -16048,6 +16058,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Sequoia Leaves London, Close Scout Program & End Evergreen Fund | NASDAQ Loses $2.5T in 24 hours"
+ },
+ "ytv:flqAXVPzh38": {
+  "first_seen": "2026-11-25T21:45:22+00:00",
+  "source": "yt-transcripts",
+  "title": "WHAT FRANCE'S PROTESTS MEAN FOR THE FUTURE"
  },
  "ytv:fmG_5XZE_B0": {
   "first_seen": "2026-11-25T01:50:23+00:00",
