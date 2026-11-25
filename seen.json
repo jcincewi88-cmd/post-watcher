@@ -1139,6 +1139,13 @@
     "tries": 2,
     "url": "https://www.youtube.com/watch?v=ChwM0y30azc"
    },
+   "Cl2zPJH4HNA": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-25T13:45:24+00:00",
+    "title": "The 8:30 (8:30\u20139:30 a.m. ET)",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=Cl2zPJH4HNA"
+   },
    "MDHUmLYct3k": {
     "channel": "Guardian News",
     "next": "2026-11-25T13:45:31+00:00",
@@ -12939,6 +12946,11 @@
   "source": "yt-transcripts",
   "title": "Mamdani criticizes volatility of AI economy after Huang\u2019s reinstatement as Nvidia CEO"
  },
+ "ytv:7TfG-HrrZ6k": {
+  "first_seen": "2026-11-25T13:35:24+00:00",
+  "source": "yt-transcripts",
+  "title": "BBQ: The official food of freedom"
+ },
  "ytv:7Z3ijK5-PsE": {
   "first_seen": "2026-11-24T16:35:24+00:00",
   "source": "yt-transcripts",
@@ -13328,6 +13340,11 @@
   "first_seen": "2026-11-24T22:45:23+00:00",
   "source": "yt-transcripts",
   "title": "Uh Oh, Crypto Holders.. It All Comes Down To This!"
+ },
+ "ytv:Cl2zPJH4HNA": {
+  "first_seen": "2026-11-25T13:35:24+00:00",
+  "source": "yt-transcripts",
+  "title": "The 8:30 (8:30\u20139:30 a.m. ET)"
  },
  "ytv:CmwflmbAUvw": {
   "first_seen": "2026-11-25T01:50:23+00:00",
