@@ -1211,6 +1211,13 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=j3K4FBo2Mn8"
    },
+   "jlUBmphD2MY": {
+    "channel": "Guardian News",
+    "next": "2026-11-25T21:50:24+00:00",
+    "title": "Army detonates US stockpile of bomb-making chemicals in Iowa",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=jlUBmphD2MY"
+   },
    "k7BBghwlqVc": {
     "channel": "Guardian News",
     "next": "2026-11-26T00:40:37+00:00",
@@ -1531,6 +1538,11 @@
   "first_seen": "2026-11-21T00:05:17+00:00",
   "source": "neuralink",
   "title": "May 1, 2025 Company Neuralink Receives Breakthrough Device Designation for Speech We've received Breakthrough Device Designation from the FDA to help restore communication for individuals with severe speech impairment."
+ },
+ "https://neuralink.com/updates/neuralink-receives-fda-approval-to-launch-link-pivotal-study/": {
+  "first_seen": "2026-11-25T21:40:24+00:00",
+  "source": "neuralink",
+  "title": "Nov 25, 2026 Company Neuralink Receives FDA Approval to Launch LINK Pivotal Study Neuralink has received FDA approval to launch the LINK Pivotal Study, the first pivotal trial for an implantable brain-computer interface in the US."
  },
  "https://neuralink.com/updates/neuralink-s-commitment-to-animal-welfare/": {
   "first_seen": "2026-11-21T00:05:17+00:00",
@@ -16316,6 +16328,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "The UNTHINKABLE is About to Happen to Crypto"
+ },
+ "ytv:jlUBmphD2MY": {
+  "first_seen": "2026-11-25T21:40:24+00:00",
+  "source": "yt-transcripts",
+  "title": "Army detonates US stockpile of bomb-making chemicals in Iowa"
  },
  "ytv:jnRuf_FBSmQ": {
   "first_seen": "2026-11-24T01:35:19+00:00",
