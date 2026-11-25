@@ -1192,9 +1192,9 @@
    },
    "dVOilqaYpmM": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T22:35:22+00:00",
+    "next": "2026-11-25T23:00:29+00:00",
     "title": "Elon Musk is matching SpaceX shares in Trump Accounts",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=dVOilqaYpmM"
    },
    "j3K4FBo2Mn8": {
@@ -14085,6 +14085,11 @@
   "source": "yt-transcripts",
   "title": "US woman chased by turkeys days before Thanksgiving"
  },
+ "ytv:IaV9cMmZ0LA": {
+  "first_seen": "2026-11-25T22:40:29+00:00",
+  "source": "yt-transcripts",
+  "title": "Protesters host \u2018retirement party\u2019 for Chuck Schumer outside his Brooklyn home"
+ },
  "ytv:Ib3yL0VwejU": {
   "first_seen": "2026-11-25T17:45:32+00:00",
   "source": "yt-transcripts",
@@ -15824,6 +15829,11 @@
   "first_seen": "2026-11-24T15:50:37+00:00",
   "source": "yt-transcripts",
   "title": "WATCH LIVE: DOJ launches new crackdown on cyber scams targeting Americans"
+ },
+ "ytv:d5KGw1LSEbA": {
+  "first_seen": "2026-11-25T22:40:29+00:00",
+  "source": "yt-transcripts",
+  "title": "Bill Maher Reacts To AI's Interpretation Of Him"
  },
  "ytv:d9y30vB88zg": {
   "first_seen": "2026-11-23T22:30:30+00:00",
