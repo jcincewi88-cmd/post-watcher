@@ -1213,9 +1213,9 @@
    },
    "jlUBmphD2MY": {
     "channel": "Guardian News",
-    "next": "2026-11-25T21:50:24+00:00",
+    "next": "2026-11-25T22:10:25+00:00",
     "title": "Army detonates US stockpile of bomb-making chemicals in Iowa",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=jlUBmphD2MY"
    },
    "k7BBghwlqVc": {
@@ -12778,6 +12778,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare | Lex Fridman Podcast #504"
+ },
+ "ytv:2qxWif6Azko": {
+  "first_seen": "2026-11-25T21:50:25+00:00",
+  "source": "yt-transcripts",
+  "title": "'WALLS ARE CLOSING IN' on Ilhan Omar, former acting ICE director warns"
  },
  "ytv:2wRoYSOD8Lg": {
   "first_seen": "2026-11-23T22:30:30+00:00",
