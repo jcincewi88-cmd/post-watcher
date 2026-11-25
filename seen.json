@@ -1099,9 +1099,9 @@
   "yt_pending": {
    "-2cAbQoJ0fg": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T13:00:22+00:00",
+    "next": "2026-11-25T13:20:37+00:00",
     "title": "Market Hang (12:30\u20131:30 p.m. ET)",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=-2cAbQoJ0fg"
    },
    "-Pf0oYvGc1I": {
@@ -1113,10 +1113,17 @@
    },
    "6WjmCoFLC4M": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T13:00:22+00:00",
+    "next": "2026-11-25T13:20:37+00:00",
     "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=6WjmCoFLC4M"
+   },
+   "ChwM0y30azc": {
+    "channel": "Crypto Banter",
+    "next": "2026-11-25T13:10:37+00:00",
+    "title": "Final Inflation Data Before The Fed\u2019s Decision (Crypto, Pay Attention)",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=ChwM0y30azc"
    },
    "MDHUmLYct3k": {
     "channel": "Guardian News",
@@ -1134,16 +1141,16 @@
    },
    "nTABm6j5PlI": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T13:00:22+00:00",
+    "next": "2026-11-25T13:20:37+00:00",
     "title": "Sozzi Unleashed (9:30\u201310:00 a.m. ET)",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=nTABm6j5PlI"
    },
    "s5LIe7f1mNM": {
     "channel": "Guardian News",
-    "next": "2026-11-25T13:00:37+00:00",
+    "next": "2026-11-25T14:20:37+00:00",
     "title": "PMQs: Andy Burnham takes questions in parliament \u2013 watch live",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=s5LIe7f1mNM"
    }
   }
@@ -13283,6 +13290,11 @@
   "source": "yt-transcripts",
   "title": "GTA 6 Gamer Gate? The Girlfriend Problem"
  },
+ "ytv:ChwM0y30azc": {
+  "first_seen": "2026-11-25T13:00:37+00:00",
+  "source": "yt-transcripts",
+  "title": "Final Inflation Data Before The Fed\u2019s Decision (Crypto, Pay Attention)"
+ },
  "ytv:Cju0VqD0xsk": {
   "first_seen": "2026-11-24T22:45:23+00:00",
   "source": "yt-transcripts",
@@ -15182,6 +15194,11 @@
   "first_seen": "2026-11-24T22:50:25+00:00",
   "source": "yt-transcripts",
   "title": "Amish dude is resisting temptation\u2026"
+ },
+ "ytv:bCFpm-551rA": {
+  "first_seen": "2026-11-25T13:00:37+00:00",
+  "source": "yt-transcripts",
+  "title": "'LASH OUT': Iran's next move could be more AGGRESSIVE, expert warns"
  },
  "ytv:bCImnhZ9I-A": {
   "first_seen": "2026-11-25T01:40:37+00:00",
