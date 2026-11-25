@@ -1160,6 +1160,13 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=To_Y-mh5hdg"
    },
+   "k7BBghwlqVc": {
+    "channel": "Guardian News",
+    "next": "2026-11-25T14:10:46+00:00",
+    "title": "BoE's Bailey appears before UK parliament's Treasury Committee - watch live",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=k7BBghwlqVc"
+   },
    "nTABm6j5PlI": {
     "channel": "Yahoo Finance",
     "next": "2026-11-25T14:05:23+00:00",
@@ -15860,6 +15867,11 @@
   "first_seen": "2026-11-24T04:15:20+00:00",
   "source": "yt-transcripts",
   "title": "These identical twins are political opposites, so Thanksgiving dinner is year-round for this family"
+ },
+ "ytv:k7BBghwlqVc": {
+  "first_seen": "2026-11-25T14:00:46+00:00",
+  "source": "yt-transcripts",
+  "title": "BoE's Bailey appears before UK parliament's Treasury Committee - watch live"
  },
  "ytv:kAiFNM09czA": {
   "first_seen": "2026-11-23T22:30:30+00:00",
