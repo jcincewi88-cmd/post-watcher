@@ -1127,9 +1127,9 @@
    },
    "ATLljpVUdQw": {
     "channel": "Guardian News",
-    "next": "2026-11-25T14:35:26+00:00",
+    "next": "2026-11-25T16:00:27+00:00",
     "title": "The U.S. Army detonates bomb-making chemicals in Iowa - watch live",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=ATLljpVUdQw"
    },
    "ChwM0y30azc": {
@@ -1162,9 +1162,9 @@
    },
    "k7BBghwlqVc": {
     "channel": "Guardian News",
-    "next": "2026-11-25T14:35:23+00:00",
+    "next": "2026-11-25T15:20:27+00:00",
     "title": "BoE's Bailey appears before UK parliament's Treasury Committee - watch live",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=k7BBghwlqVc"
    },
    "nTABm6j5PlI": {
@@ -14017,6 +14017,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "This Is Alarming"
+ },
+ "ytv:LXJs8L9CiwE": {
+  "first_seen": "2026-11-25T14:40:27+00:00",
+  "source": "yt-transcripts",
+  "title": "The Miss Universe competition turned 75. The franchise is full of drama."
  },
  "ytv:LXfb-gmzjCE": {
   "first_seen": "2026-11-23T22:30:30+00:00",
