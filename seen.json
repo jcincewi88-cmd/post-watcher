@@ -1097,12 +1097,26 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
+   "-2cAbQoJ0fg": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-25T13:00:22+00:00",
+    "title": "Market Hang (12:30\u20131:30 p.m. ET)",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=-2cAbQoJ0fg"
+   },
    "-Pf0oYvGc1I": {
     "channel": "Guardian News",
     "next": "2026-11-25T17:55:22+00:00",
     "title": "Colombia\u2019s president takes control of supermarket hostage siege operation",
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=-Pf0oYvGc1I"
+   },
+   "6WjmCoFLC4M": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-25T13:00:22+00:00",
+    "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=6WjmCoFLC4M"
    },
    "MDHUmLYct3k": {
     "channel": "Guardian News",
@@ -1117,6 +1131,13 @@
     "title": "Moment dog and owner get swept by king tide on Oregon beach",
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=To_Y-mh5hdg"
+   },
+   "nTABm6j5PlI": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-25T13:00:22+00:00",
+    "title": "Sozzi Unleashed (9:30\u201310:00 a.m. ET)",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=nTABm6j5PlI"
    },
    "s5LIe7f1mNM": {
     "channel": "Guardian News",
@@ -12312,6 +12333,11 @@
   "source": "yt-transcripts",
   "title": "Concertgoers evacuated after unknown substance released at Manchester arena"
  },
+ "ytv:-2cAbQoJ0fg": {
+  "first_seen": "2026-11-25T12:50:22+00:00",
+  "source": "yt-transcripts",
+  "title": "Market Hang (12:30\u20131:30 p.m. ET)"
+ },
  "ytv:-3ILbQ4yWFs": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -12861,6 +12887,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "The Saddest Disease in the World \ud83d\ude14"
+ },
+ "ytv:6WjmCoFLC4M": {
+  "first_seen": "2026-11-25T12:50:22+00:00",
+  "source": "yt-transcripts",
+  "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)"
  },
  "ytv:6s5VrXc-HWs": {
   "first_seen": "2026-11-25T01:50:23+00:00",
@@ -15951,6 +15982,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Why Morgan Stanley Thinks Tokenization Makes More Sense for Alts Than Equities"
+ },
+ "ytv:nTABm6j5PlI": {
+  "first_seen": "2026-11-25T12:50:22+00:00",
+  "source": "yt-transcripts",
+  "title": "Sozzi Unleashed (9:30\u201310:00 a.m. ET)"
  },
  "ytv:nVmHLbrDLZw": {
   "first_seen": "2026-11-24T13:55:20+00:00",
