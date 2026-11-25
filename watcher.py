@@ -47,7 +47,7 @@ YT_ICON = "https://www.gstatic.com/youtube/img/branding/favicon/favicon_144x144.
 YT_CHANNELS = [
     ("Fox Business", "UCCXoCcu9Rp7NPbTzIvogpZg"),
     ("Yahoo Finance", "UCEAZeUIeJs0IjQiqTCdVSIg"),
-    ("Coin Bureau", "UCqK_GSMbpiV8spgD3ZGloSw"),
+    ("VirtualBacon", "UCcrEA_xd9Ldf1C8DIJYdyyA"),
     ("CoinDesk", "UC7TghOL755nBk7HelHoi9LQ"),
     ("Bankless", "UCAl9Ld79qaZxp9JzEOwd3aA"),
     ("Paul Barron Network", "UC4VPa7EOvObpyCRI4YKRQRw"),
