@@ -1162,9 +1162,9 @@
    },
    "KHu9EB1wKg4": {
     "channel": "Fox Business",
-    "next": "2026-11-25T17:25:23+00:00",
+    "next": "2026-11-25T17:45:30+00:00",
     "title": "Army holds press conference after detonation in Iowa",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=KHu9EB1wKg4"
    },
    "MDHUmLYct3k": {
@@ -1173,6 +1173,13 @@
     "title": "Beaver supermoon lights up skylines around the world",
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=MDHUmLYct3k"
+   },
+   "OxsVS55jGSg": {
+    "channel": "Saturday Night Live",
+    "next": "2026-11-25T17:35:30+00:00",
+    "title": "live from newark airport",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=OxsVS55jGSg"
    },
    "To_Y-mh5hdg": {
     "channel": "Guardian News",
@@ -14362,6 +14369,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "UK GOVERNMENT WARNING..."
+ },
+ "ytv:OxsVS55jGSg": {
+  "first_seen": "2026-11-25T17:25:30+00:00",
+  "source": "yt-transcripts",
+  "title": "live from newark airport"
  },
  "ytv:P-KZ-SbH5TU": {
   "first_seen": "2026-11-25T06:45:34+00:00",
