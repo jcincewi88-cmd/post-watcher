@@ -1178,9 +1178,9 @@
    },
    "dVOilqaYpmM": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T23:40:45+00:00",
+    "next": "2026-11-26T01:05:31+00:00",
     "title": "Elon Musk is matching SpaceX shares in Trump Accounts",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=dVOilqaYpmM"
    },
    "j3K4FBo2Mn8": {
@@ -1203,6 +1203,13 @@
     "title": "BoE's Bailey appears before UK parliament's Treasury Committee - watch live",
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=k7BBghwlqVc"
+   },
+   "yiTGtLH9t3g": {
+    "channel": "The New York Times",
+    "next": "2026-11-25T23:55:31+00:00",
+    "title": "The Moment the Army Detonated Toxic Lead Azide at an Iowa Ammunition Plant",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=yiTGtLH9t3g"
    }
   }
  },
@@ -17535,6 +17542,11 @@
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "a hero will rise"
+ },
+ "ytv:yiTGtLH9t3g": {
+  "first_seen": "2026-11-25T23:45:31+00:00",
+  "source": "yt-transcripts",
+  "title": "The Moment the Army Detonated Toxic Lead Azide at an Iowa Ammunition Plant"
  },
  "ytv:ys7q7sI8cHk": {
   "first_seen": "2026-11-25T01:50:23+00:00",
