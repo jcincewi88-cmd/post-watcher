@@ -1171,9 +1171,9 @@
    },
    "Ib3yL0VwejU": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T20:25:28+00:00",
+    "next": "2026-11-25T23:05:28+00:00",
     "title": "Sozzi Unleashed At The Close | Market Coverage",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=Ib3yL0VwejU"
    },
    "Ii_z53qQSJw": {
@@ -1182,6 +1182,13 @@
     "title": "WATCH LIVE: U.S. Army detonates unstable explosives at Iowa Army Ammunition Plant",
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=Ii_z53qQSJw"
+   },
+   "LO_ihG5D5L8": {
+    "channel": "VICE News",
+    "next": "2026-11-25T20:35:28+00:00",
+    "title": "Inside the Protests in Europe",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=LO_ihG5D5L8"
    },
    "LbZHGEJqLYU": {
     "channel": "Yahoo Finance",
@@ -14271,6 +14278,11 @@
   "source": "yt-transcripts",
   "title": "Why Chris Van Hollen wants to replace Chuck Schumer | America, Actually"
  },
+ "ytv:LO_ihG5D5L8": {
+  "first_seen": "2026-11-25T20:25:28+00:00",
+  "source": "yt-transcripts",
+  "title": "Inside the Protests in Europe"
+ },
  "ytv:LQUY6epVWV8": {
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
@@ -15270,6 +15282,11 @@
   "first_seen": "2026-11-24T22:50:25+00:00",
   "source": "yt-transcripts",
   "title": "Cathie Wood Sells ETH and Solana \ud83d\udcc9 Loads Up on $ANT"
+ },
+ "ytv:Xw1a3Lza5I0": {
+  "first_seen": "2026-11-25T20:25:28+00:00",
+  "source": "yt-transcripts",
+  "title": "How much American AI tech has China got hold of?"
  },
  "ytv:XyXBwO5jYpw": {
   "first_seen": "2026-11-23T22:30:30+00:00",
