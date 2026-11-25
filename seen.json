@@ -1111,13 +1111,6 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=-Pf0oYvGc1I"
    },
-   "MLRV6kYoX5U": {
-    "channel": "Crypto Banter",
-    "next": "2026-11-25T10:50:23+00:00",
-    "title": "Is It Safe To BUY Bitcoin & Stocks At These Prices? [The Truth]",
-    "tries": 5,
-    "url": "https://www.youtube.com/watch?v=MLRV6kYoX5U"
-   },
    "To_Y-mh5hdg": {
     "channel": "Guardian News",
     "next": "2026-11-25T11:50:32+00:00",
@@ -13691,6 +13684,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Face the Nation: Smith, cybersecurity panel"
+ },
+ "ytv:IDLyjTarzCw": {
+  "first_seen": "2026-11-25T10:50:24+00:00",
+  "source": "yt-transcripts",
+  "title": "Moderates want a Medicare for All rebrand"
  },
  "ytv:INS0Ur8ahtQ": {
   "first_seen": "2026-11-24T01:35:19+00:00",
