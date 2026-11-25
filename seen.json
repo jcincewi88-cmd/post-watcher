@@ -1141,9 +1141,9 @@
    },
    "Cl2zPJH4HNA": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T14:05:25+00:00",
+    "next": "2026-11-25T14:50:30+00:00",
     "title": "The 8:30 (8:30\u20139:30 a.m. ET)",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=Cl2zPJH4HNA"
    },
    "MDHUmLYct3k": {
@@ -13477,6 +13477,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "France's borrowing costs are climbing. Could the U.S. be next?"
+ },
+ "ytv:EqwH_J3CalM": {
+  "first_seen": "2026-11-25T14:10:30+00:00",
+  "source": "yt-transcripts",
+  "title": "The True Meaning of Thanksgiving: Family, Fox News Scandals & Pardoned Turkeys | The Daily Show"
  },
  "ytv:EswsbxhjzWk": {
   "first_seen": "2026-11-24T01:35:19+00:00",
