@@ -51,7 +51,7 @@ YT_CHANNELS = [
     ("CoinDesk", "UC7TghOL755nBk7HelHoi9LQ"),
     ("Bankless", "UCAl9Ld79qaZxp9JzEOwd3aA"),
     ("Paul Barron Network", "UC4VPa7EOvObpyCRI4YKRQRw"),
-    ("Crypto Banter", "UCN9Nj4tjXbVTLYWN0EKly_Q"),
+    ("Cheeky Crypto", "UCd4Ys__EL_gbJrYq6JscrAw"),
     ("Joe Rogan (PowerfulJRE)", "UCzQUP1qoWDoEbmsQxvdjxgQ"),
     ("JRE Clips", "UCnxGkOGNMqQEUMvroOWps6Q"),
     ("All-In Podcast", "UCESLZhusAkFfsNsApnjF_Cg"),
