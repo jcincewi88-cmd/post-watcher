@@ -1019,6 +1019,11 @@
   "source": "crec",
   "title": "Congressional Record for Nov 20, 2026"
  },
+ "CREC-2026-11-24": {
+  "first_seen": "2026-11-25T10:10:27+00:00",
+  "source": "crec",
+  "title": "Congressional Record for Nov 24, 2026"
+ },
  "__meta__": {
   "seeded": [
    "anthropic",
