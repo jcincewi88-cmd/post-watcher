@@ -1185,9 +1185,9 @@
    },
    "LbZHGEJqLYU": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T20:15:20+00:00",
+    "next": "2026-11-25T20:55:35+00:00",
     "title": "GTA VI had the biggest entertainment launch in history.",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=LbZHGEJqLYU"
    },
    "MDHUmLYct3k": {
@@ -1224,13 +1224,6 @@
     "title": "BoE's Bailey appears before UK parliament's Treasury Committee - watch live",
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=k7BBghwlqVc"
-   },
-   "p_S6zQOGL2E": {
-    "channel": "Paul Barron Network",
-    "next": "2026-11-25T20:15:26+00:00",
-    "title": "December Catalysts \ud83d\udcc9 Can Anything Save Crypto?",
-    "tries": 1,
-    "url": "https://www.youtube.com/watch?v=p_S6zQOGL2E"
    },
    "s5LIe7f1mNM": {
     "channel": "Guardian News",
@@ -17497,6 +17490,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "'From Curiosity to Execution': With Solana Foundation's Rachel Conlan"
+ },
+ "ytv:zju2ffqQhYA": {
+  "first_seen": "2026-11-25T20:15:35+00:00",
+  "source": "yt-transcripts",
+  "title": "Why are so many Border Patrol agents Latino?"
  },
  "ytv:zkuQ_JuuKEQ": {
   "first_seen": "2026-11-25T18:45:24+00:00",
