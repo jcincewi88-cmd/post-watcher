@@ -1192,9 +1192,9 @@
    },
    "dVOilqaYpmM": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T23:00:29+00:00",
+    "next": "2026-11-25T23:40:45+00:00",
     "title": "Elon Musk is matching SpaceX shares in Trump Accounts",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=dVOilqaYpmM"
    },
    "j3K4FBo2Mn8": {
@@ -13834,6 +13834,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Trump holds White House news conference since Putin-Xi summit | Full Video"
+ },
+ "ytv:FuyH_1yyVnE": {
+  "first_seen": "2026-11-25T23:00:45+00:00",
+  "source": "yt-transcripts",
+  "title": "Tucker on Jared Kushner"
  },
  "ytv:G5w7EyF-aFQ": {
   "first_seen": "2026-11-23T22:30:30+00:00",
