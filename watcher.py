@@ -121,6 +121,11 @@ SOURCES = [
     ("sec-speech", "SEC speech/statement", "page", "https://www.sec.gov/newsroom/speeches-statements",
      {"path": "/newsroom/speeches-statements/"}),
     ("sec-speech", "SEC speech/statement", "rss", "https://www.sec.gov/news/speeches-statements.rss", {}),
+    # CFTC: listing page + feed for each (the feeds can skip releases)
+    ("cftc-press", "CFTC press release", "page", "https://www.cftc.gov/PressRoom/PressReleases", {"path": "/PressRoom/PressReleases/"}),
+    ("cftc-press", "CFTC press release", "rss", "https://www.cftc.gov/RSS/RSSGP/rssgp.xml", {}),
+    ("cftc-speech", "CFTC statement/remarks", "page", "https://www.cftc.gov/PressRoom/SpeechesTestimony/index.htm", {"path": "/PressRoom/SpeechesTestimony/"}),
+    ("cftc-speech", "CFTC statement/remarks", "rss", "https://www.cftc.gov/RSS/RSSST/rssst.xml", {}),
 
     ("usmint", "US Mint press release", "page", "https://www.usmint.gov/news/press-releases",
      {"path": "/news/press-releases/"}),
@@ -209,7 +214,7 @@ def post_url(url, host, path):
     slug = parts.path[len(path):].strip("/")
     # one-segment slugs only: skips the index page, pagination, categories, team pages
     if (not slug or "/" in slug or slug.isdigit() or slug.endswith("archive") or slug.endswith("archives")
-            or slug in {"page", "category", "tag", "feed", "team"}):
+            or slug in {"page", "category", "tag", "feed", "team", "index.htm"}):
         return None
     return f"{parts.scheme}://{parts.netloc}{parts.path}"
 
