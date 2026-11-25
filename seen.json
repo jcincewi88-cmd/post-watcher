@@ -1183,9 +1183,9 @@
    },
    "YRB4FhNCA5k": {
     "channel": "Fox Business",
-    "next": "2026-11-25T16:30:33+00:00",
+    "next": "2026-11-25T17:15:21+00:00",
     "title": "WATCH LIVE: JD Vance address troops at Ohio Air Force base before Thanksgiving",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=YRB4FhNCA5k"
    },
    "k7BBghwlqVc": {
@@ -12995,6 +12995,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Crypto Crashes as Anthropic Pulls Off the Biggest IPO Ever"
+ },
+ "ytv:79bCDvFxtPc": {
+  "first_seen": "2026-11-25T16:35:21+00:00",
+  "source": "yt-transcripts",
+  "title": "Rahm Emanuel on Huang's return to NVIDIA and crony capitalism"
  },
  "ytv:7Qv9gFnFedU": {
   "first_seen": "2026-11-25T01:50:23+00:00",
