@@ -1105,6 +1105,13 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=-2cAbQoJ0fg"
    },
+   "1VTr2BugUjM": {
+    "channel": "Washington Post",
+    "next": "2026-11-25T18:20:23+00:00",
+    "title": "Army detonates nearly 10,000 pounds of lead-based explosives",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=1VTr2BugUjM"
+   },
    "5wDJoMX5obc": {
     "channel": "Washington Post",
     "next": "2026-11-25T18:37:06+00:00",
@@ -12610,6 +12617,11 @@
   "source": "yt-transcripts",
   "title": "Thomas Healy had $300 million in the bank and still walked away from his industry"
  },
+ "ytv:1VTr2BugUjM": {
+  "first_seen": "2026-11-25T18:10:23+00:00",
+  "source": "yt-transcripts",
+  "title": "Army detonates nearly 10,000 pounds of lead-based explosives"
+ },
  "ytv:1Wh2SYG6EJs": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -13264,6 +13276,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Solana Foundation\u2019s Nick Ducoff on DTCC Integration and the Tokenization Supercycle"
+ },
+ "ytv:9zLCVcaVguA": {
+  "first_seen": "2026-11-25T18:10:23+00:00",
+  "source": "yt-transcripts",
+  "title": "Did They Just Set Off a Burn Pit in Iowa?! \ud83d\ude33"
  },
  "ytv:A9Z4qlR9Y_s": {
   "first_seen": "2026-11-25T01:50:23+00:00",
@@ -14715,6 +14732,11 @@
   "source": "yt-transcripts",
   "title": "The Details Are Disturbing\u2026"
  },
+ "ytv:SatCATRXmU4": {
+  "first_seen": "2026-11-25T18:10:23+00:00",
+  "source": "yt-transcripts",
+  "title": "Solana\u2019s Institutional Takeover: Why Japan Matters"
+ },
  "ytv:Se2cj74cEv4": {
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
@@ -15209,6 +15231,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "How Cuba\u2019s Population Collapse Is Making Its Crisis Worse | WSJ"
+ },
+ "ytv:Z-HJ51BLjRg": {
+  "first_seen": "2026-11-25T18:10:23+00:00",
+  "source": "yt-transcripts",
+  "title": "'Keep that car until you're on a first-name basis with the tow truck drivers.'"
  },
  "ytv:Z5-MLwVi2ZU": {
   "first_seen": "2026-11-24T01:35:19+00:00",
