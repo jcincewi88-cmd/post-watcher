@@ -1147,19 +1147,19 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=Cl2zPJH4HNA"
    },
+   "Ib3yL0VwejU": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-25T17:55:32+00:00",
+    "title": "Sozzi Unleashed At The Close | Market Coverage",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=Ib3yL0VwejU"
+   },
    "Ii_z53qQSJw": {
     "channel": "Fox Business",
     "next": "2026-11-25T18:00:36+00:00",
     "title": "WATCH LIVE: U.S. Army detonates unstable explosives at Iowa Army Ammunition Plant",
     "tries": 4,
     "url": "https://www.youtube.com/watch?v=Ii_z53qQSJw"
-   },
-   "KHu9EB1wKg4": {
-    "channel": "Fox Business",
-    "next": "2026-11-25T17:45:30+00:00",
-    "title": "Army holds press conference after detonation in Iowa",
-    "tries": 2,
-    "url": "https://www.youtube.com/watch?v=KHu9EB1wKg4"
    },
    "MDHUmLYct3k": {
     "channel": "Guardian News",
@@ -13954,6 +13954,11 @@
   "source": "yt-transcripts",
   "title": "US woman chased by turkeys days before Thanksgiving"
  },
+ "ytv:Ib3yL0VwejU": {
+  "first_seen": "2026-11-25T17:45:32+00:00",
+  "source": "yt-transcripts",
+  "title": "Sozzi Unleashed At The Close | Market Coverage"
+ },
  "ytv:IhadoD7FkJQ": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -15093,6 +15098,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Americans want their politicians to be \u2018fighters\u2019 | FT #shorts"
+ },
+ "ytv:Xfltx5ucI2M": {
+  "first_seen": "2026-11-25T17:45:32+00:00",
+  "source": "yt-transcripts",
+  "title": "KRYSTAL: Voters Must Hold Democrats Accountable on Dark Money"
  },
  "ytv:Xh8zlul1kdY": {
   "first_seen": "2026-11-24T22:45:23+00:00",
