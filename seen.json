@@ -1189,6 +1189,13 @@
     "tries": 4,
     "url": "https://www.youtube.com/watch?v=YRB4FhNCA5k"
    },
+   "j3K4FBo2Mn8": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-25T18:40:40+00:00",
+    "title": "Sozzi Unleashed At The Close | Market Coverage",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=j3K4FBo2Mn8"
+   },
    "k7BBghwlqVc": {
     "channel": "Guardian News",
     "next": "2026-11-25T19:20:36+00:00",
@@ -12437,6 +12444,11 @@
   "source": "yt-transcripts",
   "title": "Why Big Pizza Chains Are Struggling"
  },
+ "ytv:-AE7znNTPLA": {
+  "first_seen": "2026-11-25T18:30:40+00:00",
+  "source": "yt-transcripts",
+  "title": "Newsom Commuted Death Row Sentences, Victims' Families Share Their Heartbreaking Stories"
+ },
  "ytv:-IObATJE5ow": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -16066,6 +16078,11 @@
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "This was a mistake"
+ },
+ "ytv:j3K4FBo2Mn8": {
+  "first_seen": "2026-11-25T18:30:40+00:00",
+  "source": "yt-transcripts",
+  "title": "Sozzi Unleashed At The Close | Market Coverage"
  },
  "ytv:j58R4nsOlmo": {
   "first_seen": "2026-11-23T22:30:30+00:00",
