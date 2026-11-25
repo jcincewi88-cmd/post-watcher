@@ -1082,6 +1082,7 @@
    "UCbtV5L8TVB0zQ9khThGApLw",
    "UCcrEA_xd9Ldf1C8DIJYdyyA",
    "UCcyq283he07B7_KUX07mmtA",
+   "UCd4Ys__EL_gbJrYq6JscrAw",
    "UCevXpeL8cNyAnww-NqJ4m2w",
    "UCf0PBRjhf0rF8fWBIxTuoWA",
    "UCfU4-ArXuSX0tpyApyklMAg",
@@ -1107,9 +1108,9 @@
    },
    "1VTr2BugUjM": {
     "channel": "Washington Post",
-    "next": "2026-11-25T18:40:33+00:00",
+    "next": "2026-11-25T19:25:24+00:00",
     "title": "Army detonates nearly 10,000 pounds of lead-based explosives",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=1VTr2BugUjM"
    },
    "5wDJoMX5obc": {
@@ -1170,9 +1171,9 @@
    },
    "OxsVS55jGSg": {
     "channel": "Saturday Night Live",
-    "next": "2026-11-25T18:40:40+00:00",
+    "next": "2026-11-25T20:05:24+00:00",
     "title": "live from newark airport",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=OxsVS55jGSg"
    },
    "To_Y-mh5hdg": {
@@ -1191,9 +1192,9 @@
    },
    "j3K4FBo2Mn8": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T18:40:40+00:00",
+    "next": "2026-11-25T19:05:24+00:00",
     "title": "Sozzi Unleashed At The Close | Market Coverage",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=j3K4FBo2Mn8"
    },
    "k7BBghwlqVc": {
@@ -1212,9 +1213,9 @@
    },
    "vjjIbvY8tAo": {
     "channel": "Guardian News",
-    "next": "2026-11-25T18:40:40+00:00",
+    "next": "2026-11-25T20:05:24+00:00",
     "title": "Kilmar \u00c1brego Garc\u00eda holds news conference in Spain after leaving US voluntarily - watch live",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=vjjIbvY8tAo"
    }
   }
@@ -12734,6 +12735,11 @@
   "source": "yt-transcripts",
   "title": "Zohran SHOCKS: RIKERS TO CLOSE"
  },
+ "ytv:2XtiZkV_iLc": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "XRP's BIGGEST bull run ever could be LOADING!"
+ },
  "ytv:2hJkprFnzhY": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -13179,6 +13185,11 @@
   "source": "yt-transcripts",
   "title": "Bob Does Sports on the 2026 Internet Invitational and Golfing with LeBron James!"
  },
+ "ytv:8TgKaQIbbuE": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "XRP trades level with Ether in Turkey"
+ },
  "ytv:8W0nd_9TfUw": {
   "first_seen": "2026-11-25T16:55:28+00:00",
   "source": "yt-transcripts",
@@ -13538,6 +13549,11 @@
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "Did Polymarket Predict Jensen Huang's Return As CEO Of NVIDIA?"
+ },
+ "ytv:DWc6ouIdGFI": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "VP Vance & Family Serve Troops at Wright-Patterson Air Force Base Ahead of Thanksgiving"
  },
  "ytv:DeeaZPNcw7k": {
   "first_seen": "2026-11-24T01:35:19+00:00",
@@ -14279,6 +14295,11 @@
   "source": "yt-transcripts",
   "title": "Beaver supermoon lights up skylines around the world"
  },
+ "ytv:MDK-s3h33Q4": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "Only 1 in 6 XRP accounts hold 500 XRP"
+ },
  "ytv:MFId_AjWwRY": {
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
@@ -14568,6 +14589,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Nelk Boys Expose Lamine Yamal\u2019s Girlfriend and Talk LeBron James Leak!"
+ },
+ "ytv:QAQ5qQKkcso": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "Most people will NEVER own 1,000 XRP"
  },
  "ytv:QIfcye7AXWU": {
   "first_seen": "2026-11-25T01:50:23+00:00",
@@ -15084,15 +15110,30 @@
   "source": "yt-transcripts",
   "title": "The Craziest Story About Roman Emperor Nero"
  },
+ "ytv:WMMf29bpxOs": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "Larry Fink called bank cash a HUGE mistake. XRP could ROCKET"
+ },
  "ytv:WPZ-mEQPVFk": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "The Most Evil Person in the World"
  },
+ "ytv:WRYlLFHKCCg": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "XRP could go PARABOLIC from 86 cents to $10!"
+ },
  "ytv:WUdpj1H8CyU": {
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "How To Survive The Ongoing Travel Apocalypse (Literally) | Ep. 1878"
+ },
+ "ytv:WeYMg6mp0uA": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "XRP's biggest week of 2026 came after SpaceX listed"
  },
  "ytv:WjnmZ8_tHn4": {
   "first_seen": "2026-11-23T22:30:30+00:00",
@@ -15399,6 +15440,11 @@
   "source": "yt-transcripts",
   "title": "Jensen Huang's Comeback Is The Biggest Loss for HR in Decades | Ep. 1879"
  },
+ "ytv:_NSO8Jpyc-0": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "The financial RESET could send XRP SOARING to $100!"
+ },
  "ytv:_Nr_m3ZcC-0": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -15513,6 +15559,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Nvidia Earnings: The Chip Company Enters Its Post-Huang Era"
+ },
+ "ytv:b64ZOh6l-3g": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "7 Million XRP accounts share under 1% of XRP"
  },
  "ytv:b6Mbkc2qKtw": {
   "first_seen": "2026-11-23T22:30:30+00:00",
@@ -15939,6 +15990,11 @@
   "source": "yt-transcripts",
   "title": "Bitcoin Loans Are Coming For Your Mortgage"
  },
+ "ytv:gry7Sv1s2hE": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "Garlinghouse\u2019s XRP rally call has a MONSTER precedent..."
+ },
  "ytv:gtPgsfaon4I": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -16289,6 +16345,11 @@
   "source": "yt-transcripts",
   "title": "Quentin Tarantino | Club Random Classics with Bill Maher"
  },
+ "ytv:m4w13EbgwK4": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "XRP once went up 6.5x in just 75 days"
+ },
  "ytv:mCs7YURUHJo": {
   "first_seen": "2026-11-24T23:15:36+00:00",
   "source": "yt-transcripts",
@@ -16313,6 +16374,11 @@
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "NEW Ancient Site Found in North America."
+ },
+ "ytv:mfLfu-p7Ybo": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "XRP is LOADING a 117x run!"
  },
  "ytv:mfWJkm_p3kQ": {
   "first_seen": "2026-11-23T22:30:30+00:00",
@@ -16554,6 +16620,11 @@
   "source": "yt-transcripts",
   "title": "Is this the beginning of the end of Brexit? | FT #shorts"
  },
+ "ytv:ppbOJ3Ut9II": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "Garlinghouse's inflation buyers could RIP XRP 147% to $2.35!"
+ },
  "ytv:ptR23sdDDEQ": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -16603,6 +16674,11 @@
   "first_seen": "2026-11-24T19:50:29+00:00",
   "source": "yt-transcripts",
   "title": "I Flew American Airlines With a $350 VIP Package. Is It Worth I?"
+ },
+ "ytv:qNCf_l3eAQ8": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "Larry Fink's bank warning is 6 months old"
  },
  "ytv:qORrTMaoZKk": {
   "first_seen": "2026-11-23T22:30:30+00:00",
@@ -17308,6 +17384,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "'From Curiosity to Execution': With Solana Foundation's Rachel Conlan"
+ },
+ "ytv:zkuQ_JuuKEQ": {
+  "first_seen": "2026-11-25T18:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "341,000 XRP millionaires? Only at one price"
  },
  "ytv:zlfcCJ1GIzU": {
   "first_seen": "2026-11-23T22:30:30+00:00",
