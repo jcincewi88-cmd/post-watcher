@@ -1103,13 +1103,6 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=JtJkswDvH84"
    },
-   "P9WyR_oUx04": {
-    "channel": "The White House",
-    "next": "2026-11-25T03:10:36+00:00",
-    "title": "The 2026 Thanksgiving Turkey Pardon Ceremony at the White House: Postcard Edition",
-    "tries": 2,
-    "url": "https://www.youtube.com/watch?v=P9WyR_oUx04"
-   },
    "Sl4XLphrEPo": {
     "channel": "The Daily Wire",
     "next": "2026-11-25T08:25:23+00:00",
@@ -13330,6 +13323,11 @@
   "first_seen": "2026-11-24T17:15:28+00:00",
   "source": "yt-transcripts",
   "title": "What does Macy's Thanksgiving Day parade cost?"
+ },
+ "ytv:HXCSsYFcLDM": {
+  "first_seen": "2026-11-25T03:15:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Why \u201cMartha My Dear\u201d Is a Beatles Masterpiece"
  },
  "ytv:HXhZb8uFH9M": {
   "first_seen": "2026-11-24T01:35:19+00:00",
