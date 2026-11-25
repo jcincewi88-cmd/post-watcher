@@ -93,6 +93,7 @@ YT_CHANNELS = [
     ("Timcast IRL", "UCLwNTXWEjVd2qIHLcXxQWxA"),
     ("Saturday Night Live", "UCqFzWxSCi39LnW1JKFR3efg"),
     ("Danny Jones", "UCbtV5L8TVB0zQ9khThGApLw"),
+    ("Jimmy Kimmel Live", "UCa6vGFO9ty8v5KZJXQxdhaw"),
 ]
 
 # Each source: key, alert label, kind, url, options.
