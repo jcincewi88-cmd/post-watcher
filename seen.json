@@ -1097,19 +1097,19 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=JtJkswDvH84"
    },
+   "MLRV6kYoX5U": {
+    "channel": "Crypto Banter",
+    "next": "2026-11-25T05:35:25+00:00",
+    "title": "Is It Safe To BUY Bitcoin & Stocks At These Prices? [The Truth]",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=MLRV6kYoX5U"
+   },
    "Sl4XLphrEPo": {
     "channel": "The Daily Wire",
     "next": "2026-11-25T08:25:23+00:00",
     "title": "Checks out",
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=Sl4XLphrEPo"
-   },
-   "mm8aesKdOhQ": {
-    "channel": "Face the Nation",
-    "next": "2026-11-25T05:20:35+00:00",
-    "title": "Watch Live: Trump pardons turkeys Freedom and Feathers at the White House",
-    "tries": 6,
-    "url": "https://www.youtube.com/watch?v=mm8aesKdOhQ"
    }
   }
  },
@@ -13692,6 +13692,11 @@
   "first_seen": "2026-11-24T16:05:25+00:00",
   "source": "yt-transcripts",
   "title": "What does \u201cresponsible\u201d seafood even mean?"
+ },
+ "ytv:MLRV6kYoX5U": {
+  "first_seen": "2026-11-25T05:25:25+00:00",
+  "source": "yt-transcripts",
+  "title": "Is It Safe To BUY Bitcoin & Stocks At These Prices? [The Truth]"
  },
  "ytv:MRHtS-900XI": {
   "first_seen": "2026-11-23T22:30:30+00:00",
