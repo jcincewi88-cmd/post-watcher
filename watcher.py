@@ -85,6 +85,14 @@ YT_CHANNELS = [
     ("The Daily Wire", "UCaeO5vkdj5xOQHp4UmIN6dw"),
     ("The Daily Show", "UCwWhs_6x42TyRM4Wstoq8HA"),
     ("CNBC Make It", "UCH5_L3ytGbBziX0CLuYdQ1Q"),
+    # politics / big personalities
+    ("The White House", "UCYxRlFDqcWM4y7FfpiAN3KQ"),
+    ("Piers Morgan Uncensored", "UCatt7TBjfBkiJWx8khav_Gg"),
+    ("Club Random (Bill Maher)", "UC8efBuMd2Tsolb5uTfpex3A"),
+    ("Matt Walsh", "UCO01ytfzgXYy4glnPJm4PPQ"),
+    ("Timcast IRL", "UCLwNTXWEjVd2qIHLcXxQWxA"),
+    ("Saturday Night Live", "UCqFzWxSCi39LnW1JKFR3efg"),
+    ("Danny Jones", "UCbtV5L8TVB0zQ9khThGApLw"),
 ]
 
 # Each source: key, alert label, kind, url, options.
