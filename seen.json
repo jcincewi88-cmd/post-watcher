@@ -1178,9 +1178,9 @@
    },
    "LO_ihG5D5L8": {
     "channel": "VICE News",
-    "next": "2026-11-25T20:35:28+00:00",
+    "next": "2026-11-25T21:00:26+00:00",
     "title": "Inside the Protests in Europe",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=LO_ihG5D5L8"
    },
    "LbZHGEJqLYU": {
@@ -12805,6 +12805,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "It\u2019s NOT racist, it\u2019s LOVELY! - The Tim Dillon Show"
+ },
+ "ytv:3DXcMPx0vD8": {
+  "first_seen": "2026-11-25T20:40:26+00:00",
+  "source": "yt-transcripts",
+  "title": "Bitcoin vs Cyber Attack Fears!\ud83d\udd25Sentiment Collapses!\ud83d\udea8"
  },
  "ytv:3NfvFtEfYwQ": {
   "first_seen": "2026-11-24T01:35:19+00:00",
