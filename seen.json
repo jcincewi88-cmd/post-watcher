@@ -1127,6 +1127,13 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=6WjmCoFLC4M"
    },
+   "ADIZL0rRoY8": {
+    "channel": "Saturday Night Live",
+    "next": "2026-11-25T19:15:28+00:00",
+    "title": "thanksgiving in california",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=ADIZL0rRoY8"
+   },
    "ATLljpVUdQw": {
     "channel": "Guardian News",
     "next": "2026-11-26T00:15:28+00:00",
@@ -1150,9 +1157,9 @@
    },
    "Ib3yL0VwejU": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T19:05:27+00:00",
+    "next": "2026-11-25T20:25:28+00:00",
     "title": "Sozzi Unleashed At The Close | Market Coverage",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=Ib3yL0VwejU"
    },
    "Ii_z53qQSJw": {
@@ -1192,9 +1199,9 @@
    },
    "j3K4FBo2Mn8": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T19:05:24+00:00",
+    "next": "2026-11-25T19:45:28+00:00",
     "title": "Sozzi Unleashed At The Close | Market Coverage",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=j3K4FBo2Mn8"
    },
    "k7BBghwlqVc": {
@@ -12600,6 +12607,11 @@
   "source": "yt-transcripts",
   "title": "Joe on the Ciryl Gane vs. Josh Hokit Fight and the Eye Poke"
  },
+ "ytv:1Gk9B4SO86I": {
+  "first_seen": "2026-11-25T19:05:28+00:00",
+  "source": "yt-transcripts",
+  "title": "BDA Capital's Barbara Duran: Muse is another growth leg for Meta, and she owns it | The 8:30"
+ },
  "ytv:1I16PILJe9Y": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -13319,6 +13331,11 @@
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "President Trump Addresses Historic Trilateral Meeting with President Xi and President Putin"
+ },
+ "ytv:ADIZL0rRoY8": {
+  "first_seen": "2026-11-25T19:05:28+00:00",
+  "source": "yt-transcripts",
+  "title": "thanksgiving in california"
  },
  "ytv:AMDhZhfbFLg": {
   "first_seen": "2026-11-24T01:35:19+00:00",
