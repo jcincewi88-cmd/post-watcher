@@ -1098,9 +1098,9 @@
    },
    "RAqCaZ0LxSQ": {
     "channel": "Face the Nation",
-    "next": "2026-11-25T01:40:26+00:00",
+    "next": "2026-11-25T02:00:37+00:00",
     "title": "Trump pushed for Huang's reinstatement as Nvidia CEO over economic concerns, officials say",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=RAqCaZ0LxSQ"
    },
    "Sl4XLphrEPo": {
@@ -12543,6 +12543,11 @@
   "source": "yt-transcripts",
   "title": "Crypto Crashes as Anthropic Pulls Off the Biggest IPO Ever"
  },
+ "ytv:7SdiC3GOqKY": {
+  "first_seen": "2026-11-25T01:40:37+00:00",
+  "source": "yt-transcripts",
+  "title": "Mamdani criticizes volatility of AI economy after Huang\u2019s reinstatement as Nvidia CEO"
+ },
  "ytv:7Z3ijK5-PsE": {
   "first_seen": "2026-11-24T16:35:24+00:00",
   "source": "yt-transcripts",
@@ -14442,6 +14447,11 @@
   "first_seen": "2026-11-24T22:50:25+00:00",
   "source": "yt-transcripts",
   "title": "Amish dude is resisting temptation\u2026"
+ },
+ "ytv:bCImnhZ9I-A": {
+  "first_seen": "2026-11-25T01:40:37+00:00",
+  "source": "yt-transcripts",
+  "title": "Director of Iowa environmental group says plan to detonate explosives is safest path forward"
  },
  "ytv:bhXSJFllbBY": {
   "first_seen": "2026-11-24T01:35:19+00:00",
