@@ -1160,6 +1160,13 @@
     "tries": 4,
     "url": "https://www.youtube.com/watch?v=Ii_z53qQSJw"
    },
+   "KHu9EB1wKg4": {
+    "channel": "Fox Business",
+    "next": "2026-11-25T17:25:23+00:00",
+    "title": "Army holds press conference after detonation in Iowa",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=KHu9EB1wKg4"
+   },
    "MDHUmLYct3k": {
     "channel": "Guardian News",
     "next": "2026-11-25T21:50:30+00:00",
@@ -1176,9 +1183,9 @@
    },
    "YRB4FhNCA5k": {
     "channel": "Fox Business",
-    "next": "2026-11-25T17:15:21+00:00",
+    "next": "2026-11-25T18:35:23+00:00",
     "title": "WATCH LIVE: JD Vance address troops at Ohio Air Force base before Thanksgiving",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=YRB4FhNCA5k"
    },
    "k7BBghwlqVc": {
@@ -13999,6 +14006,11 @@
   "source": "yt-transcripts",
   "title": "Midterm Reaction | The Tim Dillon Show #520"
  },
+ "ytv:KHu9EB1wKg4": {
+  "first_seen": "2026-11-25T17:15:23+00:00",
+  "source": "yt-transcripts",
+  "title": "Army holds press conference after detonation in Iowa"
+ },
  "ytv:KLoKOHNrlv4": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -15558,6 +15570,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "This Crypto Capitulation Changes Everything (I Am Worried)"
+ },
+ "ytv:dZI-eZ7TvzU": {
+  "first_seen": "2026-11-25T17:15:23+00:00",
+  "source": "yt-transcripts",
+  "title": "'TERRIBLE PROBLEM': Expert sounds alarm over Houthi attacks #shorts"
  },
  "ytv:d_L3geCWojI": {
   "first_seen": "2026-11-24T01:35:19+00:00",
