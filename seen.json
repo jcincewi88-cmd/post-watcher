@@ -1141,9 +1141,9 @@
    },
    "Cl2zPJH4HNA": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-25T13:45:24+00:00",
+    "next": "2026-11-25T14:05:25+00:00",
     "title": "The 8:30 (8:30\u20139:30 a.m. ET)",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=Cl2zPJH4HNA"
    },
    "MDHUmLYct3k": {
@@ -13536,6 +13536,11 @@
   "source": "yt-transcripts",
   "title": "GTA VI Is Finally Out: Here\u2019s How Big It Could Get"
  },
+ "ytv:FWmPrFjfi9g": {
+  "first_seen": "2026-11-25T13:45:25+00:00",
+  "source": "yt-transcripts",
+  "title": "'ENOUGH IS ENOUGH': Aviation groups ask for BILLIONS from Congress"
+ },
  "ytv:F_gpZUW-DYk": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -16630,6 +16635,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "People are playing GTA VI for\u2026the animals?"
+ },
+ "ytv:vzAd5eIVkFQ": {
+  "first_seen": "2026-11-25T13:45:25+00:00",
+  "source": "yt-transcripts",
+  "title": "Does Jensen Huang\u2019s return signal a crisis for capitalism? | FT #shorts"
  },
  "ytv:w-JLU6Bictg": {
   "first_seen": "2026-11-23T22:30:30+00:00",
