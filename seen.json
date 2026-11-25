@@ -1092,6 +1092,13 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
+   "-Pf0oYvGc1I": {
+    "channel": "Guardian News",
+    "next": "2026-11-25T07:30:29+00:00",
+    "title": "Colombia\u2019s president takes control of supermarket hostage siege operation",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=-Pf0oYvGc1I"
+   },
    "JtJkswDvH84": {
     "channel": "Yahoo Finance",
     "next": "2026-11-25T08:55:27+00:00",
@@ -12334,6 +12341,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "We Put the Magic Bullet Theory to the Ultimate Test"
+ },
+ "ytv:-Pf0oYvGc1I": {
+  "first_seen": "2026-11-25T07:20:29+00:00",
+  "source": "yt-transcripts",
+  "title": "Colombia\u2019s president takes control of supermarket hostage siege operation"
  },
  "ytv:-RjozrD8Pbs": {
   "first_seen": "2026-11-25T01:50:23+00:00",
