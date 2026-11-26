@@ -1113,6 +1113,13 @@
     "tries": 3,
     "url": "https://www.youtube.com/watch?v=2Tg22b9n32k"
    },
+   "8DMdanaLT-k": {
+    "channel": "Fox Business",
+    "next": "2026-11-26T02:25:30+00:00",
+    "title": "GETTING THE DEAL DONE\u2019: Benny Johnson defends Trump\u2019s bipartisan approach #trump #shorts #politics",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=8DMdanaLT-k"
+   },
    "ADIZL0rRoY8": {
     "channel": "Saturday Night Live",
     "next": "2026-11-26T05:55:34+00:00",
@@ -13216,6 +13223,11 @@
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "Why Free Speech Won't Last."
+ },
+ "ytv:8DMdanaLT-k": {
+  "first_seen": "2026-11-26T02:15:30+00:00",
+  "source": "yt-transcripts",
+  "title": "GETTING THE DEAL DONE\u2019: Benny Johnson defends Trump\u2019s bipartisan approach #trump #shorts #politics"
  },
  "ytv:8H1rJipdyFE": {
   "first_seen": "2026-11-25T01:50:23+00:00",
