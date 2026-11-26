@@ -1120,6 +1120,13 @@
     "tries": 4,
     "url": "https://www.youtube.com/watch?v=mkOKfTcjoa8"
    },
+   "wZFwjr65_Sg": {
+    "channel": "Guardian News",
+    "next": "2026-11-26T14:05:30+00:00",
+    "title": "Bangladeshi garment workers clash with police during protests",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=wZFwjr65_Sg"
+   },
    "z3mF9fsXKnE": {
     "channel": "Guardian News",
     "next": "2026-11-26T14:05:23+00:00",
@@ -17453,6 +17460,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Bitcoin, AI & $40 Trillion in Debt: What Happens Next?"
+ },
+ "ytv:wZFwjr65_Sg": {
+  "first_seen": "2026-11-26T13:55:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Bangladeshi garment workers clash with police during protests"
  },
  "ytv:w_QLUF4nSb4": {
   "first_seen": "2026-11-23T22:30:30+00:00",
