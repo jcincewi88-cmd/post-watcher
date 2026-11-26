@@ -1129,9 +1129,9 @@
    },
    "mkOKfTcjoa8": {
     "channel": "Guardian News",
-    "next": "2026-11-26T17:50:29+00:00",
+    "next": "2026-11-26T23:10:36+00:00",
     "title": "Fuel tanker erupts, causing deadly fire in Cairo",
-    "tries": 5,
+    "tries": 6,
     "url": "https://www.youtube.com/watch?v=mkOKfTcjoa8"
    },
    "wZFwjr65_Sg": {
@@ -13722,6 +13722,11 @@
   "first_seen": "2026-11-25T17:35:24+00:00",
   "source": "yt-transcripts",
   "title": "The most famous economist you've probably never heard of | FT #shorts"
+ },
+ "ytv:EZ9CZ0y6_KA": {
+  "first_seen": "2026-11-26T17:50:36+00:00",
+  "source": "yt-transcripts",
+  "title": "JENSEN IS BACK...NOW WHAT?"
  },
  "ytv:EdIds7RGBoI": {
   "first_seen": "2026-11-23T22:30:30+00:00",
