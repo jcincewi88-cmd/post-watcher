@@ -1106,18 +1106,11 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=A1YgtEMCJXU"
    },
-   "LVja1L8W7WM": {
-    "channel": "The Diary Of A CEO",
-    "next": "2026-11-26T21:30:32+00:00",
-    "title": "THERE'S A 90% CHANCE THIS KILLS EVERYBODY",
-    "tries": 1,
-    "url": "https://www.youtube.com/watch?v=LVja1L8W7WM"
-   },
    "Mf1DV14Zt18": {
     "channel": "Saturday Night Live",
-    "next": "2026-11-26T21:30:30+00:00",
+    "next": "2026-11-26T22:55:25+00:00",
     "title": "it\u2019s the little things",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=Mf1DV14Zt18"
    },
    "PTsweOcSGRM": {
@@ -1147,6 +1140,13 @@
     "title": "Huge flames rise from fire at Bangkok oil facility",
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=_fRU62sY7ew"
+   },
+   "knoQn0yrp4g": {
+    "channel": "Fox Business",
+    "next": "2026-11-26T21:45:25+00:00",
+    "title": "WATCH LIVE: Trump takes questions from reporters at Mar-a-Lago on Thanksgiving",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=knoQn0yrp4g"
    },
    "mkOKfTcjoa8": {
     "channel": "Guardian News",
@@ -16773,6 +16773,11 @@
   "first_seen": "2026-11-24T16:15:30+00:00",
   "source": "yt-transcripts",
   "title": "Most VCs Are Just Glorified Bankers"
+ },
+ "ytv:knoQn0yrp4g": {
+  "first_seen": "2026-11-26T21:35:25+00:00",
+  "source": "yt-transcripts",
+  "title": "WATCH LIVE: Trump takes questions from reporters at Mar-a-Lago on Thanksgiving"
  },
  "ytv:krS9GO1898k": {
   "first_seen": "2026-11-23T22:30:30+00:00",
