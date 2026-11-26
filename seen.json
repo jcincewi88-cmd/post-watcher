@@ -1155,13 +1155,6 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=LbZHGEJqLYU"
    },
-   "OxsVS55jGSg": {
-    "channel": "Saturday Night Live",
-    "next": "2026-11-26T04:05:29+00:00",
-    "title": "live from newark airport",
-    "tries": 6,
-    "url": "https://www.youtube.com/watch?v=OxsVS55jGSg"
-   },
    "dVOilqaYpmM": {
     "channel": "Yahoo Finance",
     "next": "2026-11-26T09:10:28+00:00",
@@ -16524,6 +16517,11 @@
   "first_seen": "2026-11-23T23:35:22+00:00",
   "source": "yt-transcripts",
   "title": "Wall Street is going wild after Jensen Huang returns to Nvidia as CEO."
+ },
+ "ytv:lC-UhbKM-_w": {
+  "first_seen": "2026-11-26T04:10:25+00:00",
+  "source": "yt-transcripts",
+  "title": "Trump tried to say \u201cseditious\u201d and it sounded like he was mispronouncing a new Black friend\u2019s name"
  },
  "ytv:lHMgbuVbOho": {
   "first_seen": "2026-11-24T22:50:25+00:00",
