@@ -1143,9 +1143,9 @@
    },
    "KEKC6w5Ue5E": {
     "channel": "Guardian News",
-    "next": "2026-11-26T01:10:30+00:00",
+    "next": "2026-11-26T01:35:29+00:00",
     "title": "Large fire engulfs vehicles in Cairo highway accident that kills dozens",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=KEKC6w5Ue5E"
    },
    "LbZHGEJqLYU": {
@@ -1178,9 +1178,9 @@
    },
    "n8MAQUqh-c4": {
     "channel": "Timcast IRL",
-    "next": "2026-11-26T01:15:28+00:00",
+    "next": "2026-11-26T01:35:29+00:00",
     "title": "American Empire Is COLLAPSING, Its A SUPERSTORM of Chaos",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=n8MAQUqh-c4"
    },
    "yiTGtLH9t3g": {
@@ -14516,6 +14516,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501"
+ },
+ "ytv:N_rSiG70v5U": {
+  "first_seen": "2026-11-26T01:15:29+00:00",
+  "source": "yt-transcripts",
+  "title": "Raised by the Devil Himself \ud83d\ude14"
  },
  "ytv:NhQ2Io_XB0A": {
   "first_seen": "2026-11-25T01:50:23+00:00",
