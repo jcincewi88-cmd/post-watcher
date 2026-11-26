@@ -1099,6 +1099,13 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
+   "A1YgtEMCJXU": {
+    "channel": "Shawn Ryan Show",
+    "next": "2026-11-26T18:25:32+00:00",
+    "title": "The Book of Genesis",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=A1YgtEMCJXU"
+   },
    "PTsweOcSGRM": {
     "channel": "Guardian News",
     "next": "2026-11-26T21:50:45+00:00",
@@ -13383,6 +13390,11 @@
   "source": "yt-transcripts",
   "title": "Did They Just Set Off a Burn Pit in Iowa?! \ud83d\ude33"
  },
+ "ytv:A1YgtEMCJXU": {
+  "first_seen": "2026-11-26T18:15:32+00:00",
+  "source": "yt-transcripts",
+  "title": "The Book of Genesis"
+ },
  "ytv:A9Z4qlR9Y_s": {
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
@@ -13612,6 +13624,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "$5 BILLION NVIDIA SPY OPERATION"
+ },
+ "ytv:DHc4T8eEU6k": {
+  "first_seen": "2026-11-26T18:15:32+00:00",
+  "source": "yt-transcripts",
+  "title": "\u201cShe\u2019s Like a Mad Dog\u201d"
  },
  "ytv:DLGLJgSCRSI": {
   "first_seen": "2026-11-24T01:35:19+00:00",
@@ -13862,6 +13879,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Logan Paul HATES Golf \ud83e\udd2c\u26f3\ufe0f"
+ },
+ "ytv:Fin8r_5bUH8": {
+  "first_seen": "2026-11-26T18:15:32+00:00",
+  "source": "yt-transcripts",
+  "title": "Anthony Kim on Hustling Golf at 8 Years Old and What Drove Him to Succeed"
  },
  "ytv:Flx7_WF17Lo": {
   "first_seen": "2026-11-24T01:35:19+00:00",
