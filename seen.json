@@ -1106,6 +1106,13 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=A1YgtEMCJXU"
    },
+   "LVja1L8W7WM": {
+    "channel": "The Diary Of A CEO",
+    "next": "2026-11-26T21:30:32+00:00",
+    "title": "THERE'S A 90% CHANCE THIS KILLS EVERYBODY",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=LVja1L8W7WM"
+   },
    "Mf1DV14Zt18": {
     "channel": "Saturday Night Live",
     "next": "2026-11-26T21:30:30+00:00",
@@ -14476,6 +14483,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "This Is Alarming"
+ },
+ "ytv:LVja1L8W7WM": {
+  "first_seen": "2026-11-26T21:20:32+00:00",
+  "source": "yt-transcripts",
+  "title": "THERE'S A 90% CHANCE THIS KILLS EVERYBODY"
  },
  "ytv:LXJs8L9CiwE": {
   "first_seen": "2026-11-25T14:40:27+00:00",
