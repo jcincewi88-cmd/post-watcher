@@ -1150,9 +1150,9 @@
    },
    "LbZHGEJqLYU": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-26T01:05:22+00:00",
+    "next": "2026-11-26T06:25:28+00:00",
     "title": "GTA VI had the biggest entertainment launch in history.",
-    "tries": 5,
+    "tries": 6,
     "url": "https://www.youtube.com/watch?v=LbZHGEJqLYU"
    },
    "OxsVS55jGSg": {
@@ -1176,11 +1176,18 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=jlUBmphD2MY"
    },
+   "n8MAQUqh-c4": {
+    "channel": "Timcast IRL",
+    "next": "2026-11-26T01:15:28+00:00",
+    "title": "American Empire Is COLLAPSING, Its A SUPERSTORM of Chaos",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=n8MAQUqh-c4"
+   },
    "yiTGtLH9t3g": {
     "channel": "The New York Times",
-    "next": "2026-11-26T01:00:38+00:00",
+    "next": "2026-11-26T02:25:28+00:00",
     "title": "The Moment the Army Detonated Toxic Lead Azide at an Iowa Ammunition Plant",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=yiTGtLH9t3g"
    }
   }
@@ -13795,6 +13802,11 @@
   "source": "yt-transcripts",
   "title": "'ENOUGH IS ENOUGH': Aviation groups ask for BILLIONS from Congress"
  },
+ "ytv:FXdTsPgC1oY": {
+  "first_seen": "2026-11-26T01:05:28+00:00",
+  "source": "yt-transcripts",
+  "title": "CIA and top US intel office BREACHED amid FBI probe#shorts"
+ },
  "ytv:F_gpZUW-DYk": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -16629,6 +16641,11 @@
   "first_seen": "2026-11-25T22:15:32+00:00",
   "source": "yt-transcripts",
   "title": "What happens when you let #robots run your life for a day? #AI #tech #AIrobots #robotics"
+ },
+ "ytv:n8MAQUqh-c4": {
+  "first_seen": "2026-11-26T01:05:28+00:00",
+  "source": "yt-transcripts",
+  "title": "American Empire Is COLLAPSING, Its A SUPERSTORM of Chaos"
  },
  "ytv:nB7v-rkhdzw": {
   "first_seen": "2026-11-25T13:05:27+00:00",
