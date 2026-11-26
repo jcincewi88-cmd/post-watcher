@@ -1108,9 +1108,9 @@
    },
    "_fRU62sY7ew": {
     "channel": "Guardian News",
-    "next": "2026-11-26T13:10:38+00:00",
+    "next": "2026-11-26T13:35:25+00:00",
     "title": "Huge flames rise from fire at Bangkok oil facility",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=_fRU62sY7ew"
    },
    "mkOKfTcjoa8": {
@@ -16533,6 +16533,11 @@
   "first_seen": "2026-11-23T23:35:22+00:00",
   "source": "yt-transcripts",
   "title": "Wall Street is going wild after Jensen Huang returns to Nvidia as CEO."
+ },
+ "ytv:l9tPaMdPpsQ": {
+  "first_seen": "2026-11-26T13:15:25+00:00",
+  "source": "yt-transcripts",
+  "title": "The price of brisket is going ^ $$$"
  },
  "ytv:lC-UhbKM-_w": {
   "first_seen": "2026-11-26T04:10:25+00:00",
