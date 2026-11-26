@@ -1106,6 +1106,13 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=PTsweOcSGRM"
    },
+   "ZpJlociXFyM": {
+    "channel": "The White House",
+    "next": "2026-11-26T17:15:36+00:00",
+    "title": "Lo-Fi Winning Beats to Pass the Gravy to",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=ZpJlociXFyM"
+   },
    "_fRU62sY7ew": {
     "channel": "Guardian News",
     "next": "2026-11-26T18:25:26+00:00",
@@ -15648,6 +15655,11 @@
   "first_seen": "2026-11-24T17:50:25+00:00",
   "source": "yt-transcripts",
   "title": "All-In co-host: There is NO WAY, one of the RICHEST people on the planet would ever commit TREASON"
+ },
+ "ytv:ZpJlociXFyM": {
+  "first_seen": "2026-11-26T17:05:36+00:00",
+  "source": "yt-transcripts",
+  "title": "Lo-Fi Winning Beats to Pass the Gravy to"
  },
  "ytv:_19PHik8_Jg": {
   "first_seen": "2026-11-24T01:35:19+00:00",
