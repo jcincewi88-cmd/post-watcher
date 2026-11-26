@@ -1113,6 +1113,13 @@
     "tries": 3,
     "url": "https://www.youtube.com/watch?v=APTd0tHbtuU"
    },
+   "Ct6tMWFUKCI": {
+    "channel": "Washington Post",
+    "next": "2026-11-26T20:45:25+00:00",
+    "title": "Egg-cellent! Chefs compete in France\u2019s World Egg Mayo Championship.",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=Ct6tMWFUKCI"
+   },
    "Mf1DV14Zt18": {
     "channel": "Saturday Night Live",
     "next": "2026-11-26T20:45:35+00:00",
@@ -13653,6 +13660,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "How a little-known court system in Louisiana churns out thousands of evictions"
+ },
+ "ytv:Ct6tMWFUKCI": {
+  "first_seen": "2026-11-26T20:35:25+00:00",
+  "source": "yt-transcripts",
+  "title": "Egg-cellent! Chefs compete in France\u2019s World Egg Mayo Championship."
  },
  "ytv:CxbztSdcgWQ": {
   "first_seen": "2026-11-25T20:00:30+00:00",
