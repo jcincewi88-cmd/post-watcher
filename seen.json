@@ -1106,6 +1106,13 @@
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=A1YgtEMCJXU"
    },
+   "HDh7WIQ1yPs": {
+    "channel": "Shawn Ryan Show",
+    "next": "2026-11-26T23:20:24+00:00",
+    "title": "WAIT\u2026 Earth Was Built for What?! \ud83e\udd2f",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=HDh7WIQ1yPs"
+   },
    "Mf1DV14Zt18": {
     "channel": "Saturday Night Live",
     "next": "2026-11-27T01:35:33+00:00",
@@ -1115,9 +1122,9 @@
    },
    "RNWOhotYPmY": {
     "channel": "Saturday Night Live",
-    "next": "2026-11-26T23:05:35+00:00",
+    "next": "2026-11-27T04:30:24+00:00",
     "title": "happy thanksgiving! \ud83e\udd83",
-    "tries": 5,
+    "tries": 6,
     "url": "https://www.youtube.com/watch?v=RNWOhotYPmY"
    },
    "ZpJlociXFyM": {
@@ -13325,6 +13332,11 @@
   "source": "yt-transcripts",
   "title": "Nelk Boys on Running 7 Marathons in 7 days & GTA 6 Release!"
  },
+ "ytv:8uXQ3h05QVc": {
+  "first_seen": "2026-11-26T23:10:24+00:00",
+  "source": "yt-transcripts",
+  "title": "Why this influencer REJECTED a massive brand deal over ONE strict rule #shorts"
+ },
  "ytv:8wyHELLUrAk": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -14074,6 +14086,11 @@
   "first_seen": "2026-11-24T02:10:29+00:00",
   "source": "yt-transcripts",
   "title": "Why Jensen Huang's Return Won't Solve Nvidia's Biggest Problems"
+ },
+ "ytv:HDh7WIQ1yPs": {
+  "first_seen": "2026-11-26T23:10:24+00:00",
+  "source": "yt-transcripts",
+  "title": "WAIT\u2026 Earth Was Built for What?! \ud83e\udd2f"
  },
  "ytv:HEEQ-4Oii_k": {
   "first_seen": "2026-11-24T01:35:19+00:00",
@@ -16519,6 +16536,11 @@
   "first_seen": "2026-11-24T19:05:27+00:00",
   "source": "yt-transcripts",
   "title": "Is AI Killing Software? HubSpot's Returning CEO Says No"
+ },
+ "ytv:hHbVOcZ2j9A": {
+  "first_seen": "2026-11-26T23:10:24+00:00",
+  "source": "yt-transcripts",
+  "title": "$3 MILLION IN KINDNESS: Minnesota creator GIVES AWAY $100K payouts to strangers"
  },
  "ytv:hUEGmSbt5as": {
   "first_seen": "2026-11-23T22:30:30+00:00",
