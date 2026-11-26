@@ -1108,9 +1108,9 @@
    },
    "ADIZL0rRoY8": {
     "channel": "Saturday Night Live",
-    "next": "2026-11-26T00:35:27+00:00",
+    "next": "2026-11-26T05:55:34+00:00",
     "title": "thanksgiving in california",
-    "tries": 5,
+    "tries": 6,
     "url": "https://www.youtube.com/watch?v=ADIZL0rRoY8"
    },
    "GcCnbqUiOLI": {
@@ -16844,6 +16844,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "The Rise and Fall of the Roman Empire and the Byzantine Empire | Lex Fridman Podcast #498"
+ },
+ "ytv:q2sQ24znlyI": {
+  "first_seen": "2026-11-26T00:35:34+00:00",
+  "source": "yt-transcripts",
+  "title": "Thousands of lanterns fill the sky at Thailand\u2019s largest light festival"
  },
  "ytv:q5L47J-JNik": {
   "first_seen": "2026-11-25T01:50:23+00:00",
