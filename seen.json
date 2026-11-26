@@ -1115,16 +1115,16 @@
    },
    "PTsweOcSGRM": {
     "channel": "Guardian News",
-    "next": "2026-11-26T11:35:31+00:00",
+    "next": "2026-11-26T12:20:37+00:00",
     "title": "Moment man on back of motorcycle catches cricket ball with one hand",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=PTsweOcSGRM"
    },
    "z3mF9fsXKnE": {
     "channel": "Guardian News",
-    "next": "2026-11-26T11:35:28+00:00",
+    "next": "2026-11-26T12:00:37+00:00",
     "title": "POLITICS MINISTERIAL STATEMENTS OFGEM & MANDELSON",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=z3mF9fsXKnE"
    }
   }
@@ -13768,6 +13768,11 @@
   "first_seen": "2026-11-25T13:45:25+00:00",
   "source": "yt-transcripts",
   "title": "'ENOUGH IS ENOUGH': Aviation groups ask for BILLIONS from Congress"
+ },
+ "ytv:FX4HCpfo_Po": {
+  "first_seen": "2026-11-26T11:40:37+00:00",
+  "source": "yt-transcripts",
+  "title": "Is China to blame for spy allegations? | The Economist"
  },
  "ytv:FXFeDJ6SRsU": {
   "first_seen": "2026-11-26T11:10:24+00:00",
