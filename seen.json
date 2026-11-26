@@ -1122,16 +1122,16 @@
    },
    "wZFwjr65_Sg": {
     "channel": "Guardian News",
-    "next": "2026-11-26T14:05:30+00:00",
+    "next": "2026-11-26T14:30:34+00:00",
     "title": "Bangladeshi garment workers clash with police during protests",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=wZFwjr65_Sg"
    },
    "z3mF9fsXKnE": {
     "channel": "Guardian News",
-    "next": "2026-11-26T14:05:23+00:00",
+    "next": "2026-11-26T16:50:34+00:00",
     "title": "POLITICS MINISTERIAL STATEMENTS OFGEM & MANDELSON",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=z3mF9fsXKnE"
    }
   }
@@ -13905,6 +13905,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Can Nvidia survive without Jensen Huang? | The Economist"
+ },
+ "ytv:H0t6nOlSuDs": {
+  "first_seen": "2026-11-26T14:10:34+00:00",
+  "source": "yt-transcripts",
+  "title": "U.S. Leaders Are SCRAMBLING to Solve Immigration Problem, It's a DISASTER"
  },
  "ytv:H18aztcCFao": {
   "first_seen": "2026-11-25T04:45:27+00:00",
