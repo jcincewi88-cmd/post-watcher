@@ -1106,6 +1106,13 @@
     "tries": 4,
     "url": "https://www.youtube.com/watch?v=PTsweOcSGRM"
    },
+   "_fRU62sY7ew": {
+    "channel": "Guardian News",
+    "next": "2026-11-26T13:10:38+00:00",
+    "title": "Huge flames rise from fire at Bangkok oil facility",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=_fRU62sY7ew"
+   },
    "mkOKfTcjoa8": {
     "channel": "Guardian News",
     "next": "2026-11-26T13:05:23+00:00",
@@ -15636,6 +15643,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Tucker Destroys Kratom Salesman Markwayne Mullin"
+ },
+ "ytv:_fRU62sY7ew": {
+  "first_seen": "2026-11-26T13:00:38+00:00",
+  "source": "yt-transcripts",
+  "title": "Huge flames rise from fire at Bangkok oil facility"
  },
  "ytv:_k9l-Qx3YvY": {
   "first_seen": "2026-11-23T22:30:30+00:00",
