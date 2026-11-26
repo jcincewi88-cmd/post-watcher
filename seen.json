@@ -1141,6 +1141,13 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=Ii_z53qQSJw"
    },
+   "KEKC6w5Ue5E": {
+    "channel": "Guardian News",
+    "next": "2026-11-26T01:10:30+00:00",
+    "title": "Large fire engulfs vehicles in Cairo highway accident that kills dozens",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=KEKC6w5Ue5E"
+   },
    "LbZHGEJqLYU": {
     "channel": "Yahoo Finance",
     "next": "2026-11-26T01:05:22+00:00",
@@ -14212,6 +14219,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Midterm Reaction | The Tim Dillon Show #520"
+ },
+ "ytv:KEKC6w5Ue5E": {
+  "first_seen": "2026-11-26T01:00:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Large fire engulfs vehicles in Cairo highway accident that kills dozens"
  },
  "ytv:KHu9EB1wKg4": {
   "first_seen": "2026-11-25T17:15:23+00:00",
