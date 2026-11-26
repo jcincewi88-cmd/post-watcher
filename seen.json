@@ -1106,6 +1106,13 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=1VTr2BugUjM"
    },
+   "2Tg22b9n32k": {
+    "channel": "The White House",
+    "next": "2026-11-26T01:45:27+00:00",
+    "title": "President Trump Awards Rudy Giuliani the Medal of Freedom",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=2Tg22b9n32k"
+   },
    "ADIZL0rRoY8": {
     "channel": "Saturday Night Live",
     "next": "2026-11-26T05:55:34+00:00",
@@ -12731,6 +12738,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Zohran SHOCKS: RIKERS TO CLOSE"
+ },
+ "ytv:2Tg22b9n32k": {
+  "first_seen": "2026-11-26T01:35:27+00:00",
+  "source": "yt-transcripts",
+  "title": "President Trump Awards Rudy Giuliani the Medal of Freedom"
  },
  "ytv:2V67_63XVNo": {
   "first_seen": "2026-11-25T21:35:27+00:00",
