@@ -1113,6 +1113,13 @@
     "tries": 3,
     "url": "https://www.youtube.com/watch?v=APTd0tHbtuU"
    },
+   "Mf1DV14Zt18": {
+    "channel": "Saturday Night Live",
+    "next": "2026-11-26T20:20:27+00:00",
+    "title": "it\u2019s the little things",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=Mf1DV14Zt18"
+   },
    "PTsweOcSGRM": {
     "channel": "Guardian News",
     "next": "2026-11-26T21:50:45+00:00",
@@ -14581,6 +14588,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Can Bitcoin Survive the AI Selloff?"
+ },
+ "ytv:Mf1DV14Zt18": {
+  "first_seen": "2026-11-26T20:10:27+00:00",
+  "source": "yt-transcripts",
+  "title": "it\u2019s the little things"
  },
  "ytv:MhPctHd8l4Y": {
   "first_seen": "2026-11-25T01:05:28+00:00",
