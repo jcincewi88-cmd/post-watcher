@@ -1044,6 +1044,7 @@
    "yt-transcripts"
   ],
   "warned": [
+   "karpathy-gist",
    "usmint"
   ],
   "yt_channels": [
@@ -1108,9 +1109,9 @@
    },
    "ZpJlociXFyM": {
     "channel": "The White House",
-    "next": "2026-11-26T17:40:24+00:00",
+    "next": "2026-11-26T18:20:55+00:00",
     "title": "Lo-Fi Winning Beats to Pass the Gravy to",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=ZpJlociXFyM"
    },
    "_fRU62sY7ew": {
@@ -16445,6 +16446,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Nah something's going on"
+ },
+ "ytv:iPZqfvkiajw": {
+  "first_seen": "2026-11-26T17:40:55+00:00",
+  "source": "yt-transcripts",
+  "title": "Ja Rule says TikTok is changing streaming income for artists, including himself."
  },
  "ytv:iQoaNL2CqWw": {
   "first_seen": "2026-11-24T16:05:25+00:00",
