@@ -1108,9 +1108,9 @@
    },
    "2Tg22b9n32k": {
     "channel": "The White House",
-    "next": "2026-11-26T01:45:27+00:00",
+    "next": "2026-11-26T02:05:30+00:00",
     "title": "President Trump Awards Rudy Giuliani the Medal of Freedom",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=2Tg22b9n32k"
    },
    "ADIZL0rRoY8": {
@@ -16528,6 +16528,11 @@
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "Piers Morgan Grills Doron Spielman Over Israel-Gaza 'Hypocrisy'"
+ },
+ "ytv:lKLwR5FYBnY": {
+  "first_seen": "2026-11-26T01:45:30+00:00",
+  "source": "yt-transcripts",
+  "title": "Hotter inflation puts the Fed in a BIND"
  },
  "ytv:lMLEsEtJH7Q": {
   "first_seen": "2026-11-23T22:30:30+00:00",
