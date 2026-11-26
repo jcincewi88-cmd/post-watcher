@@ -1143,9 +1143,9 @@
    },
    "knoQn0yrp4g": {
     "channel": "Fox Business",
-    "next": "2026-11-26T21:45:25+00:00",
+    "next": "2026-11-26T22:10:31+00:00",
     "title": "WATCH LIVE: Trump takes questions from reporters at Mar-a-Lago on Thanksgiving",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=knoQn0yrp4g"
    },
    "mkOKfTcjoa8": {
@@ -16763,6 +16763,11 @@
   "first_seen": "2026-11-26T07:25:32+00:00",
   "source": "yt-transcripts",
   "title": "Tiny London quant fund is one of the UK\u2019s biggest corporate taxpayers | FT #shorts"
+ },
+ "ytv:kShkMHKJvqs": {
+  "first_seen": "2026-11-26T21:50:31+00:00",
+  "source": "yt-transcripts",
+  "title": "Why is the return of Nvidia\u2019s Jensen Huang uniting Taiwan and China? | FT #shorts"
  },
  "ytv:kUZ3TOlfCpA": {
   "first_seen": "2026-11-25T17:30:35+00:00",
