@@ -1136,9 +1136,9 @@
    },
    "Hsm1L85k3lI": {
     "channel": "Guardian News",
-    "next": "2026-11-26T00:05:31+00:00",
+    "next": "2026-11-26T05:25:33+00:00",
     "title": "Cloud of smoke seen after US army detonates bomb-making chemicals in Iowa",
-    "tries": 5,
+    "tries": 6,
     "url": "https://www.youtube.com/watch?v=Hsm1L85k3lI"
    },
    "Ib3yL0VwejU": {
@@ -15313,6 +15313,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Americans want their politicians to be \u2018fighters\u2019 | FT #shorts"
+ },
+ "ytv:XawUbldS8gk": {
+  "first_seen": "2026-11-26T00:05:33+00:00",
+  "source": "yt-transcripts",
+  "title": "Opening for the Stones: Keith Richards Goes Missing"
  },
  "ytv:Xfltx5ucI2M": {
   "first_seen": "2026-11-25T17:45:32+00:00",
