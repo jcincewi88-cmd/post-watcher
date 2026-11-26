@@ -1044,7 +1044,6 @@
    "yt-transcripts"
   ],
   "warned": [
-   "karpathy-gist",
    "usmint"
   ],
   "yt_channels": [
@@ -1106,6 +1105,13 @@
     "title": "Moment man on back of motorcycle catches cricket ball with one hand",
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=PTsweOcSGRM"
+   },
+   "RNWOhotYPmY": {
+    "channel": "Saturday Night Live",
+    "next": "2026-11-26T17:55:41+00:00",
+    "title": "happy thanksgiving! \ud83e\udd83",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=RNWOhotYPmY"
    },
    "ZpJlociXFyM": {
     "channel": "The White House",
@@ -14911,6 +14917,11 @@
   "first_seen": "2026-11-25T07:55:19+00:00",
   "source": "yt-transcripts",
   "title": "What is remigration? | FT #shorts"
+ },
+ "ytv:RNWOhotYPmY": {
+  "first_seen": "2026-11-26T17:45:41+00:00",
+  "source": "yt-transcripts",
+  "title": "happy thanksgiving! \ud83e\udd83"
  },
  "ytv:RPuc9je0k90": {
   "first_seen": "2026-11-25T01:50:23+00:00",
