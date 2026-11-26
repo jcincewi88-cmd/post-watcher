@@ -1099,6 +1099,13 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
+   "NkUXMsclLy8": {
+    "channel": "CoinDesk",
+    "next": "2026-11-26T14:55:24+00:00",
+    "title": "Is bitcoin a \u201csuper cockroach\u201d?",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=NkUXMsclLy8"
+   },
    "PTsweOcSGRM": {
     "channel": "Guardian News",
     "next": "2026-11-26T16:25:39+00:00",
@@ -14535,6 +14542,11 @@
   "first_seen": "2026-11-24T19:45:21+00:00",
   "source": "yt-transcripts",
   "title": "Nvidia CEO's Return Is a \u2018Bullish Black Swan\u2019 and BTC Is in Gold\u2019s \u2018Doghouse\u2019 Era: Eric Balchunas"
+ },
+ "ytv:NkUXMsclLy8": {
+  "first_seen": "2026-11-26T14:45:24+00:00",
+  "source": "yt-transcripts",
+  "title": "Is bitcoin a \u201csuper cockroach\u201d?"
  },
  "ytv:NsvFpH37OXg": {
   "first_seen": "2026-11-23T22:30:30+00:00",
