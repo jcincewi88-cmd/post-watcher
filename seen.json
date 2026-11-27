@@ -1108,9 +1108,9 @@
    },
    "K4ni72PJtyw": {
     "channel": "Guardian News",
-    "next": "2026-11-27T23:05:34+00:00",
+    "next": "2026-11-28T00:30:23+00:00",
     "title": "Elderly woman on mobility scooter appears to damage neighbour's Christmas lights",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=K4ni72PJtyw"
    },
    "NhhNU5EHok4": {
@@ -1126,6 +1126,13 @@
     "title": "Spain's voters share their views on Pedro S\u00e1nchez ahead of the election | FT #shorts",
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=a9hNTHyeBkw"
+   },
+   "bW9fCf8Hkpg": {
+    "channel": "Washington Post",
+    "next": "2026-11-27T23:20:23+00:00",
+    "title": "For these ICU patients, a visit to the beach is part of recovery",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=bW9fCf8Hkpg"
    },
    "eDP4c-72Ewg": {
     "channel": "Guardian News",
@@ -12582,6 +12589,11 @@
   "source": "yt-transcripts",
   "title": "David Sedaris on Lying to Strangers, Mishap at the Oscars & Being One of Vogue\u2019s Best Dressed"
  },
+ "ytv:1-y8VAAIwkE": {
+  "first_seen": "2026-11-27T23:10:23+00:00",
+  "source": "yt-transcripts",
+  "title": "He wants to use a home equity loan to finish his basement. Here's why he shouldn't."
+ },
  "ytv:13oLTL_UxW8": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -13161,6 +13173,11 @@
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "The Reason I Say No To Debate"
+ },
+ "ytv:6sHr3H43kKE": {
+  "first_seen": "2026-11-27T23:10:23+00:00",
+  "source": "yt-transcripts",
+  "title": "Who's REALLY paying for 'buy now, pay later' plans?"
  },
  "ytv:70QEgbeMjT8": {
   "first_seen": "2026-11-26T14:15:23+00:00",
@@ -16237,10 +16254,20 @@
   "source": "yt-transcripts",
   "title": "Director of Iowa environmental group says plan to detonate explosives is safest path forward"
  },
+ "ytv:bQFxxAmDU14": {
+  "first_seen": "2026-11-27T23:10:23+00:00",
+  "source": "yt-transcripts",
+  "title": "Major US Air Force computer system breached #shorts"
+ },
  "ytv:bTTyaFO0LP0": {
   "first_seen": "2026-11-26T20:15:24+00:00",
   "source": "yt-transcripts",
   "title": "How Iran Really Beat Trump."
+ },
+ "ytv:bW9fCf8Hkpg": {
+  "first_seen": "2026-11-27T23:10:23+00:00",
+  "source": "yt-transcripts",
+  "title": "For these ICU patients, a visit to the beach is part of recovery"
  },
  "ytv:bZh8thod09E": {
   "first_seen": "2026-11-25T01:50:23+00:00",
