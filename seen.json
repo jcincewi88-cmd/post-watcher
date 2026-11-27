@@ -1122,9 +1122,9 @@
    },
    "nk-DHZP-5OY": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-27T15:45:26+00:00",
+    "next": "2026-11-27T16:25:29+00:00",
     "title": "Elon Musk says he\u2019ll donate another SpaceX share to every kid in America, every year.",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=nk-DHZP-5OY"
    }
   }
@@ -13138,6 +13138,11 @@
   "first_seen": "2026-11-25T13:35:24+00:00",
   "source": "yt-transcripts",
   "title": "BBQ: The official food of freedom"
+ },
+ "ytv:7XjBQqVKNaM": {
+  "first_seen": "2026-11-27T15:45:29+00:00",
+  "source": "yt-transcripts",
+  "title": "'PARASITE': Former Trump adviser issues CHILLING bankruptcy warning to major cities"
  },
  "ytv:7Z3ijK5-PsE": {
   "first_seen": "2026-11-24T16:35:24+00:00",
