@@ -1101,9 +1101,9 @@
   "yt_pending": {
    "JLMn0wouXUg": {
     "channel": "PBD Podcast",
-    "next": "2026-11-27T10:10:35+00:00",
+    "next": "2026-11-27T15:31:25+00:00",
     "title": "Steelers Cut Aaron Rodgers, Iowa Munitions Blast & USAID Files Expose Meta Ties | PBD Podcast #896",
-    "tries": 5,
+    "tries": 6,
     "url": "https://www.youtube.com/watch?v=JLMn0wouXUg"
    }
   }
@@ -13802,6 +13802,11 @@
   "first_seen": "2026-11-25T14:10:30+00:00",
   "source": "yt-transcripts",
   "title": "The True Meaning of Thanksgiving: Family, Fox News Scandals & Pardoned Turkeys | The Daily Show"
+ },
+ "ytv:EsF7EcCRs80": {
+  "first_seen": "2026-11-27T10:11:25+00:00",
+  "source": "yt-transcripts",
+  "title": "Alex Bores on why tech outages are the \u2018growing pains\u2019 of AI"
  },
  "ytv:EswsbxhjzWk": {
   "first_seen": "2026-11-24T01:35:19+00:00",
