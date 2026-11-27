@@ -1101,9 +1101,9 @@
   "yt_pending": {
    "5xc-RxXqrJQ": {
     "channel": "Washington Post",
-    "next": "2026-11-27T19:10:26+00:00",
+    "next": "2026-11-27T21:50:27+00:00",
     "title": "Turkey that refused to be on Thanksgiving menu leads police down highway chase",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=5xc-RxXqrJQ"
    },
    "NRmW99kIYxo": {
@@ -12549,6 +12549,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Andy Burnham to address parliament after EU summit agreements \u2013 watch live"
+ },
+ "ytv:0TiMf7lw8Pg": {
+  "first_seen": "2026-11-27T19:10:27+00:00",
+  "source": "yt-transcripts",
+  "title": "Terry Bradshaw Wants Aaron Rodgers GONE"
  },
  "ytv:0arEf5b7tM0": {
   "first_seen": "2026-11-24T01:35:19+00:00",
