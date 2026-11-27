@@ -1120,6 +1120,13 @@
     "tries": 4,
     "url": "https://www.youtube.com/watch?v=eDP4c-72Ewg"
    },
+   "lQTbO6A98pM": {
+    "channel": "Saturday Night Live",
+    "next": "2026-11-27T19:55:34+00:00",
+    "title": "it\u2019s time to shop!",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=lQTbO6A98pM"
+   },
    "lSCBqdIqr3A": {
     "channel": "Yahoo Finance",
     "next": "2026-11-27T20:25:31+00:00",
@@ -1129,9 +1136,9 @@
    },
    "lpGjE2Q0UPI": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-27T19:45:28+00:00",
+    "next": "2026-11-27T22:25:34+00:00",
     "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)",
-    "tries": 4,
+    "tries": 5,
     "url": "https://www.youtube.com/watch?v=lpGjE2Q0UPI"
    },
    "nk-DHZP-5OY": {
@@ -17097,6 +17104,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Trump's mid-meeting snooze gave him plenty of energy to bro out with Putin and Xi"
+ },
+ "ytv:lQTbO6A98pM": {
+  "first_seen": "2026-11-27T19:45:34+00:00",
+  "source": "yt-transcripts",
+  "title": "it\u2019s time to shop!"
  },
  "ytv:lS6XHPqXGTo": {
   "first_seen": "2026-11-25T04:10:29+00:00",
