@@ -1106,6 +1106,13 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=A1YgtEMCJXU"
    },
+   "FzsFwpsxn64": {
+    "channel": "Timcast IRL",
+    "next": "2026-11-27T01:20:26+00:00",
+    "title": "Birthrate COLLAPSE Causing \"Friendsgiving\" Emergence, Thanksgiving Special",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=FzsFwpsxn64"
+   },
    "Mf1DV14Zt18": {
     "channel": "Saturday Night Live",
     "next": "2026-11-27T01:35:33+00:00",
@@ -13944,6 +13951,11 @@
   "source": "yt-transcripts",
   "title": "Tucker on Jared Kushner"
  },
+ "ytv:FzsFwpsxn64": {
+  "first_seen": "2026-11-27T01:10:26+00:00",
+  "source": "yt-transcripts",
+  "title": "Birthrate COLLAPSE Causing \"Friendsgiving\" Emergence, Thanksgiving Special"
+ },
  "ytv:G5w7EyF-aFQ": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -14998,6 +15010,11 @@
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "'Comedy is Dead!' Bill Maher on Trump, Retirement, Marriage and Why AI is 'An A**hole'"
+ },
+ "ytv:RChSTnLxViM": {
+  "first_seen": "2026-11-27T01:10:26+00:00",
+  "source": "yt-transcripts",
+  "title": "'EVERYTHING IS UP': Thanksgiving dinner prices HIT shoppers again"
  },
  "ytv:RG_VSseoIvE": {
   "first_seen": "2026-11-25T07:55:19+00:00",
@@ -16268,6 +16285,11 @@
   "first_seen": "2026-11-26T16:15:40+00:00",
   "source": "yt-transcripts",
   "title": "Enjoying the \"all natural\" turkey"
+ },
+ "ytv:ec3yPF-ZB94": {
+  "first_seen": "2026-11-27T01:10:26+00:00",
+  "source": "yt-transcripts",
+  "title": "\u2018MAKE HEAVEN CROWDED\u2019: Christian creator\u2019s Thanksgiving challenge will INSPIRE you #shorts"
  },
  "ytv:ecpjncdGZIw": {
   "first_seen": "2026-11-26T11:45:40+00:00",
