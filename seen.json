@@ -1113,6 +1113,13 @@
     "tries": 3,
     "url": "https://www.youtube.com/watch?v=NRmW99kIYxo"
    },
+   "NhhNU5EHok4": {
+    "channel": "The New York Times",
+    "next": "2026-11-27T15:15:22+00:00",
+    "title": "Defending Aden, Yemen\u2019s Holdout Against the Houthis",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=NhhNU5EHok4"
+   },
    "kdK-ueQhTCA": {
     "channel": "Yahoo Finance",
     "next": "2026-11-27T15:20:42+00:00",
@@ -14717,6 +14724,11 @@
   "source": "yt-transcripts",
   "title": "President Trump Hosts a Reception, Nov. 20, 2026"
  },
+ "ytv:NhhNU5EHok4": {
+  "first_seen": "2026-11-27T15:05:22+00:00",
+  "source": "yt-transcripts",
+  "title": "Defending Aden, Yemen\u2019s Holdout Against the Houthis"
+ },
  "ytv:Nk1YeyECJ5s": {
   "first_seen": "2026-11-24T19:45:21+00:00",
   "source": "yt-transcripts",
@@ -15141,6 +15153,11 @@
   "first_seen": "2026-11-27T09:00:35+00:00",
   "source": "yt-transcripts",
   "title": "The XRP \"complete loss\" warning is from 2024"
+ },
+ "ytv:SL19dncMfAI": {
+  "first_seen": "2026-11-27T15:05:22+00:00",
+  "source": "yt-transcripts",
+  "title": "Democrats renew their union advantage with voters"
  },
  "ytv:SOlfON1opQk": {
   "first_seen": "2026-11-25T04:45:27+00:00",
@@ -17181,6 +17198,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Building the Virtual Analyst That Never Sleeps"
+ },
+ "ytv:oQdZqZvHK4o": {
+  "first_seen": "2026-11-27T15:05:22+00:00",
+  "source": "yt-transcripts",
+  "title": "'ANTI-AMERICAN': Wealth tax logic called FUNDAMENTALLY upside down #shorts"
  },
  "ytv:o_NiJBOC86s": {
   "first_seen": "2026-11-24T14:35:34+00:00",
