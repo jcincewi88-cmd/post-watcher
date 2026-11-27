@@ -1106,6 +1106,13 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=A1YgtEMCJXU"
    },
+   "JLMn0wouXUg": {
+    "channel": "PBD Podcast",
+    "next": "2026-11-27T05:00:31+00:00",
+    "title": "Steelers Cut Aaron Rodgers, Iowa Munitions Blast & USAID Files Expose Meta Ties | PBD Podcast #896",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=JLMn0wouXUg"
+   },
    "Mf1DV14Zt18": {
     "channel": "Saturday Night Live",
     "next": "2026-11-27T07:00:31+00:00",
@@ -14289,6 +14296,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Jason: \"The leak came from inside the White House.\""
+ },
+ "ytv:JLMn0wouXUg": {
+  "first_seen": "2026-11-27T04:50:31+00:00",
+  "source": "yt-transcripts",
+  "title": "Steelers Cut Aaron Rodgers, Iowa Munitions Blast & USAID Files Expose Meta Ties | PBD Podcast #896"
  },
  "ytv:JRgL8Yheczo": {
   "first_seen": "2026-11-24T01:35:19+00:00",
