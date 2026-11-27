@@ -1101,9 +1101,9 @@
   "yt_pending": {
    "5xc-RxXqrJQ": {
     "channel": "Washington Post",
-    "next": "2026-11-27T17:50:23+00:00",
+    "next": "2026-11-27T19:10:26+00:00",
     "title": "Turkey that refused to be on Thanksgiving menu leads police down highway chase",
-    "tries": 3,
+    "tries": 4,
     "url": "https://www.youtube.com/watch?v=5xc-RxXqrJQ"
    },
    "NRmW99kIYxo": {
@@ -1119,6 +1119,20 @@
     "title": "Defending Aden, Yemen\u2019s Holdout Against the Houthis",
     "tries": 5,
     "url": "https://www.youtube.com/watch?v=NhhNU5EHok4"
+   },
+   "eDP4c-72Ewg": {
+    "channel": "Guardian News",
+    "next": "2026-11-27T18:00:26+00:00",
+    "title": "The moment a semi-truck loses control on Toledo overpass",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=eDP4c-72Ewg"
+   },
+   "lSCBqdIqr3A": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-27T18:00:26+00:00",
+    "title": "Market Hang (12:30\u20131:30 p.m. ET)",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=lSCBqdIqr3A"
    },
    "lpGjE2Q0UPI": {
     "channel": "Yahoo Finance",
@@ -15961,6 +15975,11 @@
   "source": "yt-transcripts",
   "title": "\u2018POKING AND PRODING\u2019: EX-CIA officer has a warning over AI role in cyberattacks"
  },
+ "ytv:_RyrCKIPZLc": {
+  "first_seen": "2026-11-27T17:50:26+00:00",
+  "source": "yt-transcripts",
+  "title": "Don't be fooled"
+ },
  "ytv:_TCAMTOxuVM": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -16216,6 +16235,11 @@
   "source": "yt-transcripts",
   "title": "AI Will Explode Bitcoin?"
  },
+ "ytv:csYx_1iAJyo": {
+  "first_seen": "2026-11-27T17:50:26+00:00",
+  "source": "yt-transcripts",
+  "title": "\u2018BIG PICTURE\u2019: THIS is a chips scandal, former counterterrorism coordinator says"
+ },
  "ytv:cvJzWtK0nCY": {
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
@@ -16340,6 +16364,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "The Wall Street Veteran Turning Alternative Data Into Infrastructure for Everyone"
+ },
+ "ytv:eDP4c-72Ewg": {
+  "first_seen": "2026-11-27T17:50:26+00:00",
+  "source": "yt-transcripts",
+  "title": "The moment a semi-truck loses control on Toledo overpass"
  },
  "ytv:eHo-u38pDTk": {
   "first_seen": "2026-11-23T22:30:30+00:00",
@@ -17025,6 +17054,11 @@
   "first_seen": "2026-11-25T04:10:29+00:00",
   "source": "yt-transcripts",
   "title": "Expert WARNS AI financing could become the biggest hurdle"
+ },
+ "ytv:lSCBqdIqr3A": {
+  "first_seen": "2026-11-27T17:50:26+00:00",
+  "source": "yt-transcripts",
+  "title": "Market Hang (12:30\u20131:30 p.m. ET)"
  },
  "ytv:lVOxGQcuNBA": {
   "first_seen": "2026-11-24T01:35:19+00:00",
