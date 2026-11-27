@@ -1106,6 +1106,13 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=5xc-RxXqrJQ"
    },
+   "K4ni72PJtyw": {
+    "channel": "Guardian News",
+    "next": "2026-11-27T22:05:26+00:00",
+    "title": "Elderly woman on mobility scooter appears to damage neighbour's Christmas lights",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=K4ni72PJtyw"
+   },
    "NhhNU5EHok4": {
     "channel": "The New York Times",
     "next": "2026-11-28T01:50:51+00:00",
@@ -14485,6 +14492,11 @@
   "source": "yt-transcripts",
   "title": "'CENTURIES': Pentagon vet drops STUNNING reality check on Musk's space dream"
  },
+ "ytv:K4ni72PJtyw": {
+  "first_seen": "2026-11-27T21:55:26+00:00",
+  "source": "yt-transcripts",
+  "title": "Elderly woman on mobility scooter appears to damage neighbour's Christmas lights"
+ },
  "ytv:KEKC6w5Ue5E": {
   "first_seen": "2026-11-26T01:00:30+00:00",
   "source": "yt-transcripts",
@@ -16944,6 +16956,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Chamath: The Market is BAD for Stocks Right Now"
+ },
+ "ytv:jR3YUzm_YrY": {
+  "first_seen": "2026-11-27T21:55:26+00:00",
+  "source": "yt-transcripts",
+  "title": "AI chip shortage pushes up tech prices amid memory chip squeeze"
  },
  "ytv:jXTY8WwohF0": {
   "first_seen": "2026-11-23T22:30:30+00:00",
