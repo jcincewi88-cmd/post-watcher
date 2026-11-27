@@ -1108,9 +1108,9 @@
    },
    "K4ni72PJtyw": {
     "channel": "Guardian News",
-    "next": "2026-11-27T22:05:26+00:00",
+    "next": "2026-11-27T22:25:29+00:00",
     "title": "Elderly woman on mobility scooter appears to damage neighbour's Christmas lights",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=K4ni72PJtyw"
    },
    "NhhNU5EHok4": {
@@ -15411,6 +15411,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Purpose = Uniqueness"
+ },
+ "ytv:U27X57ffTK8": {
+  "first_seen": "2026-11-27T22:05:29+00:00",
+  "source": "yt-transcripts",
+  "title": "Probably best it malfunctioned"
  },
  "ytv:U4qxKyIDgzw": {
   "first_seen": "2026-11-24T22:50:25+00:00",
