@@ -1115,9 +1115,9 @@
    },
    "NhhNU5EHok4": {
     "channel": "The New York Times",
-    "next": "2026-11-27T15:15:22+00:00",
+    "next": "2026-11-27T15:35:22+00:00",
     "title": "Defending Aden, Yemen\u2019s Holdout Against the Houthis",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=NhhNU5EHok4"
    },
    "kdK-ueQhTCA": {
@@ -1126,6 +1126,13 @@
     "title": "Sozzi Unleashed (9:30\u201310:00 a.m. ET)",
     "tries": 2,
     "url": "https://www.youtube.com/watch?v=kdK-ueQhTCA"
+   },
+   "nk-DHZP-5OY": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-27T15:25:22+00:00",
+    "title": "Elon Musk says he\u2019ll donate another SpaceX share to every kid in America, every year.",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=nk-DHZP-5OY"
    }
   }
  },
@@ -17173,6 +17180,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "What\u2019s going to happen in 2027? | The Economist"
+ },
+ "ytv:nk-DHZP-5OY": {
+  "first_seen": "2026-11-27T15:15:22+00:00",
+  "source": "yt-transcripts",
+  "title": "Elon Musk says he\u2019ll donate another SpaceX share to every kid in America, every year."
  },
  "ytv:ntk6gDdExxg": {
   "first_seen": "2026-11-23T22:30:30+00:00",
