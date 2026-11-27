@@ -1129,9 +1129,9 @@
    },
    "bW9fCf8Hkpg": {
     "channel": "Washington Post",
-    "next": "2026-11-27T23:20:23+00:00",
+    "next": "2026-11-27T23:40:33+00:00",
     "title": "For these ICU patients, a visit to the beach is part of recovery",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=bW9fCf8Hkpg"
    },
    "eDP4c-72Ewg": {
@@ -13753,6 +13753,11 @@
   "first_seen": "2026-11-27T04:40:23+00:00",
   "source": "yt-transcripts",
   "title": "How a 35-Cent Attack Could Expose Bitcoin Wallet IP Addresses"
+ },
+ "ytv:CxKnSyJ_QZA": {
+  "first_seen": "2026-11-27T23:20:33+00:00",
+  "source": "yt-transcripts",
+  "title": "The Bible's Biggest Plot Twist Took 2,000 Years \ud83e\udd2f"
  },
  "ytv:CxbztSdcgWQ": {
   "first_seen": "2026-11-25T20:00:30+00:00",
