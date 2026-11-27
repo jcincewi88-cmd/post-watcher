@@ -1101,9 +1101,9 @@
   "yt_pending": {
    "5xc-RxXqrJQ": {
     "channel": "Washington Post",
-    "next": "2026-11-27T17:05:29+00:00",
+    "next": "2026-11-27T17:50:23+00:00",
     "title": "Turkey that refused to be on Thanksgiving menu leads police down highway chase",
-    "tries": 2,
+    "tries": 3,
     "url": "https://www.youtube.com/watch?v=5xc-RxXqrJQ"
    },
    "NRmW99kIYxo": {
@@ -1119,6 +1119,13 @@
     "title": "Defending Aden, Yemen\u2019s Holdout Against the Houthis",
     "tries": 4,
     "url": "https://www.youtube.com/watch?v=NhhNU5EHok4"
+   },
+   "lpGjE2Q0UPI": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-27T17:20:23+00:00",
+    "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=lpGjE2Q0UPI"
    },
    "nk-DHZP-5OY": {
     "channel": "Yahoo Finance",
@@ -17029,6 +17036,11 @@
   "source": "yt-transcripts",
   "title": "What Democratic control of Congress means for Canada"
  },
+ "ytv:lpGjE2Q0UPI": {
+  "first_seen": "2026-11-27T17:10:23+00:00",
+  "source": "yt-transcripts",
+  "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)"
+ },
  "ytv:lqP8E2Be45s": {
   "first_seen": "2026-11-25T16:40:36+00:00",
   "source": "yt-transcripts",
@@ -17978,6 +17990,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "Anthropic IPO Breakdown: Most Valuable Company?"
+ },
+ "ytv:wpxajBJ49RI": {
+  "first_seen": "2026-11-27T17:10:23+00:00",
+  "source": "yt-transcripts",
+  "title": "The REAL Reason JFK Created USAID"
  },
  "ytv:ws6DwkOR98I": {
   "first_seen": "2026-11-23T22:30:30+00:00",
