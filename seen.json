@@ -1108,9 +1108,9 @@
    },
    "NRmW99kIYxo": {
     "channel": "Yahoo Finance",
-    "next": "2026-11-27T14:10:42+00:00",
+    "next": "2026-11-27T14:35:33+00:00",
     "title": "The 8:30 (8:30\u20139:30 a.m. ET)",
-    "tries": 1,
+    "tries": 2,
     "url": "https://www.youtube.com/watch?v=NRmW99kIYxo"
    }
   }
@@ -16769,6 +16769,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "\u201cWe Shat the Bed.\u201d Nick Offerman Is Angry at His Generation"
+ },
+ "ytv:jpReQZjiIXU": {
+  "first_seen": "2026-11-27T14:15:33+00:00",
+  "source": "yt-transcripts",
+  "title": "Crew DEBATES Rise of \u201cFriendsgiving,\u201d Population Collapse"
  },
  "ytv:jqW86ubzdRY": {
   "first_seen": "2026-11-25T01:50:23+00:00",
