@@ -1112,6 +1112,13 @@
     "title": "The 8:30 (8:30\u20139:30 a.m. ET)",
     "tries": 3,
     "url": "https://www.youtube.com/watch?v=NRmW99kIYxo"
+   },
+   "kdK-ueQhTCA": {
+    "channel": "Yahoo Finance",
+    "next": "2026-11-27T14:55:32+00:00",
+    "title": "Sozzi Unleashed (9:30\u201310:00 a.m. ET)",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=kdK-ueQhTCA"
    }
   }
  },
@@ -14205,6 +14212,11 @@
   "source": "yt-transcripts",
   "title": "THIS move by Trump was \u2018COMPLETELY UNPRECEDENTED,\u2019 GOP rep says #shorts"
  },
+ "ytv:I6ycRUBjT0s": {
+  "first_seen": "2026-11-27T14:45:32+00:00",
+  "source": "yt-transcripts",
+  "title": "\u2018STATUS QUO\u2019: Trump has kept everyone on their toes, Retired Navy SEAL says"
+ },
  "ytv:IA-xfKQnCns": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -16849,6 +16861,11 @@
   "first_seen": "2026-11-24T16:15:30+00:00",
   "source": "yt-transcripts",
   "title": "Most VCs Are Just Glorified Bankers"
+ },
+ "ytv:kdK-ueQhTCA": {
+  "first_seen": "2026-11-27T14:45:32+00:00",
+  "source": "yt-transcripts",
+  "title": "Sozzi Unleashed (9:30\u201310:00 a.m. ET)"
  },
  "ytv:knoQn0yrp4g": {
   "first_seen": "2026-11-26T21:35:25+00:00",
