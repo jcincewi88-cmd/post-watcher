@@ -1113,13 +1113,6 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=K4ni72PJtyw"
    },
-   "ZiFWwwTVULY": {
-    "channel": "Timcast IRL",
-    "next": "2026-11-28T03:45:28+00:00",
-    "title": "The UNTOLD STORY of Ian Crossland, From Ground Zero to the Super Bowl",
-    "tries": 4,
-    "url": "https://www.youtube.com/watch?v=ZiFWwwTVULY"
-   },
    "a9hNTHyeBkw": {
     "channel": "Financial Times",
     "next": "2026-11-28T07:05:23+00:00",
@@ -1140,13 +1133,6 @@
     "title": "it\u2019s time to shop!",
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=lQTbO6A98pM"
-   },
-   "lpGjE2Q0UPI": {
-    "channel": "Yahoo Finance",
-    "next": "2026-11-28T03:45:34+00:00",
-    "title": "The Daily Wolf with Scott Melker (12:00 p.m. ET)",
-    "tries": 6,
-    "url": "https://www.youtube.com/watch?v=lpGjE2Q0UPI"
    }
   }
  },
@@ -16974,6 +16960,11 @@
   "first_seen": "2026-11-25T04:45:27+00:00",
   "source": "yt-transcripts",
   "title": "Trump Gets Weird in Asia, Everything is Broken in America & Measles are Making a Comeback!"
+ },
+ "ytv:iaAHdELGsLg": {
+  "first_seen": "2026-11-28T03:45:38+00:00",
+  "source": "yt-transcripts",
+  "title": "How companies are embracing NEW STRATEGIES this holiday season"
  },
  "ytv:iaSOlyrztlk": {
   "first_seen": "2026-11-23T22:30:30+00:00",
