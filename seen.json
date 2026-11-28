@@ -1099,6 +1099,13 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
+   "3teCJO-xyqo": {
+    "channel": "CoinDesk",
+    "next": "2026-11-28T03:30:36+00:00",
+    "title": "CoinDesk Live at Binance Blockchain Week Day 1",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=3teCJO-xyqo"
+   },
    "K4ni72PJtyw": {
     "channel": "Guardian News",
     "next": "2026-11-28T08:35:29+00:00",
@@ -12878,6 +12885,11 @@
   "source": "yt-transcripts",
   "title": "Why everyone got the election wrong (except Bill) #election #trending #shorts"
  },
+ "ytv:3teCJO-xyqo": {
+  "first_seen": "2026-11-28T03:20:36+00:00",
+  "source": "yt-transcripts",
+  "title": "CoinDesk Live at Binance Blockchain Week Day 1"
+ },
  "ytv:3tzsuxfHeAU": {
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
@@ -14877,6 +14889,11 @@
   "first_seen": "2026-11-25T01:50:23+00:00",
   "source": "yt-transcripts",
   "title": "\"Don't Be STUPID!\" Netanyahu Demands US Iran Strikes & Jensen Huang Returns as Nvidia CEO"
+ },
+ "ytv:O72mrEK91tY": {
+  "first_seen": "2026-11-28T03:20:36+00:00",
+  "source": "yt-transcripts",
+  "title": "A wealth tax would 'anti-America': Affirm CEO #shorts"
  },
  "ytv:OAg6_i-ECQU": {
   "first_seen": "2026-11-24T01:35:19+00:00",
