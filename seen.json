@@ -1120,6 +1120,13 @@
     "tries": 6,
     "url": "https://www.youtube.com/watch?v=NhhNU5EHok4"
    },
+   "ZiFWwwTVULY": {
+    "channel": "Timcast IRL",
+    "next": "2026-11-28T01:20:29+00:00",
+    "title": "The UNTOLD STORY of Ian Crossland, From Ground Zero to the Super Bowl",
+    "tries": 1,
+    "url": "https://www.youtube.com/watch?v=ZiFWwwTVULY"
+   },
    "a9hNTHyeBkw": {
     "channel": "Financial Times",
     "next": "2026-11-28T01:40:29+00:00",
@@ -16051,6 +16058,11 @@
   "first_seen": "2026-11-23T22:30:30+00:00",
   "source": "yt-transcripts",
   "title": "The Plan No One in the U.S. Knows About"
+ },
+ "ytv:ZiFWwwTVULY": {
+  "first_seen": "2026-11-28T01:10:29+00:00",
+  "source": "yt-transcripts",
+  "title": "The UNTOLD STORY of Ian Crossland, From Ground Zero to the Super Bowl"
  },
  "ytv:Zng5DkMO8e8": {
   "first_seen": "2026-11-23T22:30:30+00:00",
