@@ -1099,18 +1099,11 @@
    "UCzQUP1qoWDoEbmsQxvdjxgQ"
   ],
   "yt_pending": {
-   "5xc-RxXqrJQ": {
-    "channel": "Washington Post",
-    "next": "2026-11-28T03:10:41+00:00",
-    "title": "Turkey that refused to be on Thanksgiving menu leads police down highway chase",
-    "tries": 6,
-    "url": "https://www.youtube.com/watch?v=5xc-RxXqrJQ"
-   },
    "K4ni72PJtyw": {
     "channel": "Guardian News",
-    "next": "2026-11-28T03:10:28+00:00",
+    "next": "2026-11-28T08:35:29+00:00",
     "title": "Elderly woman on mobility scooter appears to damage neighbour's Christmas lights",
-    "tries": 5,
+    "tries": 6,
     "url": "https://www.youtube.com/watch?v=K4ni72PJtyw"
    },
    "ZiFWwwTVULY": {
@@ -12584,6 +12577,11 @@
   "first_seen": "2026-11-24T01:35:19+00:00",
   "source": "yt-transcripts",
   "title": "Could airplanes make us better people?"
+ },
+ "ytv:17nJazZRPhU": {
+  "first_seen": "2026-11-28T03:15:29+00:00",
+  "source": "yt-transcripts",
+  "title": "Pop music has a massive problem"
  },
  "ytv:1FKSiQ8s4bY": {
   "first_seen": "2026-11-23T22:30:30+00:00",
